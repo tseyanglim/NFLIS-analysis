@@ -1,0 +1,5014 @@
+State,Drug.sample,Year,Total_samples,Fent_present_samples,Percent_fent_cooccurrence
+AK,Cannabinoids,2013,354,0,0
+AK,Cannabinoids,2014,435,0,0
+AK,Cannabinoids,2015,214,0,0
+AK,Cannabinoids,2016,128,0,0
+AK,Cannabinoids,2017,154,0,0
+AK,Cannabinoids,2018,60,0,0
+AK,Cannabinoids,2019,4,0,0
+AK,Cannabinoids,2020,113,0,0
+AK,Cannabinoids,2021,85,0,0
+AK,Cannabinoids,2022,42,0,0
+AK,Cannabinoids,2023,46,0,0
+AK,Club drugs,2013,9,0,0
+AK,Club drugs,2014,8,0,0
+AK,Club drugs,2015,8,0,0
+AK,Club drugs,2016,8,0,0
+AK,Club drugs,2017,4,0,0
+AK,Club drugs,2018,2,0,0
+AK,Club drugs,2020,8,0,0
+AK,Club drugs,2021,4,0,0
+AK,Club drugs,2022,6,0,0
+AK,Club drugs,2023,6,1,16.667
+AK,Cocaine,2013,169,0,0
+AK,Cocaine,2014,115,0,0
+AK,Cocaine,2015,133,0,0
+AK,Cocaine,2016,84,0,0
+AK,Cocaine,2017,92,0,0
+AK,Cocaine,2018,50,0,0
+AK,Cocaine,2019,13,0,0
+AK,Cocaine,2020,77,0,0
+AK,Cocaine,2021,104,1,0.962
+AK,Cocaine,2022,111,0,0
+AK,Cocaine,2023,110,2,1.818
+AK,Hallucinogens,2013,15,0,0
+AK,Hallucinogens,2014,16,0,0
+AK,Hallucinogens,2015,21,0,0
+AK,Hallucinogens,2016,8,0,0
+AK,Hallucinogens,2017,13,0,0
+AK,Hallucinogens,2018,7,0,0
+AK,Hallucinogens,2020,18,0,0
+AK,Hallucinogens,2021,32,0,0
+AK,Hallucinogens,2022,29,0,0
+AK,Hallucinogens,2023,31,0,0
+AK,Heroin,2013,395,0,0
+AK,Heroin,2014,450,0,0
+AK,Heroin,2015,453,0,0
+AK,Heroin,2016,426,3,0.704
+AK,Heroin,2017,433,0,0
+AK,Heroin,2018,233,1,0.429
+AK,Heroin,2019,65,9,13.846
+AK,Heroin,2020,573,15,2.618
+AK,Heroin,2021,624,50,8.013
+AK,Heroin,2022,360,4,1.111
+AK,Heroin,2023,162,6,3.704
+AK,Methamphetamine,2013,645,0,0
+AK,Methamphetamine,2014,568,0,0
+AK,Methamphetamine,2015,633,0,0
+AK,Methamphetamine,2016,646,0,0
+AK,Methamphetamine,2017,689,0,0
+AK,Methamphetamine,2018,380,0,0
+AK,Methamphetamine,2019,113,0,0
+AK,Methamphetamine,2020,808,2,0.248
+AK,Methamphetamine,2021,969,3,0.31
+AK,Methamphetamine,2022,775,4,0.516
+AK,Methamphetamine,2023,725,3,0.414
+AK,Prescription benzodiazepines,2013,21,0,0
+AK,Prescription benzodiazepines,2014,25,0,0
+AK,Prescription benzodiazepines,2015,37,0,0
+AK,Prescription benzodiazepines,2016,42,0,0
+AK,Prescription benzodiazepines,2017,49,0,0
+AK,Prescription benzodiazepines,2018,11,0,0
+AK,Prescription benzodiazepines,2019,2,0,0
+AK,Prescription benzodiazepines,2020,73,0,0
+AK,Prescription benzodiazepines,2021,37,0,0
+AK,Prescription benzodiazepines,2022,31,0,0
+AK,Prescription benzodiazepines,2023,18,0,0
+AK,Prescription opioids,2013,212,0,0
+AK,Prescription opioids,2014,129,0,0
+AK,Prescription opioids,2015,115,0,0
+AK,Prescription opioids,2016,87,0,0
+AK,Prescription opioids,2017,79,0,0
+AK,Prescription opioids,2018,35,0,0
+AK,Prescription opioids,2019,9,0,0
+AK,Prescription opioids,2020,145,1,0.69
+AK,Prescription opioids,2021,110,0,0
+AK,Prescription opioids,2022,88,0,0
+AK,Prescription opioids,2023,90,0,0
+AK,Prescription stimulants,2013,20,0,0
+AK,Prescription stimulants,2014,14,0,0
+AK,Prescription stimulants,2015,12,0,0
+AK,Prescription stimulants,2016,14,0,0
+AK,Prescription stimulants,2017,8,0,0
+AK,Prescription stimulants,2018,4,0,0
+AK,Prescription stimulants,2020,20,0,0
+AK,Prescription stimulants,2021,10,0,0
+AK,Prescription stimulants,2022,10,0,0
+AK,Prescription stimulants,2023,4,0,0
+AL,Cannabinoids,2013,13124,0,0
+AL,Cannabinoids,2014,11170,0,0
+AL,Cannabinoids,2015,9080,0,0
+AL,Cannabinoids,2016,9622,0,0
+AL,Cannabinoids,2017,10440,0,0
+AL,Cannabinoids,2018,11136,1,0.009
+AL,Cannabinoids,2019,11117,2,0.018
+AL,Cannabinoids,2020,10342,0,0
+AL,Cannabinoids,2021,5584,0,0
+AL,Cannabinoids,2022,803,2,0.249
+AL,Cannabinoids,2023,199,1,0.503
+AL,Club drugs,2013,15,0,0
+AL,Club drugs,2014,133,0,0
+AL,Club drugs,2015,204,0,0
+AL,Club drugs,2016,48,0,0
+AL,Club drugs,2017,51,0,0
+AL,Club drugs,2018,58,0,0
+AL,Club drugs,2019,97,10,10.309
+AL,Club drugs,2020,79,2,2.532
+AL,Club drugs,2021,12,0,0
+AL,Club drugs,2022,3,0,0
+AL,Club drugs,2023,11,3,27.273
+AL,Cocaine,2013,3778,0,0
+AL,Cocaine,2014,3547,0,0
+AL,Cocaine,2015,3079,2,0.065
+AL,Cocaine,2016,3157,0,0
+AL,Cocaine,2017,3653,0,0
+AL,Cocaine,2018,3632,3,0.083
+AL,Cocaine,2019,3324,8,0.241
+AL,Cocaine,2020,2650,4,0.151
+AL,Cocaine,2021,1595,7,0.439
+AL,Cocaine,2022,542,17,3.137
+AL,Cocaine,2023,221,17,7.692
+AL,Hallucinogens,2013,18,0,0
+AL,Hallucinogens,2014,24,0,0
+AL,Hallucinogens,2015,48,0,0
+AL,Hallucinogens,2016,25,0,0
+AL,Hallucinogens,2017,55,0,0
+AL,Hallucinogens,2018,61,0,0
+AL,Hallucinogens,2019,91,0,0
+AL,Hallucinogens,2020,116,0,0
+AL,Hallucinogens,2021,49,0,0
+AL,Hallucinogens,2022,13,0,0
+AL,Hallucinogens,2023,2,0,0
+AL,Heroin,2013,742,0,0
+AL,Heroin,2014,1055,3,0.284
+AL,Heroin,2015,1054,10,0.949
+AL,Heroin,2016,1191,12,1.008
+AL,Heroin,2017,1296,30,2.315
+AL,Heroin,2018,1235,89,7.206
+AL,Heroin,2019,1556,137,8.805
+AL,Heroin,2020,1292,216,16.718
+AL,Heroin,2021,233,67,28.755
+AL,Heroin,2022,91,30,32.967
+AL,Heroin,2023,38,20,52.632
+AL,Methamphetamine,2013,2878,0,0
+AL,Methamphetamine,2014,3041,0,0
+AL,Methamphetamine,2015,3816,0,0
+AL,Methamphetamine,2016,5526,0,0
+AL,Methamphetamine,2017,9337,2,0.021
+AL,Methamphetamine,2018,10772,4,0.037
+AL,Methamphetamine,2019,12149,6,0.049
+AL,Methamphetamine,2020,9932,6,0.06
+AL,Methamphetamine,2021,6500,0,0
+AL,Methamphetamine,2022,1854,3,0.162
+AL,Methamphetamine,2023,661,14,2.118
+AL,Prescription benzodiazepines,2013,1637,0,0
+AL,Prescription benzodiazepines,2014,1605,0,0
+AL,Prescription benzodiazepines,2015,1238,0,0
+AL,Prescription benzodiazepines,2016,1488,0,0
+AL,Prescription benzodiazepines,2017,2184,0,0
+AL,Prescription benzodiazepines,2018,1854,0,0
+AL,Prescription benzodiazepines,2019,1310,2,0.153
+AL,Prescription benzodiazepines,2020,1011,1,0.099
+AL,Prescription benzodiazepines,2021,443,0,0
+AL,Prescription benzodiazepines,2022,125,0,0
+AL,Prescription benzodiazepines,2023,30,0,0
+AL,Prescription opioids,2013,3410,0,0
+AL,Prescription opioids,2014,2629,0,0
+AL,Prescription opioids,2015,1830,0,0
+AL,Prescription opioids,2016,2072,2,0.097
+AL,Prescription opioids,2017,2620,0,0
+AL,Prescription opioids,2018,2421,0,0
+AL,Prescription opioids,2019,2584,3,0.116
+AL,Prescription opioids,2020,1898,0,0
+AL,Prescription opioids,2021,1101,1,0.091
+AL,Prescription opioids,2022,361,3,0.831
+AL,Prescription opioids,2023,58,0,0
+AL,Prescription stimulants,2013,315,0,0
+AL,Prescription stimulants,2014,313,0,0
+AL,Prescription stimulants,2015,241,0,0
+AL,Prescription stimulants,2016,351,0,0
+AL,Prescription stimulants,2017,380,0,0
+AL,Prescription stimulants,2018,388,0,0
+AL,Prescription stimulants,2019,418,0,0
+AL,Prescription stimulants,2020,332,0,0
+AL,Prescription stimulants,2021,127,0,0
+AL,Prescription stimulants,2022,22,0,0
+AL,Prescription stimulants,2023,11,0,0
+AR,Cannabinoids,2013,6938,0,0
+AR,Cannabinoids,2014,9611,0,0
+AR,Cannabinoids,2015,8794,0,0
+AR,Cannabinoids,2016,9910,0,0
+AR,Cannabinoids,2017,9500,0,0
+AR,Cannabinoids,2018,8483,0,0
+AR,Cannabinoids,2019,7244,0,0
+AR,Cannabinoids,2020,8140,0,0
+AR,Cannabinoids,2021,7093,0,0
+AR,Cannabinoids,2022,5934,0,0
+AR,Cannabinoids,2023,4865,0,0
+AR,Club drugs,2013,39,0,0
+AR,Club drugs,2014,121,0,0
+AR,Club drugs,2015,137,0,0
+AR,Club drugs,2016,39,0,0
+AR,Club drugs,2017,51,0,0
+AR,Club drugs,2018,104,0,0
+AR,Club drugs,2019,77,1,1.299
+AR,Club drugs,2020,49,0,0
+AR,Club drugs,2021,50,0,0
+AR,Club drugs,2022,47,0,0
+AR,Club drugs,2023,54,0,0
+AR,Cocaine,2013,1471,0,0
+AR,Cocaine,2014,1816,0,0
+AR,Cocaine,2015,1765,0,0
+AR,Cocaine,2016,1787,0,0
+AR,Cocaine,2017,1957,1,0.051
+AR,Cocaine,2018,1596,0,0
+AR,Cocaine,2019,1452,0,0
+AR,Cocaine,2020,998,1,0.1
+AR,Cocaine,2021,1030,1,0.097
+AR,Cocaine,2022,977,7,0.716
+AR,Cocaine,2023,799,3,0.375
+AR,Hallucinogens,2013,167,0,0
+AR,Hallucinogens,2014,253,0,0
+AR,Hallucinogens,2015,225,0,0
+AR,Hallucinogens,2016,238,0,0
+AR,Hallucinogens,2017,248,0,0
+AR,Hallucinogens,2018,254,0,0
+AR,Hallucinogens,2019,268,0,0
+AR,Hallucinogens,2020,236,0,0
+AR,Hallucinogens,2021,294,0,0
+AR,Hallucinogens,2022,234,0,0
+AR,Hallucinogens,2023,224,0,0
+AR,Heroin,2013,21,0,0
+AR,Heroin,2014,106,1,0.943
+AR,Heroin,2015,194,0,0
+AR,Heroin,2016,353,0,0
+AR,Heroin,2017,344,2,0.581
+AR,Heroin,2018,356,4,1.124
+AR,Heroin,2019,366,6,1.639
+AR,Heroin,2020,417,2,0.48
+AR,Heroin,2021,362,16,4.42
+AR,Heroin,2022,138,2,1.449
+AR,Heroin,2023,50,4,8
+AR,Methamphetamine,2013,5493,0,0
+AR,Methamphetamine,2014,9179,0,0
+AR,Methamphetamine,2015,10310,0,0
+AR,Methamphetamine,2016,12717,0,0
+AR,Methamphetamine,2017,14252,0,0
+AR,Methamphetamine,2018,14302,1,0.007
+AR,Methamphetamine,2019,15507,2,0.013
+AR,Methamphetamine,2020,16000,1,0.006
+AR,Methamphetamine,2021,16240,6,0.037
+AR,Methamphetamine,2022,11661,6,0.051
+AR,Methamphetamine,2023,8290,3,0.036
+AR,Prescription benzodiazepines,2013,1260,0,0
+AR,Prescription benzodiazepines,2014,2864,0,0
+AR,Prescription benzodiazepines,2015,3519,0,0
+AR,Prescription benzodiazepines,2016,3610,0,0
+AR,Prescription benzodiazepines,2017,3205,0,0
+AR,Prescription benzodiazepines,2018,2634,0,0
+AR,Prescription benzodiazepines,2019,1687,0,0
+AR,Prescription benzodiazepines,2020,1417,0,0
+AR,Prescription benzodiazepines,2021,839,0,0
+AR,Prescription benzodiazepines,2022,548,0,0
+AR,Prescription benzodiazepines,2023,320,0,0
+AR,Prescription opioids,2013,1966,0,0
+AR,Prescription opioids,2014,3408,0,0
+AR,Prescription opioids,2015,4482,0,0
+AR,Prescription opioids,2016,4343,0,0
+AR,Prescription opioids,2017,4206,0,0
+AR,Prescription opioids,2018,3098,0,0
+AR,Prescription opioids,2019,2369,0,0
+AR,Prescription opioids,2020,1704,0,0
+AR,Prescription opioids,2021,919,0,0
+AR,Prescription opioids,2022,795,0,0
+AR,Prescription opioids,2023,536,0,0
+AR,Prescription stimulants,2013,255,0,0
+AR,Prescription stimulants,2014,446,0,0
+AR,Prescription stimulants,2015,600,0,0
+AR,Prescription stimulants,2016,571,0,0
+AR,Prescription stimulants,2017,644,0,0
+AR,Prescription stimulants,2018,499,0,0
+AR,Prescription stimulants,2019,488,0,0
+AR,Prescription stimulants,2020,417,0,0
+AR,Prescription stimulants,2021,187,1,0.535
+AR,Prescription stimulants,2022,169,0,0
+AR,Prescription stimulants,2023,125,0,0
+AZ,Cannabinoids,2013,13498,0,0
+AZ,Cannabinoids,2014,14246,0,0
+AZ,Cannabinoids,2015,12395,0,0
+AZ,Cannabinoids,2016,11972,0,0
+AZ,Cannabinoids,2017,11036,0,0
+AZ,Cannabinoids,2018,10978,0,0
+AZ,Cannabinoids,2019,10878,1,0.009
+AZ,Cannabinoids,2020,8001,1,0.012
+AZ,Cannabinoids,2021,1425,1,0.07
+AZ,Cannabinoids,2022,1561,0,0
+AZ,Cannabinoids,2023,1057,2,0.189
+AZ,Club drugs,2013,94,0,0
+AZ,Club drugs,2014,133,0,0
+AZ,Club drugs,2015,164,0,0
+AZ,Club drugs,2016,175,0,0
+AZ,Club drugs,2017,171,0,0
+AZ,Club drugs,2018,172,2,1.163
+AZ,Club drugs,2019,175,6,3.429
+AZ,Club drugs,2020,187,2,1.07
+AZ,Club drugs,2021,111,1,0.901
+AZ,Club drugs,2022,111,0,0
+AZ,Club drugs,2023,86,0,0
+AZ,Cocaine,2013,1957,0,0
+AZ,Cocaine,2014,1896,0,0
+AZ,Cocaine,2015,1339,0,0
+AZ,Cocaine,2016,1419,0,0
+AZ,Cocaine,2017,1715,2,0.117
+AZ,Cocaine,2018,1735,1,0.058
+AZ,Cocaine,2019,1594,3,0.188
+AZ,Cocaine,2020,1238,5,0.404
+AZ,Cocaine,2021,1272,8,0.629
+AZ,Cocaine,2022,1376,12,0.872
+AZ,Cocaine,2023,1275,14,1.098
+AZ,Hallucinogens,2013,153,0,0
+AZ,Hallucinogens,2014,213,0,0
+AZ,Hallucinogens,2015,200,0,0
+AZ,Hallucinogens,2016,242,0,0
+AZ,Hallucinogens,2017,281,0,0
+AZ,Hallucinogens,2018,243,0,0
+AZ,Hallucinogens,2019,287,0,0
+AZ,Hallucinogens,2020,389,0,0
+AZ,Hallucinogens,2021,367,0,0
+AZ,Hallucinogens,2022,354,0,0
+AZ,Hallucinogens,2023,346,1,0.289
+AZ,Heroin,2013,3755,0,0
+AZ,Heroin,2014,4886,0,0
+AZ,Heroin,2015,5150,0,0
+AZ,Heroin,2016,4362,10,0.229
+AZ,Heroin,2017,5310,29,0.546
+AZ,Heroin,2018,4153,17,0.409
+AZ,Heroin,2019,3503,25,0.714
+AZ,Heroin,2020,2157,46,2.133
+AZ,Heroin,2021,1101,25,2.271
+AZ,Heroin,2022,666,32,4.805
+AZ,Heroin,2023,404,8,1.98
+AZ,Methamphetamine,2013,7928,0,0
+AZ,Methamphetamine,2014,9150,0,0
+AZ,Methamphetamine,2015,8189,0,0
+AZ,Methamphetamine,2016,8532,4,0.047
+AZ,Methamphetamine,2017,9386,5,0.053
+AZ,Methamphetamine,2018,8754,6,0.069
+AZ,Methamphetamine,2019,8493,36,0.424
+AZ,Methamphetamine,2020,7252,77,1.062
+AZ,Methamphetamine,2021,7944,173,2.178
+AZ,Methamphetamine,2022,7667,200,2.609
+AZ,Methamphetamine,2023,6378,168,2.634
+AZ,Prescription benzodiazepines,2013,1157,0,0
+AZ,Prescription benzodiazepines,2014,1255,0,0
+AZ,Prescription benzodiazepines,2015,1387,0,0
+AZ,Prescription benzodiazepines,2016,1434,1,0.07
+AZ,Prescription benzodiazepines,2017,1383,0,0
+AZ,Prescription benzodiazepines,2018,1172,0,0
+AZ,Prescription benzodiazepines,2019,1068,3,0.281
+AZ,Prescription benzodiazepines,2020,1022,1,0.098
+AZ,Prescription benzodiazepines,2021,901,5,0.555
+AZ,Prescription benzodiazepines,2022,902,0,0
+AZ,Prescription benzodiazepines,2023,661,4,0.605
+AZ,Prescription opioids,2013,2035,0,0
+AZ,Prescription opioids,2014,2061,0,0
+AZ,Prescription opioids,2015,1973,0,0
+AZ,Prescription opioids,2016,1553,0,0
+AZ,Prescription opioids,2017,1359,1,0.074
+AZ,Prescription opioids,2018,1155,0,0
+AZ,Prescription opioids,2019,913,2,0.219
+AZ,Prescription opioids,2020,812,0,0
+AZ,Prescription opioids,2021,580,0,0
+AZ,Prescription opioids,2022,602,0,0
+AZ,Prescription opioids,2023,443,1,0.226
+AZ,Prescription stimulants,2013,190,0,0
+AZ,Prescription stimulants,2014,233,0,0
+AZ,Prescription stimulants,2015,188,0,0
+AZ,Prescription stimulants,2016,232,0,0
+AZ,Prescription stimulants,2017,203,0,0
+AZ,Prescription stimulants,2018,176,0,0
+AZ,Prescription stimulants,2019,220,0,0
+AZ,Prescription stimulants,2020,221,0,0
+AZ,Prescription stimulants,2021,152,0,0
+AZ,Prescription stimulants,2022,121,0,0
+AZ,Prescription stimulants,2023,96,1,1.042
+CA,Cannabinoids,2013,25259,0,0
+CA,Cannabinoids,2014,22437,0,0
+CA,Cannabinoids,2015,18386,0,0
+CA,Cannabinoids,2016,19242,0,0
+CA,Cannabinoids,2017,10017,0,0
+CA,Cannabinoids,2018,8873,0,0
+CA,Cannabinoids,2019,10277,3,0.029
+CA,Cannabinoids,2020,8433,2,0.024
+CA,Cannabinoids,2021,7255,3,0.041
+CA,Cannabinoids,2022,5422,10,0.184
+CA,Cannabinoids,2023,4374,3,0.069
+CA,Club drugs,2013,1029,0,0
+CA,Club drugs,2014,1455,0,0
+CA,Club drugs,2015,1357,0,0
+CA,Club drugs,2016,1486,1,0.067
+CA,Club drugs,2017,1014,9,0.888
+CA,Club drugs,2018,1175,23,1.957
+CA,Club drugs,2019,1494,27,1.807
+CA,Club drugs,2020,1359,13,0.957
+CA,Club drugs,2021,1074,12,1.117
+CA,Club drugs,2022,660,6,0.909
+CA,Club drugs,2023,643,1,0.156
+CA,Cocaine,2013,14640,0,0
+CA,Cocaine,2014,12428,0,0
+CA,Cocaine,2015,9931,0,0
+CA,Cocaine,2016,10765,0,0
+CA,Cocaine,2017,10994,10,0.091
+CA,Cocaine,2018,10595,18,0.17
+CA,Cocaine,2019,10908,34,0.312
+CA,Cocaine,2020,9297,65,0.699
+CA,Cocaine,2021,7996,69,0.863
+CA,Cocaine,2022,6656,55,0.826
+CA,Cocaine,2023,6913,64,0.926
+CA,Hallucinogens,2013,906,0,0
+CA,Hallucinogens,2014,930,0,0
+CA,Hallucinogens,2015,890,0,0
+CA,Hallucinogens,2016,860,0,0
+CA,Hallucinogens,2017,913,0,0
+CA,Hallucinogens,2018,862,0,0
+CA,Hallucinogens,2019,1139,0,0
+CA,Hallucinogens,2020,1332,6,0.45
+CA,Hallucinogens,2021,1431,5,0.349
+CA,Hallucinogens,2022,1076,3,0.279
+CA,Hallucinogens,2023,1078,1,0.093
+CA,Heroin,2013,10552,0,0
+CA,Heroin,2014,10634,2,0.019
+CA,Heroin,2015,11141,8,0.072
+CA,Heroin,2016,13544,44,0.325
+CA,Heroin,2017,12952,153,1.181
+CA,Heroin,2018,15087,257,1.703
+CA,Heroin,2019,17880,375,2.097
+CA,Heroin,2020,17148,361,2.105
+CA,Heroin,2021,11032,273,2.475
+CA,Heroin,2022,4005,154,3.845
+CA,Heroin,2023,2746,101,3.678
+CA,Methamphetamine,2013,62595,0,0
+CA,Methamphetamine,2014,62573,0,0
+CA,Methamphetamine,2015,60449,1,0.002
+CA,Methamphetamine,2016,68743,4,0.006
+CA,Methamphetamine,2017,65141,20,0.031
+CA,Methamphetamine,2018,70924,55,0.078
+CA,Methamphetamine,2019,73140,80,0.109
+CA,Methamphetamine,2020,75497,196,0.26
+CA,Methamphetamine,2021,67887,283,0.417
+CA,Methamphetamine,2022,48280,239,0.495
+CA,Methamphetamine,2023,41994,180,0.429
+CA,Prescription benzodiazepines,2013,1805,0,0
+CA,Prescription benzodiazepines,2014,2232,0,0
+CA,Prescription benzodiazepines,2015,2478,0,0
+CA,Prescription benzodiazepines,2016,3411,5,0.147
+CA,Prescription benzodiazepines,2017,3101,7,0.226
+CA,Prescription benzodiazepines,2018,2896,9,0.311
+CA,Prescription benzodiazepines,2019,2215,2,0.09
+CA,Prescription benzodiazepines,2020,2668,10,0.375
+CA,Prescription benzodiazepines,2021,2333,20,0.857
+CA,Prescription benzodiazepines,2022,1110,13,1.171
+CA,Prescription benzodiazepines,2023,1006,6,0.596
+CA,Prescription opioids,2013,5202,0,0
+CA,Prescription opioids,2014,4596,0,0
+CA,Prescription opioids,2015,3111,0,0
+CA,Prescription opioids,2016,3090,5,0.162
+CA,Prescription opioids,2017,2577,6,0.233
+CA,Prescription opioids,2018,2262,25,1.105
+CA,Prescription opioids,2019,2484,48,1.932
+CA,Prescription opioids,2020,2600,49,1.885
+CA,Prescription opioids,2021,1875,57,3.04
+CA,Prescription opioids,2022,1249,58,4.644
+CA,Prescription opioids,2023,1027,55,5.355
+CA,Prescription stimulants,2013,394,0,0
+CA,Prescription stimulants,2014,450,0,0
+CA,Prescription stimulants,2015,357,0,0
+CA,Prescription stimulants,2016,369,0,0
+CA,Prescription stimulants,2017,339,0,0
+CA,Prescription stimulants,2018,356,0,0
+CA,Prescription stimulants,2019,285,2,0.702
+CA,Prescription stimulants,2020,264,2,0.758
+CA,Prescription stimulants,2021,147,1,0.68
+CA,Prescription stimulants,2022,135,1,0.741
+CA,Prescription stimulants,2023,100,0,0
+CO,Cannabinoids,2013,1989,0,0
+CO,Cannabinoids,2014,2220,0,0
+CO,Cannabinoids,2015,2524,0,0
+CO,Cannabinoids,2016,5159,0,0
+CO,Cannabinoids,2017,2895,0,0
+CO,Cannabinoids,2018,2776,0,0
+CO,Cannabinoids,2019,1878,0,0
+CO,Cannabinoids,2020,2127,0,0
+CO,Cannabinoids,2021,1665,1,0.06
+CO,Cannabinoids,2022,1022,3,0.294
+CO,Cannabinoids,2023,267,0,0
+CO,Club drugs,2013,125,0,0
+CO,Club drugs,2014,199,0,0
+CO,Club drugs,2015,304,0,0
+CO,Club drugs,2016,218,0,0
+CO,Club drugs,2017,236,0,0
+CO,Club drugs,2018,308,0,0
+CO,Club drugs,2019,277,0,0
+CO,Club drugs,2020,220,1,0.455
+CO,Club drugs,2021,204,1,0.49
+CO,Club drugs,2022,138,0,0
+CO,Club drugs,2023,73,0,0
+CO,Cocaine,2013,2758,0,0
+CO,Cocaine,2014,2135,0,0
+CO,Cocaine,2015,2020,0,0
+CO,Cocaine,2016,2549,0,0
+CO,Cocaine,2017,2437,0,0
+CO,Cocaine,2018,2392,0,0
+CO,Cocaine,2019,2256,2,0.089
+CO,Cocaine,2020,1478,0,0
+CO,Cocaine,2021,1299,6,0.462
+CO,Cocaine,2022,1152,7,0.608
+CO,Cocaine,2023,633,3,0.474
+CO,Hallucinogens,2013,175,0,0
+CO,Hallucinogens,2014,194,0,0
+CO,Hallucinogens,2015,286,0,0
+CO,Hallucinogens,2016,241,0,0
+CO,Hallucinogens,2017,292,0,0
+CO,Hallucinogens,2018,303,0,0
+CO,Hallucinogens,2019,375,0,0
+CO,Hallucinogens,2020,333,0,0
+CO,Hallucinogens,2021,351,0,0
+CO,Hallucinogens,2022,278,0,0
+CO,Hallucinogens,2023,63,0,0
+CO,Heroin,2013,1442,0,0
+CO,Heroin,2014,1824,0,0
+CO,Heroin,2015,2192,0,0
+CO,Heroin,2016,2500,4,0.16
+CO,Heroin,2017,2471,12,0.486
+CO,Heroin,2018,2520,19,0.754
+CO,Heroin,2019,2632,20,0.76
+CO,Heroin,2020,1774,10,0.564
+CO,Heroin,2021,1310,36,2.748
+CO,Heroin,2022,521,16,3.071
+CO,Heroin,2023,196,7,3.571
+CO,Methamphetamine,2013,3605,0,0
+CO,Methamphetamine,2014,4058,0,0
+CO,Methamphetamine,2015,4588,0,0
+CO,Methamphetamine,2016,5656,0,0
+CO,Methamphetamine,2017,6422,2,0.031
+CO,Methamphetamine,2018,6714,5,0.074
+CO,Methamphetamine,2019,6977,7,0.1
+CO,Methamphetamine,2020,4654,4,0.086
+CO,Methamphetamine,2021,4937,43,0.871
+CO,Methamphetamine,2022,3655,46,1.259
+CO,Methamphetamine,2023,1988,28,1.408
+CO,Prescription benzodiazepines,2013,351,0,0
+CO,Prescription benzodiazepines,2014,364,0,0
+CO,Prescription benzodiazepines,2015,393,0,0
+CO,Prescription benzodiazepines,2016,475,0,0
+CO,Prescription benzodiazepines,2017,418,0,0
+CO,Prescription benzodiazepines,2018,363,0,0
+CO,Prescription benzodiazepines,2019,368,0,0
+CO,Prescription benzodiazepines,2020,238,0,0
+CO,Prescription benzodiazepines,2021,266,0,0
+CO,Prescription benzodiazepines,2022,180,1,0.556
+CO,Prescription benzodiazepines,2023,77,1,1.299
+CO,Prescription opioids,2013,748,0,0
+CO,Prescription opioids,2014,727,1,0.138
+CO,Prescription opioids,2015,652,0,0
+CO,Prescription opioids,2016,598,0,0
+CO,Prescription opioids,2017,512,1,0.195
+CO,Prescription opioids,2018,461,0,0
+CO,Prescription opioids,2019,477,0,0
+CO,Prescription opioids,2020,431,1,0.232
+CO,Prescription opioids,2021,329,2,0.608
+CO,Prescription opioids,2022,280,34,12.143
+CO,Prescription opioids,2023,149,32,21.477
+CO,Prescription stimulants,2013,106,0,0
+CO,Prescription stimulants,2014,124,0,0
+CO,Prescription stimulants,2015,113,0,0
+CO,Prescription stimulants,2016,125,1,0.8
+CO,Prescription stimulants,2017,94,0,0
+CO,Prescription stimulants,2018,114,0,0
+CO,Prescription stimulants,2019,121,0,0
+CO,Prescription stimulants,2020,96,0,0
+CO,Prescription stimulants,2021,88,0,0
+CO,Prescription stimulants,2022,79,0,0
+CO,Prescription stimulants,2023,29,0,0
+CT,Cannabinoids,2013,278,0,0
+CT,Cannabinoids,2014,188,0,0
+CT,Cannabinoids,2015,242,0,0
+CT,Cannabinoids,2016,239,2,0.837
+CT,Cannabinoids,2017,273,0,0
+CT,Cannabinoids,2018,266,0,0
+CT,Cannabinoids,2019,221,1,0.452
+CT,Cannabinoids,2020,104,0,0
+CT,Cannabinoids,2021,183,4,2.186
+CT,Cannabinoids,2022,267,4,1.498
+CT,Cannabinoids,2023,147,3,2.041
+CT,Club drugs,2013,7,0,0
+CT,Club drugs,2014,12,0,0
+CT,Club drugs,2015,27,0,0
+CT,Club drugs,2016,30,1,3.333
+CT,Club drugs,2017,41,20,48.78
+CT,Club drugs,2018,14,2,14.286
+CT,Club drugs,2019,30,19,63.333
+CT,Club drugs,2020,9,3,33.333
+CT,Club drugs,2021,2,0,0
+CT,Club drugs,2022,21,10,47.619
+CT,Club drugs,2023,4,1,25
+CT,Cocaine,2013,399,1,0.251
+CT,Cocaine,2014,396,1,0.253
+CT,Cocaine,2015,422,4,0.948
+CT,Cocaine,2016,414,22,5.314
+CT,Cocaine,2017,408,25,6.127
+CT,Cocaine,2018,562,32,5.694
+CT,Cocaine,2019,507,30,5.917
+CT,Cocaine,2020,378,22,5.82
+CT,Cocaine,2021,459,51,11.111
+CT,Cocaine,2022,540,61,11.296
+CT,Cocaine,2023,352,24,6.818
+CT,Hallucinogens,2013,53,0,0
+CT,Hallucinogens,2014,23,0,0
+CT,Hallucinogens,2015,29,0,0
+CT,Hallucinogens,2016,50,0,0
+CT,Hallucinogens,2017,46,0,0
+CT,Hallucinogens,2018,19,0,0
+CT,Hallucinogens,2019,34,0,0
+CT,Hallucinogens,2020,12,1,8.333
+CT,Hallucinogens,2021,18,0,0
+CT,Hallucinogens,2022,21,3,14.286
+CT,Hallucinogens,2023,21,0,0
+CT,Heroin,2013,204,1,0.49
+CT,Heroin,2014,384,8,2.083
+CT,Heroin,2015,472,33,6.992
+CT,Heroin,2016,600,149,24.833
+CT,Heroin,2017,680,311,45.735
+CT,Heroin,2018,531,244,45.951
+CT,Heroin,2019,465,292,62.796
+CT,Heroin,2020,221,149,67.421
+CT,Heroin,2021,148,129,87.162
+CT,Heroin,2022,229,201,87.773
+CT,Heroin,2023,198,188,94.949
+CT,Methamphetamine,2013,6,0,0
+CT,Methamphetamine,2014,5,0,0
+CT,Methamphetamine,2015,25,0,0
+CT,Methamphetamine,2016,33,0,0
+CT,Methamphetamine,2017,27,5,18.519
+CT,Methamphetamine,2018,36,4,11.111
+CT,Methamphetamine,2019,39,2,5.128
+CT,Methamphetamine,2020,37,0,0
+CT,Methamphetamine,2021,126,0,0
+CT,Methamphetamine,2022,153,3,1.961
+CT,Methamphetamine,2023,127,2,1.575
+CT,Prescription benzodiazepines,2013,9,0,0
+CT,Prescription benzodiazepines,2014,12,0,0
+CT,Prescription benzodiazepines,2015,26,0,0
+CT,Prescription benzodiazepines,2016,30,0,0
+CT,Prescription benzodiazepines,2017,36,0,0
+CT,Prescription benzodiazepines,2018,35,0,0
+CT,Prescription benzodiazepines,2019,19,0,0
+CT,Prescription benzodiazepines,2020,15,0,0
+CT,Prescription benzodiazepines,2021,15,0,0
+CT,Prescription benzodiazepines,2022,20,5,25
+CT,Prescription benzodiazepines,2023,7,0,0
+CT,Prescription opioids,2013,87,0,0
+CT,Prescription opioids,2014,59,0,0
+CT,Prescription opioids,2015,48,2,4.167
+CT,Prescription opioids,2016,100,10,10
+CT,Prescription opioids,2017,73,3,4.11
+CT,Prescription opioids,2018,80,4,5
+CT,Prescription opioids,2019,60,1,1.667
+CT,Prescription opioids,2020,81,1,1.235
+CT,Prescription opioids,2021,53,1,1.887
+CT,Prescription opioids,2022,55,4,7.273
+CT,Prescription opioids,2023,26,0,0
+CT,Prescription stimulants,2013,12,0,0
+CT,Prescription stimulants,2014,1,0,0
+CT,Prescription stimulants,2015,9,0,0
+CT,Prescription stimulants,2016,13,0,0
+CT,Prescription stimulants,2017,6,0,0
+CT,Prescription stimulants,2018,10,0,0
+CT,Prescription stimulants,2019,5,0,0
+CT,Prescription stimulants,2020,4,0,0
+CT,Prescription stimulants,2021,9,0,0
+CT,Prescription stimulants,2022,5,0,0
+CT,Prescription stimulants,2023,11,0,0
+DC,Cannabinoids,2013,1264,0,0
+DC,Cannabinoids,2014,531,0,0
+DC,Cannabinoids,2015,161,0,0
+DC,Cannabinoids,2016,373,0,0
+DC,Cannabinoids,2017,621,0,0
+DC,Cannabinoids,2018,145,0,0
+DC,Cannabinoids,2019,55,0,0
+DC,Cannabinoids,2020,56,2,3.571
+DC,Cannabinoids,2021,36,0,0
+DC,Cannabinoids,2022,47,1,2.128
+DC,Cannabinoids,2023,6,0,0
+DC,Club drugs,2013,37,0,0
+DC,Club drugs,2014,12,0,0
+DC,Club drugs,2015,48,0,0
+DC,Club drugs,2016,34,0,0
+DC,Club drugs,2017,27,0,0
+DC,Club drugs,2018,2,0,0
+DC,Club drugs,2019,7,0,0
+DC,Club drugs,2021,4,0,0
+DC,Club drugs,2022,1,0,0
+DC,Club drugs,2023,2,0,0
+DC,Cocaine,2013,710,0,0
+DC,Cocaine,2014,370,0,0
+DC,Cocaine,2015,351,0,0
+DC,Cocaine,2016,716,3,0.419
+DC,Cocaine,2017,671,5,0.745
+DC,Cocaine,2018,174,3,1.724
+DC,Cocaine,2019,230,4,1.739
+DC,Cocaine,2020,187,5,2.674
+DC,Cocaine,2021,111,9,8.108
+DC,Cocaine,2022,193,17,8.808
+DC,Cocaine,2023,155,3,1.935
+DC,Hallucinogens,2013,271,0,0
+DC,Hallucinogens,2014,141,0,0
+DC,Hallucinogens,2015,124,0,0
+DC,Hallucinogens,2016,247,0,0
+DC,Hallucinogens,2017,193,0,0
+DC,Hallucinogens,2018,26,0,0
+DC,Hallucinogens,2019,10,0,0
+DC,Hallucinogens,2020,8,0,0
+DC,Hallucinogens,2021,5,0,0
+DC,Hallucinogens,2022,7,0,0
+DC,Hallucinogens,2023,18,0,0
+DC,Heroin,2013,317,0,0
+DC,Heroin,2014,205,6,2.927
+DC,Heroin,2015,241,9,3.734
+DC,Heroin,2016,392,86,21.939
+DC,Heroin,2017,348,118,33.908
+DC,Heroin,2018,163,66,40.491
+DC,Heroin,2019,182,85,46.703
+DC,Heroin,2020,77,57,74.026
+DC,Heroin,2021,41,31,75.61
+DC,Heroin,2022,10,6,60
+DC,Heroin,2023,20,17,85
+DC,Methamphetamine,2013,29,0,0
+DC,Methamphetamine,2014,32,1,3.125
+DC,Methamphetamine,2015,63,0,0
+DC,Methamphetamine,2016,103,2,1.942
+DC,Methamphetamine,2017,75,5,6.667
+DC,Methamphetamine,2018,35,1,2.857
+DC,Methamphetamine,2019,147,0,0
+DC,Methamphetamine,2020,50,4,8
+DC,Methamphetamine,2021,58,0,0
+DC,Methamphetamine,2022,11,0,0
+DC,Methamphetamine,2023,5,0,0
+DC,Prescription benzodiazepines,2013,23,0,0
+DC,Prescription benzodiazepines,2014,16,0,0
+DC,Prescription benzodiazepines,2015,19,0,0
+DC,Prescription benzodiazepines,2016,57,0,0
+DC,Prescription benzodiazepines,2017,40,0,0
+DC,Prescription benzodiazepines,2018,6,0,0
+DC,Prescription benzodiazepines,2019,11,0,0
+DC,Prescription benzodiazepines,2020,1,0,0
+DC,Prescription benzodiazepines,2022,7,0,0
+DC,Prescription benzodiazepines,2023,10,0,0
+DC,Prescription opioids,2013,107,0,0
+DC,Prescription opioids,2014,56,0,0
+DC,Prescription opioids,2015,21,0,0
+DC,Prescription opioids,2016,98,0,0
+DC,Prescription opioids,2017,111,0,0
+DC,Prescription opioids,2018,39,0,0
+DC,Prescription opioids,2019,16,0,0
+DC,Prescription opioids,2020,18,0,0
+DC,Prescription opioids,2021,5,0,0
+DC,Prescription opioids,2022,23,0,0
+DC,Prescription opioids,2023,16,0,0
+DC,Prescription stimulants,2013,10,0,0
+DC,Prescription stimulants,2014,3,0,0
+DC,Prescription stimulants,2015,5,0,0
+DC,Prescription stimulants,2016,8,0,0
+DC,Prescription stimulants,2017,6,0,0
+DC,Prescription stimulants,2018,1,0,0
+DC,Prescription stimulants,2019,1,0,0
+DC,Prescription stimulants,2022,2,0,0
+DC,Prescription stimulants,2023,4,0,0
+DE,Cannabinoids,2013,455,0,0
+DE,Cannabinoids,2014,18,0,0
+DE,Cannabinoids,2015,10,0,0
+DE,Cannabinoids,2016,9,0,0
+DE,Cannabinoids,2017,14,0,0
+DE,Cannabinoids,2018,5,0,0
+DE,Cannabinoids,2019,2,0,0
+DE,Cannabinoids,2020,1,0,0
+DE,Cannabinoids,2021,3,0,0
+DE,Club drugs,2014,1,0,0
+DE,Club drugs,2015,13,0,0
+DE,Club drugs,2016,9,0,0
+DE,Club drugs,2017,14,0,0
+DE,Club drugs,2018,17,0,0
+DE,Club drugs,2019,2,1,50
+DE,Cocaine,2013,401,0,0
+DE,Cocaine,2014,54,0,0
+DE,Cocaine,2015,302,0,0
+DE,Cocaine,2016,194,0,0
+DE,Cocaine,2017,479,0,0
+DE,Cocaine,2018,782,0,0
+DE,Cocaine,2019,45,0,0
+DE,Cocaine,2020,27,0,0
+DE,Cocaine,2021,30,0,0
+DE,Cocaine,2022,43,0,0
+DE,Cocaine,2023,32,4,12.5
+DE,Hallucinogens,2013,8,0,0
+DE,Hallucinogens,2014,1,0,0
+DE,Hallucinogens,2015,2,0,0
+DE,Hallucinogens,2016,8,0,0
+DE,Hallucinogens,2017,17,0,0
+DE,Hallucinogens,2018,25,0,0
+DE,Hallucinogens,2020,8,0,0
+DE,Heroin,2013,1091,0,0
+DE,Heroin,2014,175,2,1.143
+DE,Heroin,2015,795,0,0
+DE,Heroin,2016,1103,13,1.179
+DE,Heroin,2017,1058,39,3.686
+DE,Heroin,2018,925,36,3.892
+DE,Heroin,2019,44,42,95.455
+DE,Heroin,2020,10,3,30
+DE,Heroin,2021,2,1,50
+DE,Heroin,2022,16,15,93.75
+DE,Heroin,2023,20,19,95
+DE,Methamphetamine,2013,23,0,0
+DE,Methamphetamine,2014,4,0,0
+DE,Methamphetamine,2015,10,0,0
+DE,Methamphetamine,2016,29,1,3.448
+DE,Methamphetamine,2017,68,0,0
+DE,Methamphetamine,2018,180,0,0
+DE,Methamphetamine,2019,29,0,0
+DE,Methamphetamine,2020,51,0,0
+DE,Methamphetamine,2021,33,0,0
+DE,Methamphetamine,2022,29,0,0
+DE,Methamphetamine,2023,22,0,0
+DE,Prescription benzodiazepines,2013,126,0,0
+DE,Prescription benzodiazepines,2014,7,0,0
+DE,Prescription benzodiazepines,2015,72,0,0
+DE,Prescription benzodiazepines,2016,101,0,0
+DE,Prescription benzodiazepines,2017,99,0,0
+DE,Prescription benzodiazepines,2018,56,0,0
+DE,Prescription benzodiazepines,2021,2,0,0
+DE,Prescription benzodiazepines,2022,1,0,0
+DE,Prescription opioids,2013,269,0,0
+DE,Prescription opioids,2014,40,0,0
+DE,Prescription opioids,2015,163,0,0
+DE,Prescription opioids,2016,176,0,0
+DE,Prescription opioids,2017,178,0,0
+DE,Prescription opioids,2018,330,0,0
+DE,Prescription opioids,2019,2,0,0
+DE,Prescription opioids,2020,23,0,0
+DE,Prescription opioids,2021,9,0,0
+DE,Prescription opioids,2023,1,0,0
+DE,Prescription stimulants,2013,41,0,0
+DE,Prescription stimulants,2014,2,0,0
+DE,Prescription stimulants,2015,15,0,0
+DE,Prescription stimulants,2016,14,0,0
+DE,Prescription stimulants,2017,28,0,0
+DE,Prescription stimulants,2018,39,0,0
+DE,Prescription stimulants,2019,1,0,0
+DE,Prescription stimulants,2020,5,0,0
+DE,Prescription stimulants,2021,4,0,0
+FL,Cannabinoids,2013,12903,0,0
+FL,Cannabinoids,2014,11656,0,0
+FL,Cannabinoids,2015,10609,1,0.009
+FL,Cannabinoids,2016,9833,1,0.01
+FL,Cannabinoids,2017,10014,6,0.06
+FL,Cannabinoids,2018,13279,5,0.038
+FL,Cannabinoids,2019,10822,3,0.028
+FL,Cannabinoids,2020,4489,5,0.111
+FL,Cannabinoids,2021,5600,6,0.107
+FL,Cannabinoids,2022,5521,3,0.054
+FL,Cannabinoids,2023,5109,3,0.059
+FL,Club drugs,2013,193,0,0
+FL,Club drugs,2014,1825,0,0
+FL,Club drugs,2015,2480,10,0.403
+FL,Club drugs,2016,645,4,0.62
+FL,Club drugs,2017,594,26,4.377
+FL,Club drugs,2018,648,25,3.858
+FL,Club drugs,2019,816,23,2.819
+FL,Club drugs,2020,697,66,9.469
+FL,Club drugs,2021,690,24,3.478
+FL,Club drugs,2022,897,9,1.003
+FL,Club drugs,2023,1015,9,0.887
+FL,Cocaine,2013,24877,1,0.004
+FL,Cocaine,2014,22460,6,0.027
+FL,Cocaine,2015,20839,26,0.125
+FL,Cocaine,2016,20320,139,0.684
+FL,Cocaine,2017,20211,141,0.698
+FL,Cocaine,2018,21462,183,0.853
+FL,Cocaine,2019,19238,298,1.549
+FL,Cocaine,2020,14695,204,1.388
+FL,Cocaine,2021,16731,162,0.968
+FL,Cocaine,2022,14615,152,1.04
+FL,Cocaine,2023,13092,161,1.23
+FL,Hallucinogens,2013,213,0,0
+FL,Hallucinogens,2014,228,0,0
+FL,Hallucinogens,2015,275,0,0
+FL,Hallucinogens,2016,276,0,0
+FL,Hallucinogens,2017,298,0,0
+FL,Hallucinogens,2018,345,0,0
+FL,Hallucinogens,2019,413,0,0
+FL,Hallucinogens,2020,328,0,0
+FL,Hallucinogens,2021,409,1,0.244
+FL,Hallucinogens,2022,330,0,0
+FL,Hallucinogens,2023,407,0,0
+FL,Heroin,2013,2186,7,0.32
+FL,Heroin,2014,3599,152,4.223
+FL,Heroin,2015,4993,307,6.149
+FL,Heroin,2016,5649,844,14.941
+FL,Heroin,2017,5296,1127,21.28
+FL,Heroin,2018,5398,1659,30.734
+FL,Heroin,2019,4830,1409,29.172
+FL,Heroin,2020,2852,946,33.17
+FL,Heroin,2021,1395,545,39.068
+FL,Heroin,2022,673,299,44.428
+FL,Heroin,2023,317,153,48.265
+FL,Methamphetamine,2013,3646,0,0
+FL,Methamphetamine,2014,4464,1,0.022
+FL,Methamphetamine,2015,5341,4,0.075
+FL,Methamphetamine,2016,7556,15,0.199
+FL,Methamphetamine,2017,10105,37,0.366
+FL,Methamphetamine,2018,13506,46,0.341
+FL,Methamphetamine,2019,15170,97,0.639
+FL,Methamphetamine,2020,15728,121,0.769
+FL,Methamphetamine,2021,17397,127,0.73
+FL,Methamphetamine,2022,14885,128,0.86
+FL,Methamphetamine,2023,12712,107,0.842
+FL,Prescription benzodiazepines,2013,3229,0,0
+FL,Prescription benzodiazepines,2014,3924,0,0
+FL,Prescription benzodiazepines,2015,4292,1,0.023
+FL,Prescription benzodiazepines,2016,4413,24,0.544
+FL,Prescription benzodiazepines,2017,4035,1,0.025
+FL,Prescription benzodiazepines,2018,4099,15,0.366
+FL,Prescription benzodiazepines,2019,2840,3,0.106
+FL,Prescription benzodiazepines,2020,1946,0,0
+FL,Prescription benzodiazepines,2021,1689,2,0.118
+FL,Prescription benzodiazepines,2022,1333,3,0.225
+FL,Prescription benzodiazepines,2023,1113,2,0.18
+FL,Prescription opioids,2013,7691,0,0
+FL,Prescription opioids,2014,7486,1,0.013
+FL,Prescription opioids,2015,5905,7,0.119
+FL,Prescription opioids,2016,5478,10,0.183
+FL,Prescription opioids,2017,5691,14,0.246
+FL,Prescription opioids,2018,5233,20,0.382
+FL,Prescription opioids,2019,4378,17,0.388
+FL,Prescription opioids,2020,3405,27,0.793
+FL,Prescription opioids,2021,3320,16,0.482
+FL,Prescription opioids,2022,2809,10,0.356
+FL,Prescription opioids,2023,2287,5,0.219
+FL,Prescription stimulants,2013,417,0,0
+FL,Prescription stimulants,2014,559,0,0
+FL,Prescription stimulants,2015,530,0,0
+FL,Prescription stimulants,2016,646,0,0
+FL,Prescription stimulants,2017,629,0,0
+FL,Prescription stimulants,2018,735,0,0
+FL,Prescription stimulants,2019,685,1,0.146
+FL,Prescription stimulants,2020,588,0,0
+FL,Prescription stimulants,2021,595,1,0.168
+FL,Prescription stimulants,2022,558,0,0
+FL,Prescription stimulants,2023,419,0,0
+GA,Cannabinoids,2013,768,0,0
+GA,Cannabinoids,2014,868,0,0
+GA,Cannabinoids,2015,1036,0,0
+GA,Cannabinoids,2016,807,0,0
+GA,Cannabinoids,2017,510,1,0.196
+GA,Cannabinoids,2018,727,0,0
+GA,Cannabinoids,2019,2445,0,0
+GA,Cannabinoids,2020,3373,0,0
+GA,Cannabinoids,2021,3971,0,0
+GA,Cannabinoids,2022,2681,0,0
+GA,Cannabinoids,2023,4439,0,0
+GA,Club drugs,2013,119,0,0
+GA,Club drugs,2014,725,0,0
+GA,Club drugs,2015,1121,0,0
+GA,Club drugs,2016,286,0,0
+GA,Club drugs,2017,135,0,0
+GA,Club drugs,2018,106,0,0
+GA,Club drugs,2019,139,1,0.719
+GA,Club drugs,2020,150,0,0
+GA,Club drugs,2021,91,0,0
+GA,Club drugs,2022,51,0,0
+GA,Club drugs,2023,87,0,0
+GA,Cocaine,2013,8265,0,0
+GA,Cocaine,2014,7753,2,0.026
+GA,Cocaine,2015,7179,1,0.014
+GA,Cocaine,2016,6642,1,0.015
+GA,Cocaine,2017,6973,1,0.014
+GA,Cocaine,2018,6027,0,0
+GA,Cocaine,2019,5645,1,0.018
+GA,Cocaine,2020,3903,7,0.179
+GA,Cocaine,2021,4230,10,0.236
+GA,Cocaine,2022,2559,8,0.313
+GA,Cocaine,2023,2933,6,0.205
+GA,Hallucinogens,2013,191,0,0
+GA,Hallucinogens,2014,233,0,0
+GA,Hallucinogens,2015,263,0,0
+GA,Hallucinogens,2016,271,0,0
+GA,Hallucinogens,2017,239,0,0
+GA,Hallucinogens,2018,178,0,0
+GA,Hallucinogens,2019,155,0,0
+GA,Hallucinogens,2020,242,0,0
+GA,Hallucinogens,2021,289,0,0
+GA,Hallucinogens,2022,216,0,0
+GA,Hallucinogens,2023,400,0,0
+GA,Heroin,2013,1080,0,0
+GA,Heroin,2014,1281,15,1.171
+GA,Heroin,2015,1532,28,1.828
+GA,Heroin,2016,1562,9,0.576
+GA,Heroin,2017,1451,14,0.965
+GA,Heroin,2018,1333,24,1.8
+GA,Heroin,2019,1537,33,2.147
+GA,Heroin,2020,1630,89,5.46
+GA,Heroin,2021,1250,81,6.48
+GA,Heroin,2022,320,23,7.187
+GA,Heroin,2023,132,18,13.636
+GA,Methamphetamine,2013,9315,0,0
+GA,Methamphetamine,2014,11815,1,0.008
+GA,Methamphetamine,2015,13133,0,0
+GA,Methamphetamine,2016,14269,2,0.014
+GA,Methamphetamine,2017,16610,2,0.012
+GA,Methamphetamine,2018,19209,1,0.005
+GA,Methamphetamine,2019,19915,2,0.01
+GA,Methamphetamine,2020,16656,8,0.048
+GA,Methamphetamine,2021,16556,10,0.06
+GA,Methamphetamine,2022,9726,14,0.144
+GA,Methamphetamine,2023,9747,3,0.031
+GA,Prescription benzodiazepines,2013,1882,0,0
+GA,Prescription benzodiazepines,2014,2094,0,0
+GA,Prescription benzodiazepines,2015,2272,0,0
+GA,Prescription benzodiazepines,2016,3822,0,0
+GA,Prescription benzodiazepines,2017,2558,0,0
+GA,Prescription benzodiazepines,2018,1546,2,0.129
+GA,Prescription benzodiazepines,2019,831,0,0
+GA,Prescription benzodiazepines,2020,553,0,0
+GA,Prescription benzodiazepines,2021,427,0,0
+GA,Prescription benzodiazepines,2022,189,2,1.058
+GA,Prescription benzodiazepines,2023,216,0,0
+GA,Prescription opioids,2013,4480,0,0
+GA,Prescription opioids,2014,4032,0,0
+GA,Prescription opioids,2015,4353,0,0
+GA,Prescription opioids,2016,4440,0,0
+GA,Prescription opioids,2017,3361,1,0.03
+GA,Prescription opioids,2018,2630,0,0
+GA,Prescription opioids,2019,2161,5,0.231
+GA,Prescription opioids,2020,1793,4,0.223
+GA,Prescription opioids,2021,1757,2,0.114
+GA,Prescription opioids,2022,1170,0,0
+GA,Prescription opioids,2023,739,1,0.135
+GA,Prescription stimulants,2013,680,0,0
+GA,Prescription stimulants,2014,667,0,0
+GA,Prescription stimulants,2015,809,0,0
+GA,Prescription stimulants,2016,761,0,0
+GA,Prescription stimulants,2017,669,0,0
+GA,Prescription stimulants,2018,603,0,0
+GA,Prescription stimulants,2019,520,0,0
+GA,Prescription stimulants,2020,356,0,0
+GA,Prescription stimulants,2021,406,0,0
+GA,Prescription stimulants,2022,217,0,0
+GA,Prescription stimulants,2023,210,0,0
+HI,Cannabinoids,2013,831,0,0
+HI,Cannabinoids,2014,917,0,0
+HI,Cannabinoids,2015,1180,0,0
+HI,Cannabinoids,2016,626,0,0
+HI,Cannabinoids,2017,412,0,0
+HI,Cannabinoids,2018,249,0,0
+HI,Cannabinoids,2019,249,0,0
+HI,Cannabinoids,2020,3,0,0
+HI,Cannabinoids,2021,118,0,0
+HI,Cannabinoids,2022,75,0,0
+HI,Cannabinoids,2023,28,0,0
+HI,Club drugs,2013,101,0,0
+HI,Club drugs,2014,87,0,0
+HI,Club drugs,2015,8,0,0
+HI,Club drugs,2016,50,0,0
+HI,Club drugs,2017,13,0,0
+HI,Club drugs,2018,5,0,0
+HI,Club drugs,2019,11,0,0
+HI,Club drugs,2021,17,0,0
+HI,Club drugs,2022,7,0,0
+HI,Club drugs,2023,8,0,0
+HI,Cocaine,2013,547,0,0
+HI,Cocaine,2014,559,0,0
+HI,Cocaine,2015,221,0,0
+HI,Cocaine,2016,181,0,0
+HI,Cocaine,2017,187,0,0
+HI,Cocaine,2018,97,0,0
+HI,Cocaine,2019,126,0,0
+HI,Cocaine,2020,16,0,0
+HI,Cocaine,2021,178,1,0.562
+HI,Cocaine,2022,156,1,0.641
+HI,Cocaine,2023,33,1,3.03
+HI,Hallucinogens,2013,2,0,0
+HI,Hallucinogens,2014,6,0,0
+HI,Hallucinogens,2015,9,0,0
+HI,Hallucinogens,2016,6,0,0
+HI,Hallucinogens,2017,1,0,0
+HI,Hallucinogens,2018,4,0,0
+HI,Hallucinogens,2019,7,0,0
+HI,Hallucinogens,2020,11,0,0
+HI,Hallucinogens,2021,2,0,0
+HI,Hallucinogens,2022,3,0,0
+HI,Hallucinogens,2023,7,0,0
+HI,Heroin,2013,56,0,0
+HI,Heroin,2014,79,0,0
+HI,Heroin,2015,109,0,0
+HI,Heroin,2016,140,0,0
+HI,Heroin,2017,101,0,0
+HI,Heroin,2018,82,0,0
+HI,Heroin,2019,75,0,0
+HI,Heroin,2020,22,3,13.636
+HI,Heroin,2021,102,4,3.922
+HI,Heroin,2022,42,3,7.143
+HI,Heroin,2023,18,0,0
+HI,Methamphetamine,2013,1190,0,0
+HI,Methamphetamine,2014,1681,0,0
+HI,Methamphetamine,2015,1421,0,0
+HI,Methamphetamine,2016,1129,0,0
+HI,Methamphetamine,2017,924,0,0
+HI,Methamphetamine,2018,587,0,0
+HI,Methamphetamine,2019,875,0,0
+HI,Methamphetamine,2020,205,0,0
+HI,Methamphetamine,2021,957,5,0.522
+HI,Methamphetamine,2022,791,1,0.126
+HI,Methamphetamine,2023,229,1,0.437
+HI,Prescription benzodiazepines,2013,12,0,0
+HI,Prescription benzodiazepines,2014,9,0,0
+HI,Prescription benzodiazepines,2015,263,0,0
+HI,Prescription benzodiazepines,2016,31,0,0
+HI,Prescription benzodiazepines,2017,27,0,0
+HI,Prescription benzodiazepines,2018,20,0,0
+HI,Prescription benzodiazepines,2019,21,0,0
+HI,Prescription benzodiazepines,2021,35,0,0
+HI,Prescription benzodiazepines,2022,17,0,0
+HI,Prescription benzodiazepines,2023,4,0,0
+HI,Prescription opioids,2013,74,0,0
+HI,Prescription opioids,2014,17,0,0
+HI,Prescription opioids,2015,239,0,0
+HI,Prescription opioids,2016,54,0,0
+HI,Prescription opioids,2017,16,0,0
+HI,Prescription opioids,2018,39,0,0
+HI,Prescription opioids,2019,35,0,0
+HI,Prescription opioids,2020,1,0,0
+HI,Prescription opioids,2021,21,0,0
+HI,Prescription opioids,2022,14,0,0
+HI,Prescription opioids,2023,3,0,0
+HI,Prescription stimulants,2013,59,0,0
+HI,Prescription stimulants,2014,1,0,0
+HI,Prescription stimulants,2015,5,0,0
+HI,Prescription stimulants,2016,12,0,0
+HI,Prescription stimulants,2017,7,0,0
+HI,Prescription stimulants,2018,3,0,0
+HI,Prescription stimulants,2019,10,0,0
+HI,Prescription stimulants,2021,6,0,0
+HI,Prescription stimulants,2022,2,0,0
+HI,Prescription stimulants,2023,1,0,0
+IA,Cannabinoids,2013,7191,0,0
+IA,Cannabinoids,2014,7094,0,0
+IA,Cannabinoids,2015,6617,0,0
+IA,Cannabinoids,2016,6987,0,0
+IA,Cannabinoids,2017,8423,1,0.012
+IA,Cannabinoids,2018,7584,0,0
+IA,Cannabinoids,2019,7253,0,0
+IA,Cannabinoids,2020,6266,0,0
+IA,Cannabinoids,2021,3892,0,0
+IA,Cannabinoids,2022,4388,0,0
+IA,Cannabinoids,2023,4631,0,0
+IA,Club drugs,2013,84,0,0
+IA,Club drugs,2014,165,0,0
+IA,Club drugs,2015,137,0,0
+IA,Club drugs,2016,89,0,0
+IA,Club drugs,2017,121,1,0.826
+IA,Club drugs,2018,166,0,0
+IA,Club drugs,2019,171,0,0
+IA,Club drugs,2020,106,1,0.943
+IA,Club drugs,2021,114,9,7.895
+IA,Club drugs,2022,100,0,0
+IA,Club drugs,2023,129,0,0
+IA,Cocaine,2013,1312,0,0
+IA,Cocaine,2014,1335,0,0
+IA,Cocaine,2015,1280,0,0
+IA,Cocaine,2016,1381,0,0
+IA,Cocaine,2017,1210,1,0.083
+IA,Cocaine,2018,1317,0,0
+IA,Cocaine,2019,1332,0,0
+IA,Cocaine,2020,990,0,0
+IA,Cocaine,2021,1088,1,0.092
+IA,Cocaine,2022,1347,4,0.297
+IA,Cocaine,2023,1618,0,0
+IA,Hallucinogens,2013,145,0,0
+IA,Hallucinogens,2014,196,0,0
+IA,Hallucinogens,2015,179,0,0
+IA,Hallucinogens,2016,258,0,0
+IA,Hallucinogens,2017,224,0,0
+IA,Hallucinogens,2018,285,0,0
+IA,Hallucinogens,2019,297,0,0
+IA,Hallucinogens,2020,254,0,0
+IA,Hallucinogens,2021,300,1,0.333
+IA,Hallucinogens,2022,315,0,0
+IA,Hallucinogens,2023,414,0,0
+IA,Heroin,2013,305,0,0
+IA,Heroin,2014,349,1,0.287
+IA,Heroin,2015,564,4,0.709
+IA,Heroin,2016,536,0,0
+IA,Heroin,2017,732,17,2.322
+IA,Heroin,2018,671,25,3.726
+IA,Heroin,2019,587,11,1.874
+IA,Heroin,2020,572,29,5.07
+IA,Heroin,2021,533,160,30.019
+IA,Heroin,2022,323,32,9.907
+IA,Heroin,2023,426,14,3.286
+IA,Methamphetamine,2013,4999,0,0
+IA,Methamphetamine,2014,4961,1,0.02
+IA,Methamphetamine,2015,5788,0,0
+IA,Methamphetamine,2016,6788,0,0
+IA,Methamphetamine,2017,8130,1,0.012
+IA,Methamphetamine,2018,8599,1,0.012
+IA,Methamphetamine,2019,9015,0,0
+IA,Methamphetamine,2020,7635,1,0.013
+IA,Methamphetamine,2021,8144,18,0.221
+IA,Methamphetamine,2022,7646,5,0.065
+IA,Methamphetamine,2023,7288,1,0.014
+IA,Prescription benzodiazepines,2013,452,0,0
+IA,Prescription benzodiazepines,2014,425,0,0
+IA,Prescription benzodiazepines,2015,471,0,0
+IA,Prescription benzodiazepines,2016,529,0,0
+IA,Prescription benzodiazepines,2017,588,0,0
+IA,Prescription benzodiazepines,2018,667,0,0
+IA,Prescription benzodiazepines,2019,560,0,0
+IA,Prescription benzodiazepines,2020,431,0,0
+IA,Prescription benzodiazepines,2021,369,0,0
+IA,Prescription benzodiazepines,2022,359,0,0
+IA,Prescription benzodiazepines,2023,401,0,0
+IA,Prescription opioids,2013,497,2,0.402
+IA,Prescription opioids,2014,479,1,0.209
+IA,Prescription opioids,2015,432,0,0
+IA,Prescription opioids,2016,521,0,0
+IA,Prescription opioids,2017,459,0,0
+IA,Prescription opioids,2018,344,1,0.291
+IA,Prescription opioids,2019,312,0,0
+IA,Prescription opioids,2020,244,1,0.41
+IA,Prescription opioids,2021,193,4,2.073
+IA,Prescription opioids,2022,215,0,0
+IA,Prescription opioids,2023,275,0,0
+IA,Prescription stimulants,2013,199,0,0
+IA,Prescription stimulants,2014,198,0,0
+IA,Prescription stimulants,2015,197,0,0
+IA,Prescription stimulants,2016,183,0,0
+IA,Prescription stimulants,2017,202,0,0
+IA,Prescription stimulants,2018,270,0,0
+IA,Prescription stimulants,2019,190,0,0
+IA,Prescription stimulants,2020,171,0,0
+IA,Prescription stimulants,2021,111,0,0
+IA,Prescription stimulants,2022,144,0,0
+IA,Prescription stimulants,2023,150,0,0
+ID,Cannabinoids,2013,2621,0,0
+ID,Cannabinoids,2014,3078,0,0
+ID,Cannabinoids,2015,2589,0,0
+ID,Cannabinoids,2016,2706,0,0
+ID,Cannabinoids,2017,3207,0,0
+ID,Cannabinoids,2018,3569,0,0
+ID,Cannabinoids,2019,3447,0,0
+ID,Cannabinoids,2020,3234,0,0
+ID,Cannabinoids,2021,3483,0,0
+ID,Cannabinoids,2022,3235,9,0.278
+ID,Cannabinoids,2023,3105,8,0.258
+ID,Club drugs,2013,20,0,0
+ID,Club drugs,2014,39,0,0
+ID,Club drugs,2015,48,0,0
+ID,Club drugs,2016,62,0,0
+ID,Club drugs,2017,37,0,0
+ID,Club drugs,2018,78,0,0
+ID,Club drugs,2019,72,0,0
+ID,Club drugs,2020,88,0,0
+ID,Club drugs,2021,81,0,0
+ID,Club drugs,2022,70,2,2.857
+ID,Club drugs,2023,106,4,3.774
+ID,Cocaine,2013,87,0,0
+ID,Cocaine,2014,78,0,0
+ID,Cocaine,2015,110,0,0
+ID,Cocaine,2016,178,0,0
+ID,Cocaine,2017,244,0,0
+ID,Cocaine,2018,264,0,0
+ID,Cocaine,2019,277,0,0
+ID,Cocaine,2020,284,1,0.352
+ID,Cocaine,2021,375,0,0
+ID,Cocaine,2022,479,8,1.67
+ID,Cocaine,2023,548,8,1.46
+ID,Hallucinogens,2013,25,0,0
+ID,Hallucinogens,2014,43,0,0
+ID,Hallucinogens,2015,50,0,0
+ID,Hallucinogens,2016,57,0,0
+ID,Hallucinogens,2017,75,0,0
+ID,Hallucinogens,2018,114,0,0
+ID,Hallucinogens,2019,124,0,0
+ID,Hallucinogens,2020,144,0,0
+ID,Hallucinogens,2021,156,0,0
+ID,Hallucinogens,2022,196,0,0
+ID,Hallucinogens,2023,179,0,0
+ID,Heroin,2013,104,0,0
+ID,Heroin,2014,286,1,0.35
+ID,Heroin,2015,511,0,0
+ID,Heroin,2016,836,2,0.239
+ID,Heroin,2017,1027,1,0.097
+ID,Heroin,2018,1258,15,1.192
+ID,Heroin,2019,1375,14,1.018
+ID,Heroin,2020,1625,18,1.108
+ID,Heroin,2021,1366,68,4.978
+ID,Heroin,2022,314,26,8.28
+ID,Heroin,2023,92,11,11.957
+ID,Methamphetamine,2013,2050,0,0
+ID,Methamphetamine,2014,3014,0,0
+ID,Methamphetamine,2015,3537,0,0
+ID,Methamphetamine,2016,4218,1,0.024
+ID,Methamphetamine,2017,4802,3,0.062
+ID,Methamphetamine,2018,5535,3,0.054
+ID,Methamphetamine,2019,5432,0,0
+ID,Methamphetamine,2020,5574,3,0.054
+ID,Methamphetamine,2021,6339,45,0.71
+ID,Methamphetamine,2022,5618,157,2.795
+ID,Methamphetamine,2023,5219,123,2.357
+ID,Prescription benzodiazepines,2013,24,0,0
+ID,Prescription benzodiazepines,2014,18,0,0
+ID,Prescription benzodiazepines,2015,24,0,0
+ID,Prescription benzodiazepines,2016,26,1,3.846
+ID,Prescription benzodiazepines,2017,22,0,0
+ID,Prescription benzodiazepines,2018,26,0,0
+ID,Prescription benzodiazepines,2019,19,0,0
+ID,Prescription benzodiazepines,2020,63,0,0
+ID,Prescription benzodiazepines,2021,122,1,0.82
+ID,Prescription benzodiazepines,2022,102,1,0.98
+ID,Prescription benzodiazepines,2023,71,1,1.408
+ID,Prescription opioids,2013,409,0,0
+ID,Prescription opioids,2014,557,0,0
+ID,Prescription opioids,2015,642,0,0
+ID,Prescription opioids,2016,520,0,0
+ID,Prescription opioids,2017,505,0,0
+ID,Prescription opioids,2018,416,0,0
+ID,Prescription opioids,2019,335,0,0
+ID,Prescription opioids,2020,316,0,0
+ID,Prescription opioids,2021,367,2,0.545
+ID,Prescription opioids,2022,392,5,1.276
+ID,Prescription opioids,2023,366,6,1.639
+ID,Prescription stimulants,2013,68,0,0
+ID,Prescription stimulants,2014,104,0,0
+ID,Prescription stimulants,2015,97,0,0
+ID,Prescription stimulants,2016,116,0,0
+ID,Prescription stimulants,2017,116,0,0
+ID,Prescription stimulants,2018,143,0,0
+ID,Prescription stimulants,2019,108,0,0
+ID,Prescription stimulants,2020,96,0,0
+ID,Prescription stimulants,2021,134,0,0
+ID,Prescription stimulants,2022,146,0,0
+ID,Prescription stimulants,2023,145,0,0
+IL,Cannabinoids,2013,47409,0,0
+IL,Cannabinoids,2014,41992,1,0.002
+IL,Cannabinoids,2015,36697,0,0
+IL,Cannabinoids,2016,23619,0,0
+IL,Cannabinoids,2017,13811,2,0.014
+IL,Cannabinoids,2018,14798,3,0.02
+IL,Cannabinoids,2019,6269,3,0.048
+IL,Cannabinoids,2020,7449,2,0.027
+IL,Cannabinoids,2021,7875,1,0.013
+IL,Cannabinoids,2022,9357,4,0.043
+IL,Cannabinoids,2023,8584,5,0.058
+IL,Club drugs,2013,732,0,0
+IL,Club drugs,2014,877,0,0
+IL,Club drugs,2015,1095,0,0
+IL,Club drugs,2016,680,0,0
+IL,Club drugs,2017,774,5,0.646
+IL,Club drugs,2018,1311,1,0.076
+IL,Club drugs,2019,1137,3,0.264
+IL,Club drugs,2020,785,3,0.382
+IL,Club drugs,2021,560,2,0.357
+IL,Club drugs,2022,522,5,0.958
+IL,Club drugs,2023,496,4,0.806
+IL,Cocaine,2013,14458,0,0
+IL,Cocaine,2014,13144,1,0.008
+IL,Cocaine,2015,13403,2,0.015
+IL,Cocaine,2016,11900,21,0.176
+IL,Cocaine,2017,13952,52,0.373
+IL,Cocaine,2018,13679,54,0.395
+IL,Cocaine,2019,11116,42,0.378
+IL,Cocaine,2020,7527,58,0.771
+IL,Cocaine,2021,7083,56,0.791
+IL,Cocaine,2022,7198,94,1.306
+IL,Cocaine,2023,7955,104,1.307
+IL,Hallucinogens,2013,970,0,0
+IL,Hallucinogens,2014,1034,0,0
+IL,Hallucinogens,2015,1138,0,0
+IL,Hallucinogens,2016,982,0,0
+IL,Hallucinogens,2017,1058,0,0
+IL,Hallucinogens,2018,1053,0,0
+IL,Hallucinogens,2019,845,0,0
+IL,Hallucinogens,2020,773,0,0
+IL,Hallucinogens,2021,758,0,0
+IL,Hallucinogens,2022,732,0,0
+IL,Hallucinogens,2023,996,1,0.1
+IL,Heroin,2013,15537,2,0.013
+IL,Heroin,2014,14656,20,0.136
+IL,Heroin,2015,13840,297,2.146
+IL,Heroin,2016,11506,1167,10.143
+IL,Heroin,2017,11703,2172,18.559
+IL,Heroin,2018,10314,3235,31.365
+IL,Heroin,2019,6836,1733,25.351
+IL,Heroin,2020,4790,3044,63.549
+IL,Heroin,2021,4470,3438,76.913
+IL,Heroin,2022,2825,2521,89.239
+IL,Heroin,2023,2203,2014,91.421
+IL,Methamphetamine,2013,1787,0,0
+IL,Methamphetamine,2014,2053,0,0
+IL,Methamphetamine,2015,2899,0,0
+IL,Methamphetamine,2016,4508,6,0.133
+IL,Methamphetamine,2017,6778,12,0.177
+IL,Methamphetamine,2018,8752,20,0.229
+IL,Methamphetamine,2019,8882,11,0.124
+IL,Methamphetamine,2020,7074,9,0.127
+IL,Methamphetamine,2021,8282,16,0.193
+IL,Methamphetamine,2022,7791,34,0.436
+IL,Methamphetamine,2023,8024,45,0.561
+IL,Prescription benzodiazepines,2013,1458,0,0
+IL,Prescription benzodiazepines,2014,1840,0,0
+IL,Prescription benzodiazepines,2015,2389,0,0
+IL,Prescription benzodiazepines,2016,2540,0,0
+IL,Prescription benzodiazepines,2017,2505,1,0.04
+IL,Prescription benzodiazepines,2018,2252,3,0.133
+IL,Prescription benzodiazepines,2019,990,3,0.303
+IL,Prescription benzodiazepines,2020,384,2,0.521
+IL,Prescription benzodiazepines,2021,254,0,0
+IL,Prescription benzodiazepines,2022,239,2,0.837
+IL,Prescription benzodiazepines,2023,235,0,0
+IL,Prescription opioids,2013,1933,0,0
+IL,Prescription opioids,2014,2066,0,0
+IL,Prescription opioids,2015,1953,3,0.154
+IL,Prescription opioids,2016,1815,4,0.22
+IL,Prescription opioids,2017,1758,3,0.171
+IL,Prescription opioids,2018,1474,5,0.339
+IL,Prescription opioids,2019,800,5,0.625
+IL,Prescription opioids,2020,429,4,0.932
+IL,Prescription opioids,2021,284,5,1.761
+IL,Prescription opioids,2022,267,5,1.873
+IL,Prescription opioids,2023,303,1,0.33
+IL,Prescription stimulants,2013,601,0,0
+IL,Prescription stimulants,2014,683,0,0
+IL,Prescription stimulants,2015,680,0,0
+IL,Prescription stimulants,2016,661,0,0
+IL,Prescription stimulants,2017,680,0,0
+IL,Prescription stimulants,2018,676,0,0
+IL,Prescription stimulants,2019,397,0,0
+IL,Prescription stimulants,2020,211,1,0.474
+IL,Prescription stimulants,2021,159,0,0
+IL,Prescription stimulants,2022,176,0,0
+IL,Prescription stimulants,2023,147,0,0
+IN,Cannabinoids,2013,10665,0,0
+IN,Cannabinoids,2014,8238,0,0
+IN,Cannabinoids,2015,7576,0,0
+IN,Cannabinoids,2016,7714,0,0
+IN,Cannabinoids,2017,7410,0,0
+IN,Cannabinoids,2018,8725,0,0
+IN,Cannabinoids,2019,9354,0,0
+IN,Cannabinoids,2020,4935,1,0.02
+IN,Cannabinoids,2021,4985,0,0
+IN,Cannabinoids,2022,3675,2,0.054
+IN,Cannabinoids,2023,2588,1,0.039
+IN,Club drugs,2013,76,0,0
+IN,Club drugs,2014,91,0,0
+IN,Club drugs,2015,152,0,0
+IN,Club drugs,2016,151,0,0
+IN,Club drugs,2017,114,1,0.877
+IN,Club drugs,2018,127,0,0
+IN,Club drugs,2019,136,0,0
+IN,Club drugs,2020,95,0,0
+IN,Club drugs,2021,85,0,0
+IN,Club drugs,2022,75,0,0
+IN,Club drugs,2023,96,0,0
+IN,Cocaine,2013,3314,0,0
+IN,Cocaine,2014,2550,0,0
+IN,Cocaine,2015,2652,0,0
+IN,Cocaine,2016,2811,1,0.036
+IN,Cocaine,2017,3163,0,0
+IN,Cocaine,2018,2959,8,0.27
+IN,Cocaine,2019,3163,12,0.379
+IN,Cocaine,2020,1458,10,0.686
+IN,Cocaine,2021,1613,10,0.62
+IN,Cocaine,2022,1962,13,0.663
+IN,Cocaine,2023,2040,10,0.49
+IN,Hallucinogens,2013,203,0,0
+IN,Hallucinogens,2014,192,0,0
+IN,Hallucinogens,2015,226,0,0
+IN,Hallucinogens,2016,230,0,0
+IN,Hallucinogens,2017,253,0,0
+IN,Hallucinogens,2018,250,0,0
+IN,Hallucinogens,2019,281,0,0
+IN,Hallucinogens,2020,260,0,0
+IN,Hallucinogens,2021,332,0,0
+IN,Hallucinogens,2022,396,0,0
+IN,Hallucinogens,2023,410,0,0
+IN,Heroin,2013,2428,0,0
+IN,Heroin,2014,2728,0,0
+IN,Heroin,2015,4002,0,0
+IN,Heroin,2016,3747,13,0.347
+IN,Heroin,2017,3723,12,0.322
+IN,Heroin,2018,3198,45,1.407
+IN,Heroin,2019,3433,48,1.398
+IN,Heroin,2020,1446,52,3.596
+IN,Heroin,2021,927,51,5.502
+IN,Heroin,2022,469,27,5.757
+IN,Heroin,2023,261,32,12.261
+IN,Methamphetamine,2013,3570,0,0
+IN,Methamphetamine,2014,3499,0,0
+IN,Methamphetamine,2015,4566,0,0
+IN,Methamphetamine,2016,5782,0,0
+IN,Methamphetamine,2017,7919,4,0.051
+IN,Methamphetamine,2018,11668,1,0.009
+IN,Methamphetamine,2019,16303,3,0.018
+IN,Methamphetamine,2020,8987,4,0.045
+IN,Methamphetamine,2021,10308,8,0.078
+IN,Methamphetamine,2022,8769,3,0.034
+IN,Methamphetamine,2023,7708,10,0.13
+IN,Prescription benzodiazepines,2013,1590,0,0
+IN,Prescription benzodiazepines,2014,1290,0,0
+IN,Prescription benzodiazepines,2015,1353,0,0
+IN,Prescription benzodiazepines,2016,1691,0,0
+IN,Prescription benzodiazepines,2017,1364,1,0.073
+IN,Prescription benzodiazepines,2018,1377,0,0
+IN,Prescription benzodiazepines,2019,943,0,0
+IN,Prescription benzodiazepines,2020,390,0,0
+IN,Prescription benzodiazepines,2021,387,0,0
+IN,Prescription benzodiazepines,2022,414,0,0
+IN,Prescription benzodiazepines,2023,387,0,0
+IN,Prescription opioids,2013,2971,0,0
+IN,Prescription opioids,2014,2151,0,0
+IN,Prescription opioids,2015,2132,0,0
+IN,Prescription opioids,2016,1940,0,0
+IN,Prescription opioids,2017,1840,0,0
+IN,Prescription opioids,2018,1852,1,0.054
+IN,Prescription opioids,2019,1697,1,0.059
+IN,Prescription opioids,2020,868,0,0
+IN,Prescription opioids,2021,820,1,0.122
+IN,Prescription opioids,2022,810,0,0
+IN,Prescription opioids,2023,852,0,0
+IN,Prescription stimulants,2013,381,0,0
+IN,Prescription stimulants,2014,311,0,0
+IN,Prescription stimulants,2015,325,0,0
+IN,Prescription stimulants,2016,358,0,0
+IN,Prescription stimulants,2017,346,0,0
+IN,Prescription stimulants,2018,333,0,0
+IN,Prescription stimulants,2019,262,0,0
+IN,Prescription stimulants,2020,179,0,0
+IN,Prescription stimulants,2021,162,0,0
+IN,Prescription stimulants,2022,179,0,0
+IN,Prescription stimulants,2023,170,0,0
+KS,Cannabinoids,2013,8527,0,0
+KS,Cannabinoids,2014,9340,0,0
+KS,Cannabinoids,2015,9646,0,0
+KS,Cannabinoids,2016,12112,0,0
+KS,Cannabinoids,2017,12086,1,0.008
+KS,Cannabinoids,2018,10197,0,0
+KS,Cannabinoids,2019,10328,0,0
+KS,Cannabinoids,2020,9668,1,0.01
+KS,Cannabinoids,2021,11477,3,0.026
+KS,Cannabinoids,2022,8600,5,0.058
+KS,Cannabinoids,2023,5648,3,0.053
+KS,Club drugs,2013,41,0,0
+KS,Club drugs,2014,56,0,0
+KS,Club drugs,2015,72,0,0
+KS,Club drugs,2016,52,0,0
+KS,Club drugs,2017,48,0,0
+KS,Club drugs,2018,60,0,0
+KS,Club drugs,2019,96,0,0
+KS,Club drugs,2020,116,0,0
+KS,Club drugs,2021,123,1,0.813
+KS,Club drugs,2022,76,1,1.316
+KS,Club drugs,2023,86,0,0
+KS,Cocaine,2013,834,0,0
+KS,Cocaine,2014,828,0,0
+KS,Cocaine,2015,732,0,0
+KS,Cocaine,2016,1011,0,0
+KS,Cocaine,2017,1273,0,0
+KS,Cocaine,2018,930,4,0.43
+KS,Cocaine,2019,1181,2,0.169
+KS,Cocaine,2020,957,3,0.313
+KS,Cocaine,2021,1098,8,0.729
+KS,Cocaine,2022,1072,19,1.772
+KS,Cocaine,2023,728,22,3.022
+KS,Hallucinogens,2013,164,0,0
+KS,Hallucinogens,2014,112,0,0
+KS,Hallucinogens,2015,138,0,0
+KS,Hallucinogens,2016,163,0,0
+KS,Hallucinogens,2017,159,0,0
+KS,Hallucinogens,2018,145,0,0
+KS,Hallucinogens,2019,164,0,0
+KS,Hallucinogens,2020,275,0,0
+KS,Hallucinogens,2021,404,0,0
+KS,Hallucinogens,2022,380,1,0.263
+KS,Hallucinogens,2023,322,0,0
+KS,Heroin,2013,133,0,0
+KS,Heroin,2014,152,0,0
+KS,Heroin,2015,184,0,0
+KS,Heroin,2016,441,0,0
+KS,Heroin,2017,514,14,2.724
+KS,Heroin,2018,561,37,6.595
+KS,Heroin,2019,714,34,4.762
+KS,Heroin,2020,758,23,3.034
+KS,Heroin,2021,558,66,11.828
+KS,Heroin,2022,189,44,23.28
+KS,Heroin,2023,41,11,26.829
+KS,Methamphetamine,2013,4609,0,0
+KS,Methamphetamine,2014,5386,0,0
+KS,Methamphetamine,2015,5756,1,0.017
+KS,Methamphetamine,2016,7859,0,0
+KS,Methamphetamine,2017,9293,1,0.011
+KS,Methamphetamine,2018,8906,4,0.045
+KS,Methamphetamine,2019,9713,9,0.093
+KS,Methamphetamine,2020,8656,8,0.092
+KS,Methamphetamine,2021,10993,49,0.446
+KS,Methamphetamine,2022,8355,82,0.981
+KS,Methamphetamine,2023,6102,82,1.344
+KS,Prescription benzodiazepines,2013,598,0,0
+KS,Prescription benzodiazepines,2014,616,0,0
+KS,Prescription benzodiazepines,2015,571,0,0
+KS,Prescription benzodiazepines,2016,955,0,0
+KS,Prescription benzodiazepines,2017,922,0,0
+KS,Prescription benzodiazepines,2018,631,0,0
+KS,Prescription benzodiazepines,2019,605,0,0
+KS,Prescription benzodiazepines,2020,494,0,0
+KS,Prescription benzodiazepines,2021,586,2,0.341
+KS,Prescription benzodiazepines,2022,497,0,0
+KS,Prescription benzodiazepines,2023,259,3,1.158
+KS,Prescription opioids,2013,873,1,0.115
+KS,Prescription opioids,2014,879,0,0
+KS,Prescription opioids,2015,872,0,0
+KS,Prescription opioids,2016,1040,0,0
+KS,Prescription opioids,2017,940,4,0.426
+KS,Prescription opioids,2018,755,2,0.265
+KS,Prescription opioids,2019,715,2,0.28
+KS,Prescription opioids,2020,597,3,0.503
+KS,Prescription opioids,2021,565,7,1.239
+KS,Prescription opioids,2022,504,7,1.389
+KS,Prescription opioids,2023,339,4,1.18
+KS,Prescription stimulants,2013,205,0,0
+KS,Prescription stimulants,2014,224,0,0
+KS,Prescription stimulants,2015,215,0,0
+KS,Prescription stimulants,2016,328,0,0
+KS,Prescription stimulants,2017,299,0,0
+KS,Prescription stimulants,2018,257,0,0
+KS,Prescription stimulants,2019,201,1,0.498
+KS,Prescription stimulants,2020,249,0,0
+KS,Prescription stimulants,2021,339,0,0
+KS,Prescription stimulants,2022,244,1,0.41
+KS,Prescription stimulants,2023,155,0,0
+KY,Cannabinoids,2013,3697,0,0
+KY,Cannabinoids,2014,4000,0,0
+KY,Cannabinoids,2015,3583,0,0
+KY,Cannabinoids,2016,3222,2,0.062
+KY,Cannabinoids,2017,3158,4,0.127
+KY,Cannabinoids,2018,2730,6,0.22
+KY,Cannabinoids,2019,2459,5,0.203
+KY,Cannabinoids,2020,2163,16,0.74
+KY,Cannabinoids,2021,1872,11,0.588
+KY,Cannabinoids,2022,1955,11,0.563
+KY,Cannabinoids,2023,1692,12,0.709
+KY,Club drugs,2013,44,0,0
+KY,Club drugs,2014,64,0,0
+KY,Club drugs,2015,103,1,0.971
+KY,Club drugs,2016,60,2,3.333
+KY,Club drugs,2017,87,26,29.885
+KY,Club drugs,2018,71,5,7.042
+KY,Club drugs,2019,72,4,5.556
+KY,Club drugs,2020,95,5,5.263
+KY,Club drugs,2021,93,20,21.505
+KY,Club drugs,2022,72,5,6.944
+KY,Club drugs,2023,69,10,14.493
+KY,Cocaine,2013,3571,0,0
+KY,Cocaine,2014,3044,0,0
+KY,Cocaine,2015,2872,33,1.149
+KY,Cocaine,2016,2944,56,1.902
+KY,Cocaine,2017,3064,92,3.003
+KY,Cocaine,2018,2688,108,4.018
+KY,Cocaine,2019,2212,56,2.532
+KY,Cocaine,2020,1358,91,6.701
+KY,Cocaine,2021,1501,159,10.593
+KY,Cocaine,2022,1853,102,5.505
+KY,Cocaine,2023,1965,147,7.481
+KY,Hallucinogens,2013,81,0,0
+KY,Hallucinogens,2014,78,0,0
+KY,Hallucinogens,2015,81,0,0
+KY,Hallucinogens,2016,117,0,0
+KY,Hallucinogens,2017,87,0,0
+KY,Hallucinogens,2018,91,0,0
+KY,Hallucinogens,2019,110,0,0
+KY,Hallucinogens,2020,201,0,0
+KY,Hallucinogens,2021,221,1,0.452
+KY,Hallucinogens,2022,198,5,2.525
+KY,Hallucinogens,2023,229,0,0
+KY,Heroin,2013,4177,1,0.024
+KY,Heroin,2014,4377,10,0.228
+KY,Heroin,2015,4054,264,6.512
+KY,Heroin,2016,3726,620,16.64
+KY,Heroin,2017,3307,1394,42.153
+KY,Heroin,2018,2430,1458,60
+KY,Heroin,2019,2074,1356,65.381
+KY,Heroin,2020,1649,1280,77.623
+KY,Heroin,2021,1154,1009,87.435
+KY,Heroin,2022,702,644,91.738
+KY,Heroin,2023,592,548,92.568
+KY,Methamphetamine,2013,3902,1,0.026
+KY,Methamphetamine,2014,4521,0,0
+KY,Methamphetamine,2015,6188,4,0.065
+KY,Methamphetamine,2016,8824,35,0.397
+KY,Methamphetamine,2017,12706,114,0.897
+KY,Methamphetamine,2018,13883,160,1.152
+KY,Methamphetamine,2019,15423,234,1.517
+KY,Methamphetamine,2020,13261,435,3.28
+KY,Methamphetamine,2021,16237,702,4.323
+KY,Methamphetamine,2022,14334,525,3.663
+KY,Methamphetamine,2023,13386,519,3.877
+KY,Prescription benzodiazepines,2013,1474,0,0
+KY,Prescription benzodiazepines,2014,1374,0,0
+KY,Prescription benzodiazepines,2015,1428,0,0
+KY,Prescription benzodiazepines,2016,1148,2,0.174
+KY,Prescription benzodiazepines,2017,990,8,0.808
+KY,Prescription benzodiazepines,2018,653,0,0
+KY,Prescription benzodiazepines,2019,592,0,0
+KY,Prescription benzodiazepines,2020,483,3,0.621
+KY,Prescription benzodiazepines,2021,408,2,0.49
+KY,Prescription benzodiazepines,2022,407,6,1.474
+KY,Prescription benzodiazepines,2023,392,5,1.276
+KY,Prescription opioids,2013,6836,0,0
+KY,Prescription opioids,2014,6343,0,0
+KY,Prescription opioids,2015,5145,8,0.155
+KY,Prescription opioids,2016,4029,10,0.248
+KY,Prescription opioids,2017,3283,15,0.457
+KY,Prescription opioids,2018,2236,14,0.626
+KY,Prescription opioids,2019,2174,10,0.46
+KY,Prescription opioids,2020,1726,9,0.521
+KY,Prescription opioids,2021,1492,14,0.938
+KY,Prescription opioids,2022,1440,16,1.111
+KY,Prescription opioids,2023,1489,14,0.94
+KY,Prescription stimulants,2013,205,0,0
+KY,Prescription stimulants,2014,210,0,0
+KY,Prescription stimulants,2015,204,0,0
+KY,Prescription stimulants,2016,172,0,0
+KY,Prescription stimulants,2017,186,2,1.075
+KY,Prescription stimulants,2018,134,0,0
+KY,Prescription stimulants,2019,121,0,0
+KY,Prescription stimulants,2020,113,1,0.885
+KY,Prescription stimulants,2021,122,2,1.639
+KY,Prescription stimulants,2022,168,1,0.595
+KY,Prescription stimulants,2023,131,1,0.763
+LA,Cannabinoids,2013,21254,0,0
+LA,Cannabinoids,2014,21803,0,0
+LA,Cannabinoids,2015,22327,0,0
+LA,Cannabinoids,2016,23587,0,0
+LA,Cannabinoids,2017,23709,0,0
+LA,Cannabinoids,2018,22000,0,0
+LA,Cannabinoids,2019,21152,0,0
+LA,Cannabinoids,2020,21527,0,0
+LA,Cannabinoids,2021,19088,0,0
+LA,Cannabinoids,2022,10523,2,0.019
+LA,Cannabinoids,2023,12042,0,0
+LA,Club drugs,2013,44,0,0
+LA,Club drugs,2014,66,0,0
+LA,Club drugs,2015,117,0,0
+LA,Club drugs,2016,126,0,0
+LA,Club drugs,2017,73,0,0
+LA,Club drugs,2018,95,0,0
+LA,Club drugs,2019,128,0,0
+LA,Club drugs,2020,110,2,1.818
+LA,Club drugs,2021,78,0,0
+LA,Club drugs,2022,72,0,0
+LA,Club drugs,2023,100,1,1
+LA,Cocaine,2013,4970,0,0
+LA,Cocaine,2014,4429,0,0
+LA,Cocaine,2015,4341,0,0
+LA,Cocaine,2016,4042,0,0
+LA,Cocaine,2017,3851,2,0.052
+LA,Cocaine,2018,3038,0,0
+LA,Cocaine,2019,3191,7,0.219
+LA,Cocaine,2020,2680,4,0.149
+LA,Cocaine,2021,2456,5,0.204
+LA,Cocaine,2022,2546,12,0.471
+LA,Cocaine,2023,2803,7,0.25
+LA,Hallucinogens,2013,165,0,0
+LA,Hallucinogens,2014,149,0,0
+LA,Hallucinogens,2015,151,0,0
+LA,Hallucinogens,2016,177,0,0
+LA,Hallucinogens,2017,212,0,0
+LA,Hallucinogens,2018,151,0,0
+LA,Hallucinogens,2019,273,0,0
+LA,Hallucinogens,2020,349,0,0
+LA,Hallucinogens,2021,255,0,0
+LA,Hallucinogens,2022,270,0,0
+LA,Hallucinogens,2023,343,0,0
+LA,Heroin,2013,880,0,0
+LA,Heroin,2014,1069,1,0.094
+LA,Heroin,2015,1377,0,0
+LA,Heroin,2016,1774,7,0.395
+LA,Heroin,2017,1694,20,1.181
+LA,Heroin,2018,1883,21,1.115
+LA,Heroin,2019,2248,40,1.779
+LA,Heroin,2020,2372,45,1.897
+LA,Heroin,2021,1906,32,1.679
+LA,Heroin,2022,1211,64,5.285
+LA,Heroin,2023,1016,87,8.563
+LA,Methamphetamine,2013,3267,0,0
+LA,Methamphetamine,2014,4720,0,0
+LA,Methamphetamine,2015,6930,0,0
+LA,Methamphetamine,2016,9748,0,0
+LA,Methamphetamine,2017,10148,0,0
+LA,Methamphetamine,2018,10349,0,0
+LA,Methamphetamine,2019,12383,1,0.008
+LA,Methamphetamine,2020,11971,0,0
+LA,Methamphetamine,2021,11329,0,0
+LA,Methamphetamine,2022,9918,11,0.111
+LA,Methamphetamine,2023,10403,8,0.077
+LA,Prescription benzodiazepines,2013,2804,0,0
+LA,Prescription benzodiazepines,2014,3028,0,0
+LA,Prescription benzodiazepines,2015,3249,0,0
+LA,Prescription benzodiazepines,2016,3629,0,0
+LA,Prescription benzodiazepines,2017,3340,0,0
+LA,Prescription benzodiazepines,2018,2554,0,0
+LA,Prescription benzodiazepines,2019,2199,0,0
+LA,Prescription benzodiazepines,2020,1852,0,0
+LA,Prescription benzodiazepines,2021,1294,0,0
+LA,Prescription benzodiazepines,2022,1193,0,0
+LA,Prescription benzodiazepines,2023,1345,0,0
+LA,Prescription opioids,2013,4700,0,0
+LA,Prescription opioids,2014,4041,0,0
+LA,Prescription opioids,2015,3638,0,0
+LA,Prescription opioids,2016,3835,0,0
+LA,Prescription opioids,2017,3318,0,0
+LA,Prescription opioids,2018,2643,0,0
+LA,Prescription opioids,2019,2585,2,0.077
+LA,Prescription opioids,2020,2340,0,0
+LA,Prescription opioids,2021,1973,1,0.051
+LA,Prescription opioids,2022,1913,2,0.105
+LA,Prescription opioids,2023,2171,7,0.322
+LA,Prescription stimulants,2013,669,0,0
+LA,Prescription stimulants,2014,613,0,0
+LA,Prescription stimulants,2015,718,0,0
+LA,Prescription stimulants,2016,770,0,0
+LA,Prescription stimulants,2017,754,0,0
+LA,Prescription stimulants,2018,709,0,0
+LA,Prescription stimulants,2019,802,0,0
+LA,Prescription stimulants,2020,728,0,0
+LA,Prescription stimulants,2021,689,0,0
+LA,Prescription stimulants,2022,652,0,0
+LA,Prescription stimulants,2023,740,0,0
+MA,Cannabinoids,2013,8724,0,0
+MA,Cannabinoids,2014,7370,2,0.027
+MA,Cannabinoids,2015,5518,0,0
+MA,Cannabinoids,2016,5079,5,0.098
+MA,Cannabinoids,2017,2876,2,0.07
+MA,Cannabinoids,2018,2872,5,0.174
+MA,Cannabinoids,2019,2251,2,0.089
+MA,Cannabinoids,2020,1337,1,0.075
+MA,Cannabinoids,2021,968,2,0.207
+MA,Cannabinoids,2022,737,0,0
+MA,Cannabinoids,2023,390,1,0.256
+MA,Club drugs,2013,115,0,0
+MA,Club drugs,2014,279,0,0
+MA,Club drugs,2015,285,0,0
+MA,Club drugs,2016,175,1,0.571
+MA,Club drugs,2017,347,5,1.441
+MA,Club drugs,2018,419,52,12.411
+MA,Club drugs,2019,546,186,34.066
+MA,Club drugs,2020,328,42,12.805
+MA,Club drugs,2021,304,24,7.895
+MA,Club drugs,2022,206,50,24.272
+MA,Club drugs,2023,229,26,11.354
+MA,Cocaine,2013,8049,1,0.012
+MA,Cocaine,2014,8852,18,0.203
+MA,Cocaine,2015,7348,56,0.762
+MA,Cocaine,2016,8234,173,2.101
+MA,Cocaine,2017,8509,239,2.809
+MA,Cocaine,2018,7894,113,1.431
+MA,Cocaine,2019,7902,51,0.645
+MA,Cocaine,2020,5152,18,0.349
+MA,Cocaine,2021,5866,35,0.597
+MA,Cocaine,2022,6232,35,0.562
+MA,Cocaine,2023,6523,6,0.092
+MA,Hallucinogens,2013,170,0,0
+MA,Hallucinogens,2014,160,0,0
+MA,Hallucinogens,2015,196,0,0
+MA,Hallucinogens,2016,156,0,0
+MA,Hallucinogens,2017,163,0,0
+MA,Hallucinogens,2018,172,0,0
+MA,Hallucinogens,2019,156,0,0
+MA,Hallucinogens,2020,178,0,0
+MA,Hallucinogens,2021,229,1,0.437
+MA,Hallucinogens,2022,244,0,0
+MA,Hallucinogens,2023,225,0,0
+MA,Heroin,2013,8922,11,0.123
+MA,Heroin,2014,11762,289,2.457
+MA,Heroin,2015,11358,163,1.435
+MA,Heroin,2016,9906,351,3.543
+MA,Heroin,2017,6993,426,6.092
+MA,Heroin,2018,5304,1306,24.623
+MA,Heroin,2019,4760,2367,49.727
+MA,Heroin,2020,2228,1334,59.874
+MA,Heroin,2021,1675,1280,76.418
+MA,Heroin,2022,1099,774,70.428
+MA,Heroin,2023,1158,682,58.895
+MA,Methamphetamine,2013,91,0,0
+MA,Methamphetamine,2014,154,1,0.649
+MA,Methamphetamine,2015,161,15,9.317
+MA,Methamphetamine,2016,236,13,5.508
+MA,Methamphetamine,2017,401,87,21.696
+MA,Methamphetamine,2018,481,15,3.119
+MA,Methamphetamine,2019,670,6,0.896
+MA,Methamphetamine,2020,985,3,0.305
+MA,Methamphetamine,2021,1541,3,0.195
+MA,Methamphetamine,2022,1213,14,1.154
+MA,Methamphetamine,2023,1082,5,0.462
+MA,Prescription benzodiazepines,2013,1203,0,0
+MA,Prescription benzodiazepines,2014,1477,0,0
+MA,Prescription benzodiazepines,2015,1163,0,0
+MA,Prescription benzodiazepines,2016,1629,0,0
+MA,Prescription benzodiazepines,2017,1295,0,0
+MA,Prescription benzodiazepines,2018,1178,2,0.17
+MA,Prescription benzodiazepines,2019,860,3,0.349
+MA,Prescription benzodiazepines,2020,497,1,0.201
+MA,Prescription benzodiazepines,2021,514,0,0
+MA,Prescription benzodiazepines,2022,463,1,0.216
+MA,Prescription benzodiazepines,2023,395,0,0
+MA,Prescription opioids,2013,3292,1,0.03
+MA,Prescription opioids,2014,3639,3,0.082
+MA,Prescription opioids,2015,2810,0,0
+MA,Prescription opioids,2016,3067,7,0.228
+MA,Prescription opioids,2017,2599,4,0.154
+MA,Prescription opioids,2018,2194,23,1.048
+MA,Prescription opioids,2019,1862,1,0.054
+MA,Prescription opioids,2020,1183,1,0.085
+MA,Prescription opioids,2021,909,0,0
+MA,Prescription opioids,2022,726,0,0
+MA,Prescription opioids,2023,610,20,3.279
+MA,Prescription stimulants,2013,469,0,0
+MA,Prescription stimulants,2014,580,0,0
+MA,Prescription stimulants,2015,396,0,0
+MA,Prescription stimulants,2016,524,0,0
+MA,Prescription stimulants,2017,401,0,0
+MA,Prescription stimulants,2018,460,0,0
+MA,Prescription stimulants,2019,444,0,0
+MA,Prescription stimulants,2020,316,0,0
+MA,Prescription stimulants,2021,350,0,0
+MA,Prescription stimulants,2022,297,0,0
+MA,Prescription stimulants,2023,283,0,0
+MD,Cannabinoids,2013,37272,0,0
+MD,Cannabinoids,2014,27690,0,0
+MD,Cannabinoids,2015,11378,0,0
+MD,Cannabinoids,2016,10844,4,0.037
+MD,Cannabinoids,2017,11849,9,0.076
+MD,Cannabinoids,2018,12383,7,0.057
+MD,Cannabinoids,2019,6329,7,0.111
+MD,Cannabinoids,2020,2232,1,0.045
+MD,Cannabinoids,2021,1451,8,0.551
+MD,Cannabinoids,2022,1377,7,0.508
+MD,Cannabinoids,2023,424,3,0.708
+MD,Club drugs,2013,148,0,0
+MD,Club drugs,2014,180,0,0
+MD,Club drugs,2015,435,0,0
+MD,Club drugs,2016,249,4,1.606
+MD,Club drugs,2017,255,20,7.843
+MD,Club drugs,2018,137,5,3.65
+MD,Club drugs,2019,249,25,10.04
+MD,Club drugs,2020,124,3,2.419
+MD,Club drugs,2021,96,1,1.042
+MD,Club drugs,2022,82,1,1.22
+MD,Club drugs,2023,137,2,1.46
+MD,Cocaine,2013,12770,0,0
+MD,Cocaine,2014,9860,1,0.01
+MD,Cocaine,2015,8774,3,0.034
+MD,Cocaine,2016,9173,56,0.61
+MD,Cocaine,2017,11075,168,1.517
+MD,Cocaine,2018,11318,291,2.571
+MD,Cocaine,2019,10798,208,1.926
+MD,Cocaine,2020,6550,119,1.817
+MD,Cocaine,2021,5666,205,3.618
+MD,Cocaine,2022,4962,128,2.58
+MD,Cocaine,2023,5149,163,3.166
+MD,Hallucinogens,2013,505,0,0
+MD,Hallucinogens,2014,292,0,0
+MD,Hallucinogens,2015,323,0,0
+MD,Hallucinogens,2016,402,0,0
+MD,Hallucinogens,2017,415,0,0
+MD,Hallucinogens,2018,388,0,0
+MD,Hallucinogens,2019,339,0,0
+MD,Hallucinogens,2020,291,1,0.344
+MD,Hallucinogens,2021,382,3,0.785
+MD,Hallucinogens,2022,347,2,0.576
+MD,Hallucinogens,2023,362,0,0
+MD,Heroin,2013,10805,13,0.12
+MD,Heroin,2014,10834,77,0.711
+MD,Heroin,2015,9740,184,1.889
+MD,Heroin,2016,8292,701,8.454
+MD,Heroin,2017,6696,1810,27.031
+MD,Heroin,2018,4133,2036,49.262
+MD,Heroin,2019,2979,1507,50.587
+MD,Heroin,2020,1463,910,62.201
+MD,Heroin,2021,865,645,74.566
+MD,Heroin,2022,404,306,75.743
+MD,Heroin,2023,284,238,83.803
+MD,Methamphetamine,2013,232,0,0
+MD,Methamphetamine,2014,157,0,0
+MD,Methamphetamine,2015,160,0,0
+MD,Methamphetamine,2016,314,3,0.955
+MD,Methamphetamine,2017,518,12,2.317
+MD,Methamphetamine,2018,669,6,0.897
+MD,Methamphetamine,2019,987,20,2.026
+MD,Methamphetamine,2020,999,35,3.504
+MD,Methamphetamine,2021,1078,30,2.783
+MD,Methamphetamine,2022,991,37,3.734
+MD,Methamphetamine,2023,987,34,3.445
+MD,Prescription benzodiazepines,2013,2006,0,0
+MD,Prescription benzodiazepines,2014,2017,0,0
+MD,Prescription benzodiazepines,2015,1963,0,0
+MD,Prescription benzodiazepines,2016,2249,1,0.044
+MD,Prescription benzodiazepines,2017,2210,7,0.317
+MD,Prescription benzodiazepines,2018,1820,4,0.22
+MD,Prescription benzodiazepines,2019,1278,3,0.235
+MD,Prescription benzodiazepines,2020,769,2,0.26
+MD,Prescription benzodiazepines,2021,556,1,0.18
+MD,Prescription benzodiazepines,2022,474,2,0.422
+MD,Prescription benzodiazepines,2023,403,1,0.248
+MD,Prescription opioids,2013,4863,0,0
+MD,Prescription opioids,2014,4468,0,0
+MD,Prescription opioids,2015,3847,0,0
+MD,Prescription opioids,2016,3899,7,0.18
+MD,Prescription opioids,2017,3597,19,0.528
+MD,Prescription opioids,2018,3226,18,0.558
+MD,Prescription opioids,2019,3134,12,0.383
+MD,Prescription opioids,2020,1982,7,0.353
+MD,Prescription opioids,2021,1613,10,0.62
+MD,Prescription opioids,2022,1352,1,0.074
+MD,Prescription opioids,2023,1225,5,0.408
+MD,Prescription stimulants,2013,488,0,0
+MD,Prescription stimulants,2014,470,0,0
+MD,Prescription stimulants,2015,494,0,0
+MD,Prescription stimulants,2016,597,0,0
+MD,Prescription stimulants,2017,785,1,0.127
+MD,Prescription stimulants,2018,682,3,0.44
+MD,Prescription stimulants,2019,600,1,0.167
+MD,Prescription stimulants,2020,444,0,0
+MD,Prescription stimulants,2021,358,2,0.559
+MD,Prescription stimulants,2022,358,1,0.279
+MD,Prescription stimulants,2023,294,0,0
+ME,Cannabinoids,2013,70,0,0
+ME,Cannabinoids,2014,63,0,0
+ME,Cannabinoids,2015,23,0,0
+ME,Cannabinoids,2016,45,0,0
+ME,Cannabinoids,2017,17,0,0
+ME,Cannabinoids,2018,99,0,0
+ME,Cannabinoids,2019,26,0,0
+ME,Cannabinoids,2020,143,0,0
+ME,Cannabinoids,2021,20,0,0
+ME,Cannabinoids,2022,3,0,0
+ME,Cannabinoids,2023,6,0,0
+ME,Club drugs,2013,10,0,0
+ME,Club drugs,2014,23,0,0
+ME,Club drugs,2015,19,0,0
+ME,Club drugs,2016,12,0,0
+ME,Club drugs,2017,14,0,0
+ME,Club drugs,2018,16,0,0
+ME,Club drugs,2019,15,3,20
+ME,Club drugs,2020,29,0,0
+ME,Club drugs,2021,20,0,0
+ME,Club drugs,2022,4,0,0
+ME,Club drugs,2023,3,0,0
+ME,Cocaine,2013,285,0,0
+ME,Cocaine,2014,325,0,0
+ME,Cocaine,2015,339,0,0
+ME,Cocaine,2016,326,5,1.534
+ME,Cocaine,2017,439,2,0.456
+ME,Cocaine,2018,435,1,0.23
+ME,Cocaine,2019,448,8,1.786
+ME,Cocaine,2020,386,7,1.813
+ME,Cocaine,2021,418,5,1.196
+ME,Cocaine,2022,148,6,4.054
+ME,Cocaine,2023,100,2,2
+ME,Hallucinogens,2013,22,0,0
+ME,Hallucinogens,2014,16,0,0
+ME,Hallucinogens,2015,8,0,0
+ME,Hallucinogens,2016,8,0,0
+ME,Hallucinogens,2017,10,0,0
+ME,Hallucinogens,2018,13,0,0
+ME,Hallucinogens,2019,5,0,0
+ME,Hallucinogens,2020,13,0,0
+ME,Hallucinogens,2021,17,0,0
+ME,Hallucinogens,2022,12,0,0
+ME,Hallucinogens,2023,2,0,0
+ME,Heroin,2013,281,0,0
+ME,Heroin,2014,367,1,0.272
+ME,Heroin,2015,449,5,1.114
+ME,Heroin,2016,430,58,13.488
+ME,Heroin,2017,208,5,2.404
+ME,Heroin,2018,171,10,5.848
+ME,Heroin,2019,93,18,19.355
+ME,Heroin,2020,58,25,43.103
+ME,Heroin,2021,25,8,32
+ME,Heroin,2022,11,3,27.273
+ME,Heroin,2023,2,1,50
+ME,Methamphetamine,2013,39,0,0
+ME,Methamphetamine,2014,76,0,0
+ME,Methamphetamine,2015,76,0,0
+ME,Methamphetamine,2016,84,1,1.19
+ME,Methamphetamine,2017,77,0,0
+ME,Methamphetamine,2018,196,0,0
+ME,Methamphetamine,2019,183,4,2.186
+ME,Methamphetamine,2020,265,4,1.509
+ME,Methamphetamine,2021,365,1,0.274
+ME,Methamphetamine,2022,190,1,0.526
+ME,Methamphetamine,2023,75,0,0
+ME,Prescription benzodiazepines,2013,33,0,0
+ME,Prescription benzodiazepines,2014,41,0,0
+ME,Prescription benzodiazepines,2015,18,0,0
+ME,Prescription benzodiazepines,2016,20,0,0
+ME,Prescription benzodiazepines,2017,22,1,4.545
+ME,Prescription benzodiazepines,2018,32,0,0
+ME,Prescription benzodiazepines,2019,20,0,0
+ME,Prescription benzodiazepines,2020,14,0,0
+ME,Prescription benzodiazepines,2021,16,0,0
+ME,Prescription benzodiazepines,2022,4,1,25
+ME,Prescription benzodiazepines,2023,1,0,0
+ME,Prescription opioids,2013,222,0,0
+ME,Prescription opioids,2014,282,0,0
+ME,Prescription opioids,2015,102,0,0
+ME,Prescription opioids,2016,89,0,0
+ME,Prescription opioids,2017,67,0,0
+ME,Prescription opioids,2018,103,0,0
+ME,Prescription opioids,2019,65,0,0
+ME,Prescription opioids,2020,51,0,0
+ME,Prescription opioids,2021,29,0,0
+ME,Prescription opioids,2022,6,0,0
+ME,Prescription opioids,2023,6,0,0
+ME,Prescription stimulants,2013,19,0,0
+ME,Prescription stimulants,2014,27,0,0
+ME,Prescription stimulants,2015,12,0,0
+ME,Prescription stimulants,2016,9,1,11.111
+ME,Prescription stimulants,2017,16,0,0
+ME,Prescription stimulants,2018,12,0,0
+ME,Prescription stimulants,2019,10,0,0
+ME,Prescription stimulants,2020,8,0,0
+ME,Prescription stimulants,2021,19,0,0
+ME,Prescription stimulants,2022,2,0,0
+ME,Prescription stimulants,2023,2,0,0
+MI,Cannabinoids,2013,16750,0,0
+MI,Cannabinoids,2014,16922,0,0
+MI,Cannabinoids,2015,15141,0,0
+MI,Cannabinoids,2016,13271,0,0
+MI,Cannabinoids,2017,11638,0,0
+MI,Cannabinoids,2018,9420,0,0
+MI,Cannabinoids,2019,669,2,0.299
+MI,Cannabinoids,2020,272,2,0.735
+MI,Cannabinoids,2021,167,0,0
+MI,Cannabinoids,2022,105,0,0
+MI,Cannabinoids,2023,129,1,0.775
+MI,Club drugs,2013,153,0,0
+MI,Club drugs,2014,243,0,0
+MI,Club drugs,2015,283,0,0
+MI,Club drugs,2016,213,0,0
+MI,Club drugs,2017,223,0,0
+MI,Club drugs,2018,195,0,0
+MI,Club drugs,2019,234,0,0
+MI,Club drugs,2020,168,0,0
+MI,Club drugs,2021,52,1,1.923
+MI,Club drugs,2022,41,0,0
+MI,Club drugs,2023,29,0,0
+MI,Cocaine,2013,4450,0,0
+MI,Cocaine,2014,4423,1,0.023
+MI,Cocaine,2015,4785,1,0.021
+MI,Cocaine,2016,4349,0,0
+MI,Cocaine,2017,4096,6,0.146
+MI,Cocaine,2018,3703,15,0.405
+MI,Cocaine,2019,3767,15,0.398
+MI,Cocaine,2020,2241,15,0.669
+MI,Cocaine,2021,893,27,3.024
+MI,Cocaine,2022,799,11,1.377
+MI,Cocaine,2023,700,19,2.714
+MI,Hallucinogens,2013,233,0,0
+MI,Hallucinogens,2014,233,0,0
+MI,Hallucinogens,2015,235,0,0
+MI,Hallucinogens,2016,236,0,0
+MI,Hallucinogens,2017,270,0,0
+MI,Hallucinogens,2018,288,0,0
+MI,Hallucinogens,2019,266,0,0
+MI,Hallucinogens,2020,272,0,0
+MI,Hallucinogens,2021,71,0,0
+MI,Hallucinogens,2022,76,0,0
+MI,Hallucinogens,2023,41,0,0
+MI,Heroin,2013,3113,0,0
+MI,Heroin,2014,3568,4,0.112
+MI,Heroin,2015,3919,11,0.281
+MI,Heroin,2016,3307,36,1.089
+MI,Heroin,2017,2669,43,1.611
+MI,Heroin,2018,2107,86,4.082
+MI,Heroin,2019,1940,329,16.959
+MI,Heroin,2020,1082,260,24.03
+MI,Heroin,2021,251,222,88.446
+MI,Heroin,2022,210,177,84.286
+MI,Heroin,2023,116,106,91.379
+MI,Methamphetamine,2013,1330,0,0
+MI,Methamphetamine,2014,1324,0,0
+MI,Methamphetamine,2015,1550,0,0
+MI,Methamphetamine,2016,1889,1,0.053
+MI,Methamphetamine,2017,2606,0,0
+MI,Methamphetamine,2018,4061,0,0
+MI,Methamphetamine,2019,4734,2,0.042
+MI,Methamphetamine,2020,3546,1,0.028
+MI,Methamphetamine,2021,557,5,0.898
+MI,Methamphetamine,2022,543,5,0.921
+MI,Methamphetamine,2023,446,8,1.794
+MI,Prescription benzodiazepines,2013,1219,0,0
+MI,Prescription benzodiazepines,2014,1355,0,0
+MI,Prescription benzodiazepines,2015,1343,0,0
+MI,Prescription benzodiazepines,2016,1265,1,0.079
+MI,Prescription benzodiazepines,2017,1075,4,0.372
+MI,Prescription benzodiazepines,2018,862,0,0
+MI,Prescription benzodiazepines,2019,648,0,0
+MI,Prescription benzodiazepines,2020,349,1,0.287
+MI,Prescription benzodiazepines,2021,71,0,0
+MI,Prescription benzodiazepines,2022,53,0,0
+MI,Prescription benzodiazepines,2023,47,1,2.128
+MI,Prescription opioids,2013,2884,0,0
+MI,Prescription opioids,2014,2976,0,0
+MI,Prescription opioids,2015,2771,0,0
+MI,Prescription opioids,2016,2313,0,0
+MI,Prescription opioids,2017,2133,0,0
+MI,Prescription opioids,2018,2063,0,0
+MI,Prescription opioids,2019,1958,0,0
+MI,Prescription opioids,2020,1039,0,0
+MI,Prescription opioids,2021,217,0,0
+MI,Prescription opioids,2022,215,1,0.465
+MI,Prescription opioids,2023,155,0,0
+MI,Prescription stimulants,2013,628,0,0
+MI,Prescription stimulants,2014,723,0,0
+MI,Prescription stimulants,2015,781,0,0
+MI,Prescription stimulants,2016,711,0,0
+MI,Prescription stimulants,2017,649,0,0
+MI,Prescription stimulants,2018,630,0,0
+MI,Prescription stimulants,2019,514,0,0
+MI,Prescription stimulants,2020,266,0,0
+MI,Prescription stimulants,2021,70,0,0
+MI,Prescription stimulants,2022,68,0,0
+MI,Prescription stimulants,2023,48,0,0
+MN,Cannabinoids,2013,617,0,0
+MN,Cannabinoids,2014,687,0,0
+MN,Cannabinoids,2015,879,0,0
+MN,Cannabinoids,2016,965,1,0.104
+MN,Cannabinoids,2017,1059,1,0.094
+MN,Cannabinoids,2018,1457,2,0.137
+MN,Cannabinoids,2019,1479,1,0.068
+MN,Cannabinoids,2020,1095,0,0
+MN,Cannabinoids,2021,1286,2,0.156
+MN,Cannabinoids,2022,800,0,0
+MN,Cannabinoids,2023,269,0,0
+MN,Club drugs,2013,74,0,0
+MN,Club drugs,2014,103,0,0
+MN,Club drugs,2015,111,1,0.901
+MN,Club drugs,2016,104,0,0
+MN,Club drugs,2017,123,5,4.065
+MN,Club drugs,2018,109,3,2.752
+MN,Club drugs,2019,99,0,0
+MN,Club drugs,2020,87,0,0
+MN,Club drugs,2021,79,1,1.266
+MN,Club drugs,2022,61,1,1.639
+MN,Club drugs,2023,27,0,0
+MN,Cocaine,2013,1214,0,0
+MN,Cocaine,2014,977,0,0
+MN,Cocaine,2015,995,0,0
+MN,Cocaine,2016,1123,2,0.178
+MN,Cocaine,2017,1361,5,0.367
+MN,Cocaine,2018,1314,10,0.761
+MN,Cocaine,2019,1189,22,1.85
+MN,Cocaine,2020,825,16,1.939
+MN,Cocaine,2021,871,25,2.87
+MN,Cocaine,2022,946,20,2.114
+MN,Cocaine,2023,623,4,0.642
+MN,Hallucinogens,2013,175,0,0
+MN,Hallucinogens,2014,152,0,0
+MN,Hallucinogens,2015,174,0,0
+MN,Hallucinogens,2016,160,0,0
+MN,Hallucinogens,2017,199,0,0
+MN,Hallucinogens,2018,203,0,0
+MN,Hallucinogens,2019,192,1,0.521
+MN,Hallucinogens,2020,254,0,0
+MN,Hallucinogens,2021,275,1,0.364
+MN,Hallucinogens,2022,180,2,1.111
+MN,Hallucinogens,2023,67,0,0
+MN,Heroin,2013,718,0,0
+MN,Heroin,2014,800,0,0
+MN,Heroin,2015,847,12,1.417
+MN,Heroin,2016,845,65,7.692
+MN,Heroin,2017,1110,217,19.55
+MN,Heroin,2018,1211,305,25.186
+MN,Heroin,2019,1170,411,35.128
+MN,Heroin,2020,1127,526,46.673
+MN,Heroin,2021,861,596,69.222
+MN,Heroin,2022,362,279,77.072
+MN,Heroin,2023,64,39,60.938
+MN,Methamphetamine,2013,3282,0,0
+MN,Methamphetamine,2014,3435,0,0
+MN,Methamphetamine,2015,4089,0,0
+MN,Methamphetamine,2016,4589,16,0.349
+MN,Methamphetamine,2017,5928,56,0.945
+MN,Methamphetamine,2018,7433,20,0.269
+MN,Methamphetamine,2019,6572,41,0.624
+MN,Methamphetamine,2020,6027,52,0.863
+MN,Methamphetamine,2021,6984,107,1.532
+MN,Methamphetamine,2022,5336,68,1.274
+MN,Methamphetamine,2023,3367,21,0.624
+MN,Prescription benzodiazepines,2013,119,0,0
+MN,Prescription benzodiazepines,2014,144,0,0
+MN,Prescription benzodiazepines,2015,177,0,0
+MN,Prescription benzodiazepines,2016,242,0,0
+MN,Prescription benzodiazepines,2017,222,0,0
+MN,Prescription benzodiazepines,2018,200,2,1
+MN,Prescription benzodiazepines,2019,114,1,0.877
+MN,Prescription benzodiazepines,2020,60,1,1.667
+MN,Prescription benzodiazepines,2021,85,0,0
+MN,Prescription benzodiazepines,2022,78,1,1.282
+MN,Prescription benzodiazepines,2023,14,0,0
+MN,Prescription opioids,2013,342,0,0
+MN,Prescription opioids,2014,241,0,0
+MN,Prescription opioids,2015,275,0,0
+MN,Prescription opioids,2016,292,1,0.342
+MN,Prescription opioids,2017,312,15,4.808
+MN,Prescription opioids,2018,263,15,5.703
+MN,Prescription opioids,2019,181,17,9.392
+MN,Prescription opioids,2020,142,4,2.817
+MN,Prescription opioids,2021,118,3,2.542
+MN,Prescription opioids,2022,145,0,0
+MN,Prescription opioids,2023,47,1,2.128
+MN,Prescription stimulants,2013,118,0,0
+MN,Prescription stimulants,2014,55,0,0
+MN,Prescription stimulants,2015,79,0,0
+MN,Prescription stimulants,2016,115,0,0
+MN,Prescription stimulants,2017,100,0,0
+MN,Prescription stimulants,2018,117,0,0
+MN,Prescription stimulants,2019,66,0,0
+MN,Prescription stimulants,2020,36,0,0
+MN,Prescription stimulants,2021,64,0,0
+MN,Prescription stimulants,2022,50,0,0
+MN,Prescription stimulants,2023,13,0,0
+MO,Cannabinoids,2013,10195,0,0
+MO,Cannabinoids,2014,8713,0,0
+MO,Cannabinoids,2015,8771,0,0
+MO,Cannabinoids,2016,8633,0,0
+MO,Cannabinoids,2017,9042,3,0.033
+MO,Cannabinoids,2018,8655,2,0.023
+MO,Cannabinoids,2019,7349,2,0.027
+MO,Cannabinoids,2020,6319,8,0.127
+MO,Cannabinoids,2021,6879,1,0.015
+MO,Cannabinoids,2022,4716,0,0
+MO,Cannabinoids,2023,1574,3,0.191
+MO,Club drugs,2013,108,0,0
+MO,Club drugs,2014,118,0,0
+MO,Club drugs,2015,197,0,0
+MO,Club drugs,2016,143,0,0
+MO,Club drugs,2017,141,19,13.475
+MO,Club drugs,2018,153,22,14.379
+MO,Club drugs,2019,156,35,22.436
+MO,Club drugs,2020,186,24,12.903
+MO,Club drugs,2021,134,1,0.746
+MO,Club drugs,2022,115,5,4.348
+MO,Club drugs,2023,109,9,8.257
+MO,Cocaine,2013,2539,0,0
+MO,Cocaine,2014,2001,0,0
+MO,Cocaine,2015,2231,2,0.09
+MO,Cocaine,2016,2309,4,0.173
+MO,Cocaine,2017,2417,30,1.241
+MO,Cocaine,2018,2000,31,1.55
+MO,Cocaine,2019,1939,36,1.857
+MO,Cocaine,2020,1483,62,4.181
+MO,Cocaine,2021,1619,52,3.212
+MO,Cocaine,2022,1578,77,4.88
+MO,Cocaine,2023,1601,54,3.373
+MO,Hallucinogens,2013,396,0,0
+MO,Hallucinogens,2014,401,0,0
+MO,Hallucinogens,2015,409,0,0
+MO,Hallucinogens,2016,476,0,0
+MO,Hallucinogens,2017,547,1,0.183
+MO,Hallucinogens,2018,428,0,0
+MO,Hallucinogens,2019,433,0,0
+MO,Hallucinogens,2020,488,0,0
+MO,Hallucinogens,2021,562,0,0
+MO,Hallucinogens,2022,410,0,0
+MO,Hallucinogens,2023,340,0,0
+MO,Heroin,2013,3228,0,0
+MO,Heroin,2014,2945,8,0.272
+MO,Heroin,2015,3740,52,1.39
+MO,Heroin,2016,4000,156,3.9
+MO,Heroin,2017,3722,570,15.314
+MO,Heroin,2018,2277,495,21.739
+MO,Heroin,2019,1730,361,20.867
+MO,Heroin,2020,1056,214,20.265
+MO,Heroin,2021,750,128,17.067
+MO,Heroin,2022,405,158,39.012
+MO,Heroin,2023,279,99,35.484
+MO,Methamphetamine,2013,9163,0,0
+MO,Methamphetamine,2014,9881,1,0.01
+MO,Methamphetamine,2015,12096,5,0.041
+MO,Methamphetamine,2016,13816,7,0.051
+MO,Methamphetamine,2017,15446,16,0.104
+MO,Methamphetamine,2018,17059,27,0.158
+MO,Methamphetamine,2019,19671,29,0.147
+MO,Methamphetamine,2020,16934,83,0.49
+MO,Methamphetamine,2021,19078,66,0.346
+MO,Methamphetamine,2022,15676,72,0.459
+MO,Methamphetamine,2023,12470,32,0.257
+MO,Prescription benzodiazepines,2013,2694,0,0
+MO,Prescription benzodiazepines,2014,2436,0,0
+MO,Prescription benzodiazepines,2015,2827,1,0.035
+MO,Prescription benzodiazepines,2016,3067,2,0.065
+MO,Prescription benzodiazepines,2017,3050,1,0.033
+MO,Prescription benzodiazepines,2018,2616,1,0.038
+MO,Prescription benzodiazepines,2019,1967,8,0.407
+MO,Prescription benzodiazepines,2020,1403,9,0.641
+MO,Prescription benzodiazepines,2021,1553,6,0.386
+MO,Prescription benzodiazepines,2022,1251,5,0.4
+MO,Prescription benzodiazepines,2023,910,5,0.549
+MO,Prescription opioids,2013,3640,0,0
+MO,Prescription opioids,2014,3197,1,0.031
+MO,Prescription opioids,2015,3276,1,0.031
+MO,Prescription opioids,2016,2916,2,0.069
+MO,Prescription opioids,2017,2895,4,0.138
+MO,Prescription opioids,2018,2429,4,0.165
+MO,Prescription opioids,2019,2170,4,0.184
+MO,Prescription opioids,2020,1575,7,0.444
+MO,Prescription opioids,2021,1499,6,0.4
+MO,Prescription opioids,2022,1293,11,0.851
+MO,Prescription opioids,2023,972,2,0.206
+MO,Prescription stimulants,2013,483,0,0
+MO,Prescription stimulants,2014,496,0,0
+MO,Prescription stimulants,2015,467,0,0
+MO,Prescription stimulants,2016,542,0,0
+MO,Prescription stimulants,2017,527,0,0
+MO,Prescription stimulants,2018,464,0,0
+MO,Prescription stimulants,2019,427,1,0.234
+MO,Prescription stimulants,2020,340,1,0.294
+MO,Prescription stimulants,2021,374,0,0
+MO,Prescription stimulants,2022,322,0,0
+MO,Prescription stimulants,2023,245,1,0.408
+MS,Cannabinoids,2013,7220,0,0
+MS,Cannabinoids,2014,7387,0,0
+MS,Cannabinoids,2015,6526,0,0
+MS,Cannabinoids,2016,7582,0,0
+MS,Cannabinoids,2017,7071,0,0
+MS,Cannabinoids,2018,6668,0,0
+MS,Cannabinoids,2019,5754,1,0.017
+MS,Cannabinoids,2020,4487,0,0
+MS,Cannabinoids,2021,4237,0,0
+MS,Cannabinoids,2022,2084,2,0.096
+MS,Cannabinoids,2023,639,1,0.156
+MS,Club drugs,2013,35,0,0
+MS,Club drugs,2014,83,0,0
+MS,Club drugs,2015,83,0,0
+MS,Club drugs,2016,63,0,0
+MS,Club drugs,2017,43,0,0
+MS,Club drugs,2018,36,0,0
+MS,Club drugs,2019,28,0,0
+MS,Club drugs,2020,29,4,13.793
+MS,Club drugs,2021,30,0,0
+MS,Club drugs,2022,26,0,0
+MS,Club drugs,2023,9,0,0
+MS,Cocaine,2013,3251,0,0
+MS,Cocaine,2014,2875,0,0
+MS,Cocaine,2015,2392,0,0
+MS,Cocaine,2016,2411,0,0
+MS,Cocaine,2017,2323,2,0.086
+MS,Cocaine,2018,2127,1,0.047
+MS,Cocaine,2019,1729,3,0.174
+MS,Cocaine,2020,1241,3,0.242
+MS,Cocaine,2021,1124,10,0.89
+MS,Cocaine,2022,733,13,1.774
+MS,Cocaine,2023,126,5,3.968
+MS,Hallucinogens,2013,37,0,0
+MS,Hallucinogens,2014,57,0,0
+MS,Hallucinogens,2015,62,0,0
+MS,Hallucinogens,2016,73,0,0
+MS,Hallucinogens,2017,84,0,0
+MS,Hallucinogens,2018,82,0,0
+MS,Hallucinogens,2019,69,0,0
+MS,Hallucinogens,2020,77,2,2.597
+MS,Hallucinogens,2021,82,0,0
+MS,Hallucinogens,2022,43,0,0
+MS,Hallucinogens,2023,13,0,0
+MS,Heroin,2013,152,0,0
+MS,Heroin,2014,281,1,0.356
+MS,Heroin,2015,340,0,0
+MS,Heroin,2016,398,13,3.266
+MS,Heroin,2017,424,48,11.321
+MS,Heroin,2018,445,69,15.506
+MS,Heroin,2019,571,92,16.112
+MS,Heroin,2020,458,182,39.738
+MS,Heroin,2021,258,162,62.791
+MS,Heroin,2022,96,66,68.75
+MS,Heroin,2023,7,2,28.571
+MS,Methamphetamine,2013,2309,0,0
+MS,Methamphetamine,2014,3441,0,0
+MS,Methamphetamine,2015,4558,0,0
+MS,Methamphetamine,2016,7083,0,0
+MS,Methamphetamine,2017,8013,1,0.012
+MS,Methamphetamine,2018,8767,7,0.08
+MS,Methamphetamine,2019,9671,9,0.093
+MS,Methamphetamine,2020,7412,14,0.189
+MS,Methamphetamine,2021,8014,26,0.324
+MS,Methamphetamine,2022,4039,22,0.545
+MS,Methamphetamine,2023,554,4,0.722
+MS,Prescription benzodiazepines,2013,991,0,0
+MS,Prescription benzodiazepines,2014,1034,1,0.097
+MS,Prescription benzodiazepines,2015,1116,0,0
+MS,Prescription benzodiazepines,2016,1149,0,0
+MS,Prescription benzodiazepines,2017,1085,0,0
+MS,Prescription benzodiazepines,2018,832,0,0
+MS,Prescription benzodiazepines,2019,453,0,0
+MS,Prescription benzodiazepines,2020,248,0,0
+MS,Prescription benzodiazepines,2021,194,0,0
+MS,Prescription benzodiazepines,2022,107,0,0
+MS,Prescription benzodiazepines,2023,17,0,0
+MS,Prescription opioids,2013,2318,0,0
+MS,Prescription opioids,2014,2020,0,0
+MS,Prescription opioids,2015,1877,0,0
+MS,Prescription opioids,2016,1941,0,0
+MS,Prescription opioids,2017,1982,2,0.101
+MS,Prescription opioids,2018,1476,0,0
+MS,Prescription opioids,2019,1283,0,0
+MS,Prescription opioids,2020,659,1,0.152
+MS,Prescription opioids,2021,698,1,0.143
+MS,Prescription opioids,2022,385,1,0.26
+MS,Prescription opioids,2023,45,0,0
+MS,Prescription stimulants,2013,369,0,0
+MS,Prescription stimulants,2014,379,0,0
+MS,Prescription stimulants,2015,378,0,0
+MS,Prescription stimulants,2016,411,0,0
+MS,Prescription stimulants,2017,471,0,0
+MS,Prescription stimulants,2018,385,0,0
+MS,Prescription stimulants,2019,291,0,0
+MS,Prescription stimulants,2020,214,0,0
+MS,Prescription stimulants,2021,133,0,0
+MS,Prescription stimulants,2022,95,0,0
+MS,Prescription stimulants,2023,8,0,0
+MT,Cannabinoids,2013,291,0,0
+MT,Cannabinoids,2014,196,0,0
+MT,Cannabinoids,2015,236,0,0
+MT,Cannabinoids,2016,310,0,0
+MT,Cannabinoids,2017,330,0,0
+MT,Cannabinoids,2018,256,0,0
+MT,Cannabinoids,2019,187,0,0
+MT,Cannabinoids,2020,165,0,0
+MT,Cannabinoids,2021,80,0,0
+MT,Cannabinoids,2022,117,1,0.855
+MT,Cannabinoids,2023,79,0,0
+MT,Club drugs,2013,11,0,0
+MT,Club drugs,2014,15,0,0
+MT,Club drugs,2015,28,0,0
+MT,Club drugs,2016,22,0,0
+MT,Club drugs,2017,28,0,0
+MT,Club drugs,2018,25,0,0
+MT,Club drugs,2019,23,0,0
+MT,Club drugs,2020,37,0,0
+MT,Club drugs,2021,30,0,0
+MT,Club drugs,2022,17,0,0
+MT,Club drugs,2023,24,0,0
+MT,Cocaine,2013,57,0,0
+MT,Cocaine,2014,29,0,0
+MT,Cocaine,2015,56,0,0
+MT,Cocaine,2016,60,0,0
+MT,Cocaine,2017,94,0,0
+MT,Cocaine,2018,114,0,0
+MT,Cocaine,2019,97,0,0
+MT,Cocaine,2020,72,0,0
+MT,Cocaine,2021,101,0,0
+MT,Cocaine,2022,156,4,2.564
+MT,Cocaine,2023,164,0,0
+MT,Hallucinogens,2013,16,0,0
+MT,Hallucinogens,2014,26,0,0
+MT,Hallucinogens,2015,35,0,0
+MT,Hallucinogens,2016,42,0,0
+MT,Hallucinogens,2017,66,0,0
+MT,Hallucinogens,2018,89,0,0
+MT,Hallucinogens,2019,65,0,0
+MT,Hallucinogens,2020,72,0,0
+MT,Hallucinogens,2021,106,0,0
+MT,Hallucinogens,2022,97,0,0
+MT,Hallucinogens,2023,114,0,0
+MT,Heroin,2013,72,0,0
+MT,Heroin,2014,61,0,0
+MT,Heroin,2015,146,0,0
+MT,Heroin,2016,271,1,0.369
+MT,Heroin,2017,346,1,0.289
+MT,Heroin,2018,364,3,0.824
+MT,Heroin,2019,403,10,2.481
+MT,Heroin,2020,339,4,1.18
+MT,Heroin,2021,678,5,0.737
+MT,Heroin,2022,190,10,5.263
+MT,Heroin,2023,56,9,16.071
+MT,Methamphetamine,2013,1189,0,0
+MT,Methamphetamine,2014,1311,0,0
+MT,Methamphetamine,2015,2070,0,0
+MT,Methamphetamine,2016,2131,0,0
+MT,Methamphetamine,2017,2790,1,0.036
+MT,Methamphetamine,2018,2782,0,0
+MT,Methamphetamine,2019,2269,1,0.044
+MT,Methamphetamine,2020,1972,1,0.051
+MT,Methamphetamine,2021,3245,6,0.185
+MT,Methamphetamine,2022,2833,33,1.165
+MT,Methamphetamine,2023,2586,17,0.657
+MT,Prescription benzodiazepines,2013,37,0,0
+MT,Prescription benzodiazepines,2014,34,0,0
+MT,Prescription benzodiazepines,2015,50,0,0
+MT,Prescription benzodiazepines,2016,57,0,0
+MT,Prescription benzodiazepines,2017,83,0,0
+MT,Prescription benzodiazepines,2018,77,0,0
+MT,Prescription benzodiazepines,2019,45,0,0
+MT,Prescription benzodiazepines,2020,36,0,0
+MT,Prescription benzodiazepines,2021,85,0,0
+MT,Prescription benzodiazepines,2022,83,0,0
+MT,Prescription benzodiazepines,2023,68,0,0
+MT,Prescription opioids,2013,249,0,0
+MT,Prescription opioids,2014,190,0,0
+MT,Prescription opioids,2015,210,0,0
+MT,Prescription opioids,2016,221,0,0
+MT,Prescription opioids,2017,243,2,0.823
+MT,Prescription opioids,2018,188,0,0
+MT,Prescription opioids,2019,126,0,0
+MT,Prescription opioids,2020,110,0,0
+MT,Prescription opioids,2021,140,0,0
+MT,Prescription opioids,2022,170,1,0.588
+MT,Prescription opioids,2023,140,0,0
+MT,Prescription stimulants,2013,33,0,0
+MT,Prescription stimulants,2014,17,0,0
+MT,Prescription stimulants,2015,41,0,0
+MT,Prescription stimulants,2016,15,0,0
+MT,Prescription stimulants,2017,43,0,0
+MT,Prescription stimulants,2018,30,0,0
+MT,Prescription stimulants,2019,35,0,0
+MT,Prescription stimulants,2020,27,0,0
+MT,Prescription stimulants,2021,40,0,0
+MT,Prescription stimulants,2022,41,0,0
+MT,Prescription stimulants,2023,25,0,0
+NC,Cannabinoids,2013,2121,0,0
+NC,Cannabinoids,2014,1793,0,0
+NC,Cannabinoids,2015,1507,0,0
+NC,Cannabinoids,2016,1528,0,0
+NC,Cannabinoids,2017,1957,1,0.051
+NC,Cannabinoids,2018,2458,0,0
+NC,Cannabinoids,2019,1294,2,0.155
+NC,Cannabinoids,2020,1324,0,0
+NC,Cannabinoids,2021,964,0,0
+NC,Cannabinoids,2022,805,0,0
+NC,Cannabinoids,2023,629,2,0.318
+NC,Club drugs,2013,21,0,0
+NC,Club drugs,2014,35,0,0
+NC,Club drugs,2015,134,0,0
+NC,Club drugs,2016,64,0,0
+NC,Club drugs,2017,85,3,3.529
+NC,Club drugs,2018,97,1,1.031
+NC,Club drugs,2019,93,1,1.075
+NC,Club drugs,2020,103,0,0
+NC,Club drugs,2021,51,2,3.922
+NC,Club drugs,2022,43,0,0
+NC,Club drugs,2023,45,0,0
+NC,Cocaine,2013,3230,0,0
+NC,Cocaine,2014,2593,1,0.039
+NC,Cocaine,2015,3304,0,0
+NC,Cocaine,2016,3279,11,0.335
+NC,Cocaine,2017,4711,34,0.722
+NC,Cocaine,2018,5881,39,0.663
+NC,Cocaine,2019,4407,13,0.295
+NC,Cocaine,2020,4200,14,0.333
+NC,Cocaine,2021,2880,4,0.139
+NC,Cocaine,2022,2880,20,0.694
+NC,Cocaine,2023,2144,13,0.606
+NC,Hallucinogens,2013,55,0,0
+NC,Hallucinogens,2014,68,0,0
+NC,Hallucinogens,2015,103,0,0
+NC,Hallucinogens,2016,97,0,0
+NC,Hallucinogens,2017,118,0,0
+NC,Hallucinogens,2018,126,0,0
+NC,Hallucinogens,2019,153,0,0
+NC,Hallucinogens,2020,198,0,0
+NC,Hallucinogens,2021,122,0,0
+NC,Hallucinogens,2022,149,0,0
+NC,Hallucinogens,2023,144,0,0
+NC,Heroin,2013,478,0,0
+NC,Heroin,2014,714,11,1.541
+NC,Heroin,2015,947,14,1.478
+NC,Heroin,2016,1289,67,5.198
+NC,Heroin,2017,1898,210,11.064
+NC,Heroin,2018,2703,314,11.617
+NC,Heroin,2019,2057,101,4.91
+NC,Heroin,2020,2809,96,3.418
+NC,Heroin,2021,1169,69,5.902
+NC,Heroin,2022,538,55,10.223
+NC,Heroin,2023,272,21,7.721
+NC,Methamphetamine,2013,1221,0,0
+NC,Methamphetamine,2014,1257,0,0
+NC,Methamphetamine,2015,1715,1,0.058
+NC,Methamphetamine,2016,2783,4,0.144
+NC,Methamphetamine,2017,4307,21,0.488
+NC,Methamphetamine,2018,5032,21,0.417
+NC,Methamphetamine,2019,4682,11,0.235
+NC,Methamphetamine,2020,8294,5,0.06
+NC,Methamphetamine,2021,7308,5,0.068
+NC,Methamphetamine,2022,6953,4,0.058
+NC,Methamphetamine,2023,4942,2,0.04
+NC,Prescription benzodiazepines,2013,234,0,0
+NC,Prescription benzodiazepines,2014,188,0,0
+NC,Prescription benzodiazepines,2015,155,0,0
+NC,Prescription benzodiazepines,2016,205,0,0
+NC,Prescription benzodiazepines,2017,308,13,4.221
+NC,Prescription benzodiazepines,2018,327,0,0
+NC,Prescription benzodiazepines,2019,141,0,0
+NC,Prescription benzodiazepines,2020,92,0,0
+NC,Prescription benzodiazepines,2021,81,0,0
+NC,Prescription benzodiazepines,2022,69,0,0
+NC,Prescription benzodiazepines,2023,79,0,0
+NC,Prescription opioids,2013,1014,0,0
+NC,Prescription opioids,2014,796,0,0
+NC,Prescription opioids,2015,695,0,0
+NC,Prescription opioids,2016,642,0,0
+NC,Prescription opioids,2017,900,6,0.667
+NC,Prescription opioids,2018,1028,5,0.486
+NC,Prescription opioids,2019,664,2,0.301
+NC,Prescription opioids,2020,693,1,0.144
+NC,Prescription opioids,2021,604,1,0.166
+NC,Prescription opioids,2022,535,1,0.187
+NC,Prescription opioids,2023,311,0,0
+NC,Prescription stimulants,2013,54,0,0
+NC,Prescription stimulants,2014,43,0,0
+NC,Prescription stimulants,2015,41,0,0
+NC,Prescription stimulants,2016,37,0,0
+NC,Prescription stimulants,2017,78,0,0
+NC,Prescription stimulants,2018,133,0,0
+NC,Prescription stimulants,2019,78,0,0
+NC,Prescription stimulants,2020,96,0,0
+NC,Prescription stimulants,2021,63,0,0
+NC,Prescription stimulants,2022,66,0,0
+NC,Prescription stimulants,2023,65,0,0
+ND,Cannabinoids,2013,4973,0,0
+ND,Cannabinoids,2014,5243,0,0
+ND,Cannabinoids,2015,4834,0,0
+ND,Cannabinoids,2016,4511,1,0.022
+ND,Cannabinoids,2017,4442,0,0
+ND,Cannabinoids,2018,3826,0,0
+ND,Cannabinoids,2019,2286,0,0
+ND,Cannabinoids,2020,782,0,0
+ND,Cannabinoids,2021,523,0,0
+ND,Cannabinoids,2022,305,0,0
+ND,Cannabinoids,2023,254,0,0
+ND,Club drugs,2013,100,0,0
+ND,Club drugs,2014,32,0,0
+ND,Club drugs,2015,57,0,0
+ND,Club drugs,2016,42,3,7.143
+ND,Club drugs,2017,30,0,0
+ND,Club drugs,2018,34,0,0
+ND,Club drugs,2019,17,0,0
+ND,Club drugs,2020,27,0,0
+ND,Club drugs,2021,14,0,0
+ND,Club drugs,2022,2,0,0
+ND,Club drugs,2023,10,0,0
+ND,Cocaine,2013,141,0,0
+ND,Cocaine,2014,196,0,0
+ND,Cocaine,2015,231,0,0
+ND,Cocaine,2016,352,2,0.568
+ND,Cocaine,2017,358,17,4.749
+ND,Cocaine,2018,229,0,0
+ND,Cocaine,2019,198,0,0
+ND,Cocaine,2020,157,0,0
+ND,Cocaine,2021,113,0,0
+ND,Cocaine,2022,113,2,1.77
+ND,Cocaine,2023,77,0,0
+ND,Hallucinogens,2013,56,0,0
+ND,Hallucinogens,2014,52,0,0
+ND,Hallucinogens,2015,81,0,0
+ND,Hallucinogens,2016,73,0,0
+ND,Hallucinogens,2017,66,0,0
+ND,Hallucinogens,2018,62,0,0
+ND,Hallucinogens,2019,60,0,0
+ND,Hallucinogens,2020,33,0,0
+ND,Hallucinogens,2021,31,0,0
+ND,Hallucinogens,2022,32,0,0
+ND,Hallucinogens,2023,26,0,0
+ND,Heroin,2013,126,0,0
+ND,Heroin,2014,265,0,0
+ND,Heroin,2015,479,0,0
+ND,Heroin,2016,918,33,3.595
+ND,Heroin,2017,762,49,6.43
+ND,Heroin,2018,461,5,1.085
+ND,Heroin,2019,511,89,17.417
+ND,Heroin,2020,302,0,0
+ND,Heroin,2021,134,2,1.493
+ND,Heroin,2022,59,3,5.085
+ND,Heroin,2023,9,0,0
+ND,Methamphetamine,2013,2617,0,0
+ND,Methamphetamine,2014,3511,0,0
+ND,Methamphetamine,2015,4170,0,0
+ND,Methamphetamine,2016,4598,6,0.13
+ND,Methamphetamine,2017,4551,17,0.374
+ND,Methamphetamine,2018,4124,1,0.024
+ND,Methamphetamine,2019,3282,2,0.061
+ND,Methamphetamine,2020,2317,0,0
+ND,Methamphetamine,2021,1454,1,0.069
+ND,Methamphetamine,2022,1205,4,0.332
+ND,Methamphetamine,2023,1026,0,0
+ND,Prescription benzodiazepines,2013,174,0,0
+ND,Prescription benzodiazepines,2014,184,0,0
+ND,Prescription benzodiazepines,2015,239,0,0
+ND,Prescription benzodiazepines,2016,304,0,0
+ND,Prescription benzodiazepines,2017,247,1,0.405
+ND,Prescription benzodiazepines,2018,169,0,0
+ND,Prescription benzodiazepines,2019,128,0,0
+ND,Prescription benzodiazepines,2020,82,0,0
+ND,Prescription benzodiazepines,2021,49,0,0
+ND,Prescription benzodiazepines,2022,31,0,0
+ND,Prescription benzodiazepines,2023,21,0,0
+ND,Prescription opioids,2013,483,0,0
+ND,Prescription opioids,2014,500,0,0
+ND,Prescription opioids,2015,514,0,0
+ND,Prescription opioids,2016,552,0,0
+ND,Prescription opioids,2017,465,1,0.215
+ND,Prescription opioids,2018,281,0,0
+ND,Prescription opioids,2019,243,0,0
+ND,Prescription opioids,2020,212,0,0
+ND,Prescription opioids,2021,86,0,0
+ND,Prescription opioids,2022,38,0,0
+ND,Prescription opioids,2023,38,0,0
+ND,Prescription stimulants,2013,124,0,0
+ND,Prescription stimulants,2014,101,0,0
+ND,Prescription stimulants,2015,134,0,0
+ND,Prescription stimulants,2016,124,0,0
+ND,Prescription stimulants,2017,106,0,0
+ND,Prescription stimulants,2018,92,0,0
+ND,Prescription stimulants,2019,56,0,0
+ND,Prescription stimulants,2020,18,0,0
+ND,Prescription stimulants,2021,20,0,0
+ND,Prescription stimulants,2022,10,0,0
+ND,Prescription stimulants,2023,13,0,0
+NE,Cannabinoids,2013,1963,0,0
+NE,Cannabinoids,2014,1619,0,0
+NE,Cannabinoids,2015,1554,0,0
+NE,Cannabinoids,2016,2116,0,0
+NE,Cannabinoids,2017,1941,0,0
+NE,Cannabinoids,2018,2002,0,0
+NE,Cannabinoids,2019,1291,0,0
+NE,Cannabinoids,2020,600,1,0.167
+NE,Cannabinoids,2021,409,0,0
+NE,Cannabinoids,2022,288,0,0
+NE,Cannabinoids,2023,263,0,0
+NE,Club drugs,2013,36,0,0
+NE,Club drugs,2014,62,0,0
+NE,Club drugs,2015,65,0,0
+NE,Club drugs,2016,131,0,0
+NE,Club drugs,2017,99,0,0
+NE,Club drugs,2018,55,0,0
+NE,Club drugs,2019,44,0,0
+NE,Club drugs,2020,78,0,0
+NE,Club drugs,2021,37,0,0
+NE,Club drugs,2022,39,0,0
+NE,Club drugs,2023,44,0,0
+NE,Cocaine,2013,244,0,0
+NE,Cocaine,2014,226,0,0
+NE,Cocaine,2015,323,0,0
+NE,Cocaine,2016,424,0,0
+NE,Cocaine,2017,414,0,0
+NE,Cocaine,2018,391,0,0
+NE,Cocaine,2019,411,0,0
+NE,Cocaine,2020,263,4,1.521
+NE,Cocaine,2021,250,0,0
+NE,Cocaine,2022,302,1,0.331
+NE,Cocaine,2023,334,2,0.599
+NE,Hallucinogens,2013,73,0,0
+NE,Hallucinogens,2014,85,0,0
+NE,Hallucinogens,2015,89,0,0
+NE,Hallucinogens,2016,122,0,0
+NE,Hallucinogens,2017,159,0,0
+NE,Hallucinogens,2018,113,0,0
+NE,Hallucinogens,2019,128,0,0
+NE,Hallucinogens,2020,122,0,0
+NE,Hallucinogens,2021,163,0,0
+NE,Hallucinogens,2022,153,0,0
+NE,Hallucinogens,2023,181,0,0
+NE,Heroin,2013,56,0,0
+NE,Heroin,2014,46,0,0
+NE,Heroin,2015,38,0,0
+NE,Heroin,2016,50,0,0
+NE,Heroin,2017,161,0,0
+NE,Heroin,2018,132,0,0
+NE,Heroin,2019,126,1,0.794
+NE,Heroin,2020,108,14,12.963
+NE,Heroin,2021,64,6,9.375
+NE,Heroin,2022,44,1,2.273
+NE,Heroin,2023,23,7,30.435
+NE,Methamphetamine,2013,2331,0,0
+NE,Methamphetamine,2014,2470,0,0
+NE,Methamphetamine,2015,3146,0,0
+NE,Methamphetamine,2016,3757,1,0.027
+NE,Methamphetamine,2017,3868,0,0
+NE,Methamphetamine,2018,4087,0,0
+NE,Methamphetamine,2019,4606,0,0
+NE,Methamphetamine,2020,3243,7,0.216
+NE,Methamphetamine,2021,3147,3,0.095
+NE,Methamphetamine,2022,2897,11,0.38
+NE,Methamphetamine,2023,2590,3,0.116
+NE,Prescription benzodiazepines,2013,168,0,0
+NE,Prescription benzodiazepines,2014,196,0,0
+NE,Prescription benzodiazepines,2015,170,0,0
+NE,Prescription benzodiazepines,2016,296,0,0
+NE,Prescription benzodiazepines,2017,260,0,0
+NE,Prescription benzodiazepines,2018,248,0,0
+NE,Prescription benzodiazepines,2019,240,0,0
+NE,Prescription benzodiazepines,2020,123,1,0.813
+NE,Prescription benzodiazepines,2021,129,0,0
+NE,Prescription benzodiazepines,2022,150,0,0
+NE,Prescription benzodiazepines,2023,113,0,0
+NE,Prescription opioids,2013,254,1,0.394
+NE,Prescription opioids,2014,263,0,0
+NE,Prescription opioids,2015,193,0,0
+NE,Prescription opioids,2016,285,0,0
+NE,Prescription opioids,2017,287,0,0
+NE,Prescription opioids,2018,240,1,0.417
+NE,Prescription opioids,2019,179,0,0
+NE,Prescription opioids,2020,125,2,1.6
+NE,Prescription opioids,2021,101,0,0
+NE,Prescription opioids,2022,112,0,0
+NE,Prescription opioids,2023,93,0,0
+NE,Prescription stimulants,2013,137,0,0
+NE,Prescription stimulants,2014,83,0,0
+NE,Prescription stimulants,2015,78,0,0
+NE,Prescription stimulants,2016,102,0,0
+NE,Prescription stimulants,2017,113,0,0
+NE,Prescription stimulants,2018,105,0,0
+NE,Prescription stimulants,2019,110,0,0
+NE,Prescription stimulants,2020,89,0,0
+NE,Prescription stimulants,2021,98,0,0
+NE,Prescription stimulants,2022,84,0,0
+NE,Prescription stimulants,2023,59,0,0
+NH,Cannabinoids,2013,2686,0,0
+NH,Cannabinoids,2014,2383,0,0
+NH,Cannabinoids,2015,2295,2,0.087
+NH,Cannabinoids,2016,2043,6,0.294
+NH,Cannabinoids,2017,1715,4,0.233
+NH,Cannabinoids,2018,478,0,0
+NH,Cannabinoids,2019,377,11,2.918
+NH,Cannabinoids,2020,293,5,1.706
+NH,Cannabinoids,2021,293,2,0.683
+NH,Cannabinoids,2022,208,0,0
+NH,Cannabinoids,2023,130,0,0
+NH,Club drugs,2013,23,0,0
+NH,Club drugs,2014,21,0,0
+NH,Club drugs,2015,46,1,2.174
+NH,Club drugs,2016,52,1,1.923
+NH,Club drugs,2017,54,10,18.519
+NH,Club drugs,2018,35,1,2.857
+NH,Club drugs,2019,66,19,28.788
+NH,Club drugs,2020,42,0,0
+NH,Club drugs,2021,57,0,0
+NH,Club drugs,2022,50,0,0
+NH,Club drugs,2023,19,1,5.263
+NH,Cocaine,2013,637,0,0
+NH,Cocaine,2014,685,9,1.314
+NH,Cocaine,2015,704,44,6.25
+NH,Cocaine,2016,880,66,7.5
+NH,Cocaine,2017,1237,152,12.288
+NH,Cocaine,2018,1064,173,16.259
+NH,Cocaine,2019,894,160,17.897
+NH,Cocaine,2020,705,71,10.071
+NH,Cocaine,2021,848,2,0.236
+NH,Cocaine,2022,871,4,0.459
+NH,Cocaine,2023,638,4,0.627
+NH,Hallucinogens,2013,48,0,0
+NH,Hallucinogens,2014,33,0,0
+NH,Hallucinogens,2015,49,0,0
+NH,Hallucinogens,2016,62,0,0
+NH,Hallucinogens,2017,70,0,0
+NH,Hallucinogens,2018,69,0,0
+NH,Hallucinogens,2019,83,0,0
+NH,Hallucinogens,2020,76,1,1.316
+NH,Hallucinogens,2021,87,0,0
+NH,Hallucinogens,2022,118,0,0
+NH,Hallucinogens,2023,61,0,0
+NH,Heroin,2013,1078,2,0.186
+NH,Heroin,2014,1351,66,4.885
+NH,Heroin,2015,1262,321,25.436
+NH,Heroin,2016,649,284,43.76
+NH,Heroin,2017,359,203,56.546
+NH,Heroin,2018,290,201,69.31
+NH,Heroin,2019,283,239,84.452
+NH,Heroin,2020,170,138,81.176
+NH,Heroin,2021,122,0,0
+NH,Heroin,2022,86,5,5.814
+NH,Heroin,2023,50,4,8
+NH,Methamphetamine,2013,94,0,0
+NH,Methamphetamine,2014,92,1,1.087
+NH,Methamphetamine,2015,284,19,6.69
+NH,Methamphetamine,2016,480,30,6.25
+NH,Methamphetamine,2017,889,20,2.25
+NH,Methamphetamine,2018,1031,40,3.88
+NH,Methamphetamine,2019,1260,105,8.333
+NH,Methamphetamine,2020,1086,89,8.195
+NH,Methamphetamine,2021,1532,2,0.131
+NH,Methamphetamine,2022,1270,2,0.157
+NH,Methamphetamine,2023,828,2,0.242
+NH,Prescription benzodiazepines,2013,293,0,0
+NH,Prescription benzodiazepines,2014,313,0,0
+NH,Prescription benzodiazepines,2015,315,0,0
+NH,Prescription benzodiazepines,2016,344,0,0
+NH,Prescription benzodiazepines,2017,380,3,0.789
+NH,Prescription benzodiazepines,2018,311,0,0
+NH,Prescription benzodiazepines,2019,268,1,0.373
+NH,Prescription benzodiazepines,2020,217,0,0
+NH,Prescription benzodiazepines,2021,235,0,0
+NH,Prescription benzodiazepines,2022,214,0,0
+NH,Prescription benzodiazepines,2023,142,0,0
+NH,Prescription opioids,2013,962,0,0
+NH,Prescription opioids,2014,906,1,0.11
+NH,Prescription opioids,2015,786,1,0.127
+NH,Prescription opioids,2016,633,3,0.474
+NH,Prescription opioids,2017,839,11,1.311
+NH,Prescription opioids,2018,655,3,0.458
+NH,Prescription opioids,2019,592,13,2.196
+NH,Prescription opioids,2020,453,13,2.87
+NH,Prescription opioids,2021,447,0,0
+NH,Prescription opioids,2022,397,0,0
+NH,Prescription opioids,2023,204,0,0
+NH,Prescription stimulants,2013,154,0,0
+NH,Prescription stimulants,2014,162,1,0.617
+NH,Prescription stimulants,2015,156,2,1.282
+NH,Prescription stimulants,2016,168,0,0
+NH,Prescription stimulants,2017,198,0,0
+NH,Prescription stimulants,2018,128,0,0
+NH,Prescription stimulants,2019,142,1,0.704
+NH,Prescription stimulants,2020,120,0,0
+NH,Prescription stimulants,2021,131,0,0
+NH,Prescription stimulants,2022,129,0,0
+NH,Prescription stimulants,2023,82,0,0
+NJ,Cannabinoids,2013,24927,0,0
+NJ,Cannabinoids,2014,24636,0,0
+NJ,Cannabinoids,2015,25502,0,0
+NJ,Cannabinoids,2016,31732,2,0.006
+NJ,Cannabinoids,2017,29794,1,0.003
+NJ,Cannabinoids,2018,26075,33,0.127
+NJ,Cannabinoids,2019,26475,24,0.091
+NJ,Cannabinoids,2020,16309,4,0.025
+NJ,Cannabinoids,2021,2010,41,2.04
+NJ,Cannabinoids,2022,1766,12,0.68
+NJ,Cannabinoids,2023,1659,8,0.482
+NJ,Club drugs,2013,163,0,0
+NJ,Club drugs,2014,574,0,0
+NJ,Club drugs,2015,818,0,0
+NJ,Club drugs,2016,223,7,3.139
+NJ,Club drugs,2017,155,14,9.032
+NJ,Club drugs,2018,173,29,16.763
+NJ,Club drugs,2019,206,32,15.534
+NJ,Club drugs,2020,146,15,10.274
+NJ,Club drugs,2021,164,29,17.683
+NJ,Club drugs,2022,144,11,7.639
+NJ,Club drugs,2023,196,2,1.02
+NJ,Cocaine,2013,8344,0,0
+NJ,Cocaine,2014,7834,2,0.026
+NJ,Cocaine,2015,7310,4,0.055
+NJ,Cocaine,2016,8267,11,0.133
+NJ,Cocaine,2017,9112,79,0.867
+NJ,Cocaine,2018,8504,273,3.21
+NJ,Cocaine,2019,7709,264,3.425
+NJ,Cocaine,2020,5839,204,3.494
+NJ,Cocaine,2021,6464,326,5.043
+NJ,Cocaine,2022,8027,446,5.556
+NJ,Cocaine,2023,7976,359,4.501
+NJ,Hallucinogens,2013,431,0,0
+NJ,Hallucinogens,2014,454,0,0
+NJ,Hallucinogens,2015,385,0,0
+NJ,Hallucinogens,2016,400,0,0
+NJ,Hallucinogens,2017,402,1,0.249
+NJ,Hallucinogens,2018,302,1,0.331
+NJ,Hallucinogens,2019,403,2,0.496
+NJ,Hallucinogens,2020,369,1,0.271
+NJ,Hallucinogens,2021,323,11,3.406
+NJ,Hallucinogens,2022,316,9,2.848
+NJ,Hallucinogens,2023,345,3,0.87
+NJ,Heroin,2013,13278,3,0.023
+NJ,Heroin,2014,14588,116,0.795
+NJ,Heroin,2015,13778,103,0.748
+NJ,Heroin,2016,15201,378,2.487
+NJ,Heroin,2017,13472,3183,23.627
+NJ,Heroin,2018,11460,5886,51.361
+NJ,Heroin,2019,9695,6339,65.384
+NJ,Heroin,2020,5550,4400,79.279
+NJ,Heroin,2021,3821,3322,86.941
+NJ,Heroin,2022,3274,3100,94.685
+NJ,Heroin,2023,2260,2149,95.088
+NJ,Methamphetamine,2013,223,0,0
+NJ,Methamphetamine,2014,363,2,0.551
+NJ,Methamphetamine,2015,419,0,0
+NJ,Methamphetamine,2016,650,3,0.462
+NJ,Methamphetamine,2017,1028,2,0.195
+NJ,Methamphetamine,2018,1321,77,5.829
+NJ,Methamphetamine,2019,2335,163,6.981
+NJ,Methamphetamine,2020,2176,113,5.193
+NJ,Methamphetamine,2021,2380,95,3.992
+NJ,Methamphetamine,2022,2818,120,4.258
+NJ,Methamphetamine,2023,3097,109,3.52
+NJ,Prescription benzodiazepines,2013,1541,0,0
+NJ,Prescription benzodiazepines,2014,1475,0,0
+NJ,Prescription benzodiazepines,2015,1694,0,0
+NJ,Prescription benzodiazepines,2016,2280,10,0.439
+NJ,Prescription benzodiazepines,2017,1968,6,0.305
+NJ,Prescription benzodiazepines,2018,1604,9,0.561
+NJ,Prescription benzodiazepines,2019,1229,6,0.488
+NJ,Prescription benzodiazepines,2020,775,6,0.774
+NJ,Prescription benzodiazepines,2021,603,8,1.327
+NJ,Prescription benzodiazepines,2022,585,11,1.88
+NJ,Prescription benzodiazepines,2023,581,7,1.205
+NJ,Prescription opioids,2013,3608,0,0
+NJ,Prescription opioids,2014,3362,3,0.089
+NJ,Prescription opioids,2015,3380,1,0.03
+NJ,Prescription opioids,2016,3546,0,0
+NJ,Prescription opioids,2017,3084,8,0.259
+NJ,Prescription opioids,2018,2611,21,0.804
+NJ,Prescription opioids,2019,2334,10,0.428
+NJ,Prescription opioids,2020,1544,20,1.295
+NJ,Prescription opioids,2021,1234,32,2.593
+NJ,Prescription opioids,2022,1289,27,2.095
+NJ,Prescription opioids,2023,1206,31,2.57
+NJ,Prescription stimulants,2013,322,0,0
+NJ,Prescription stimulants,2014,341,0,0
+NJ,Prescription stimulants,2015,391,0,0
+NJ,Prescription stimulants,2016,486,0,0
+NJ,Prescription stimulants,2017,495,0,0
+NJ,Prescription stimulants,2018,483,3,0.621
+NJ,Prescription stimulants,2019,480,2,0.417
+NJ,Prescription stimulants,2020,301,0,0
+NJ,Prescription stimulants,2021,238,3,1.261
+NJ,Prescription stimulants,2022,249,1,0.402
+NJ,Prescription stimulants,2023,220,3,1.364
+NM,Cannabinoids,2013,4013,0,0
+NM,Cannabinoids,2014,2436,0,0
+NM,Cannabinoids,2015,2184,0,0
+NM,Cannabinoids,2016,1995,0,0
+NM,Cannabinoids,2017,1869,0,0
+NM,Cannabinoids,2018,1923,0,0
+NM,Cannabinoids,2019,1522,0,0
+NM,Cannabinoids,2020,997,0,0
+NM,Cannabinoids,2021,383,1,0.261
+NM,Cannabinoids,2022,238,0,0
+NM,Cannabinoids,2023,90,1,1.111
+NM,Club drugs,2013,85,0,0
+NM,Club drugs,2014,55,0,0
+NM,Club drugs,2015,46,0,0
+NM,Club drugs,2016,44,0,0
+NM,Club drugs,2017,33,0,0
+NM,Club drugs,2018,37,0,0
+NM,Club drugs,2019,25,0,0
+NM,Club drugs,2020,41,1,2.439
+NM,Club drugs,2021,22,1,4.545
+NM,Club drugs,2022,20,1,5
+NM,Club drugs,2023,30,0,0
+NM,Cocaine,2013,1325,0,0
+NM,Cocaine,2014,1244,0,0
+NM,Cocaine,2015,987,0,0
+NM,Cocaine,2016,938,0,0
+NM,Cocaine,2017,804,2,0.249
+NM,Cocaine,2018,699,0,0
+NM,Cocaine,2019,640,1,0.156
+NM,Cocaine,2020,506,1,0.198
+NM,Cocaine,2021,602,3,0.498
+NM,Cocaine,2022,703,4,0.569
+NM,Cocaine,2023,612,9,1.471
+NM,Hallucinogens,2013,49,0,0
+NM,Hallucinogens,2014,37,0,0
+NM,Hallucinogens,2015,29,0,0
+NM,Hallucinogens,2016,19,0,0
+NM,Hallucinogens,2017,57,0,0
+NM,Hallucinogens,2018,40,0,0
+NM,Hallucinogens,2019,27,0,0
+NM,Hallucinogens,2020,49,0,0
+NM,Hallucinogens,2021,50,2,4
+NM,Hallucinogens,2022,55,0,0
+NM,Hallucinogens,2023,54,0,0
+NM,Heroin,2013,1345,0,0
+NM,Heroin,2014,1590,0,0
+NM,Heroin,2015,1641,0,0
+NM,Heroin,2016,1816,8,0.441
+NM,Heroin,2017,1579,5,0.317
+NM,Heroin,2018,1674,10,0.597
+NM,Heroin,2019,1795,24,1.337
+NM,Heroin,2020,1316,19,1.444
+NM,Heroin,2021,1164,54,4.639
+NM,Heroin,2022,358,33,9.218
+NM,Heroin,2023,120,9,7.5
+NM,Methamphetamine,2013,3293,0,0
+NM,Methamphetamine,2014,3719,1,0.027
+NM,Methamphetamine,2015,4315,0,0
+NM,Methamphetamine,2016,5009,1,0.02
+NM,Methamphetamine,2017,4901,0,0
+NM,Methamphetamine,2018,5170,4,0.077
+NM,Methamphetamine,2019,5157,9,0.175
+NM,Methamphetamine,2020,4318,7,0.162
+NM,Methamphetamine,2021,4787,23,0.48
+NM,Methamphetamine,2022,4300,27,0.628
+NM,Methamphetamine,2023,3378,40,1.184
+NM,Prescription benzodiazepines,2013,180,0,0
+NM,Prescription benzodiazepines,2014,218,0,0
+NM,Prescription benzodiazepines,2015,226,0,0
+NM,Prescription benzodiazepines,2016,295,0,0
+NM,Prescription benzodiazepines,2017,206,0,0
+NM,Prescription benzodiazepines,2018,276,0,0
+NM,Prescription benzodiazepines,2019,124,0,0
+NM,Prescription benzodiazepines,2020,163,3,1.84
+NM,Prescription benzodiazepines,2021,156,4,2.564
+NM,Prescription benzodiazepines,2022,190,0,0
+NM,Prescription benzodiazepines,2023,131,0,0
+NM,Prescription opioids,2013,598,0,0
+NM,Prescription opioids,2014,707,0,0
+NM,Prescription opioids,2015,683,0,0
+NM,Prescription opioids,2016,739,0,0
+NM,Prescription opioids,2017,572,0,0
+NM,Prescription opioids,2018,585,0,0
+NM,Prescription opioids,2019,518,0,0
+NM,Prescription opioids,2020,389,4,1.028
+NM,Prescription opioids,2021,312,1,0.321
+NM,Prescription opioids,2022,377,0,0
+NM,Prescription opioids,2023,365,0,0
+NM,Prescription stimulants,2013,40,0,0
+NM,Prescription stimulants,2014,45,0,0
+NM,Prescription stimulants,2015,49,0,0
+NM,Prescription stimulants,2016,55,0,0
+NM,Prescription stimulants,2017,31,0,0
+NM,Prescription stimulants,2018,62,0,0
+NM,Prescription stimulants,2019,24,0,0
+NM,Prescription stimulants,2020,20,0,0
+NM,Prescription stimulants,2021,23,0,0
+NM,Prescription stimulants,2022,37,0,0
+NM,Prescription stimulants,2023,20,0,0
+NV,Cannabinoids,2013,534,0,0
+NV,Cannabinoids,2014,620,0,0
+NV,Cannabinoids,2015,569,0,0
+NV,Cannabinoids,2016,395,0,0
+NV,Cannabinoids,2017,371,0,0
+NV,Cannabinoids,2018,378,0,0
+NV,Cannabinoids,2019,516,0,0
+NV,Cannabinoids,2020,611,0,0
+NV,Cannabinoids,2021,957,2,0.209
+NV,Cannabinoids,2022,265,1,0.377
+NV,Cannabinoids,2023,39,0,0
+NV,Club drugs,2013,113,0,0
+NV,Club drugs,2014,185,0,0
+NV,Club drugs,2015,196,0,0
+NV,Club drugs,2016,213,0,0
+NV,Club drugs,2017,80,0,0
+NV,Club drugs,2018,191,0,0
+NV,Club drugs,2019,249,1,0.402
+NV,Club drugs,2020,150,0,0
+NV,Club drugs,2021,87,0,0
+NV,Club drugs,2022,51,0,0
+NV,Club drugs,2023,10,0,0
+NV,Cocaine,2013,259,0,0
+NV,Cocaine,2014,243,0,0
+NV,Cocaine,2015,164,0,0
+NV,Cocaine,2016,171,0,0
+NV,Cocaine,2017,234,0,0
+NV,Cocaine,2018,300,0,0
+NV,Cocaine,2019,298,1,0.336
+NV,Cocaine,2020,245,1,0.408
+NV,Cocaine,2021,268,3,1.119
+NV,Cocaine,2022,156,3,1.923
+NV,Cocaine,2023,83,2,2.41
+NV,Hallucinogens,2013,51,0,0
+NV,Hallucinogens,2014,73,0,0
+NV,Hallucinogens,2015,47,0,0
+NV,Hallucinogens,2016,63,0,0
+NV,Hallucinogens,2017,61,0,0
+NV,Hallucinogens,2018,126,0,0
+NV,Hallucinogens,2019,118,0,0
+NV,Hallucinogens,2020,106,0,0
+NV,Hallucinogens,2021,130,0,0
+NV,Hallucinogens,2022,85,0,0
+NV,Hallucinogens,2023,27,0,0
+NV,Heroin,2013,512,0,0
+NV,Heroin,2014,547,1,0.183
+NV,Heroin,2015,447,0,0
+NV,Heroin,2016,409,1,0.244
+NV,Heroin,2017,404,0,0
+NV,Heroin,2018,602,3,0.498
+NV,Heroin,2019,631,5,0.792
+NV,Heroin,2020,436,9,2.064
+NV,Heroin,2021,350,7,2
+NV,Heroin,2022,258,11,4.264
+NV,Heroin,2023,91,9,9.89
+NV,Methamphetamine,2013,1179,0,0
+NV,Methamphetamine,2014,1020,0,0
+NV,Methamphetamine,2015,921,0,0
+NV,Methamphetamine,2016,936,0,0
+NV,Methamphetamine,2017,1368,0,0
+NV,Methamphetamine,2018,1791,5,0.279
+NV,Methamphetamine,2019,2662,4,0.15
+NV,Methamphetamine,2020,1985,2,0.101
+NV,Methamphetamine,2021,2151,8,0.372
+NV,Methamphetamine,2022,984,10,1.016
+NV,Methamphetamine,2023,503,10,1.988
+NV,Prescription benzodiazepines,2013,185,0,0
+NV,Prescription benzodiazepines,2014,170,0,0
+NV,Prescription benzodiazepines,2015,133,0,0
+NV,Prescription benzodiazepines,2016,206,0,0
+NV,Prescription benzodiazepines,2017,275,0,0
+NV,Prescription benzodiazepines,2018,271,0,0
+NV,Prescription benzodiazepines,2019,314,0,0
+NV,Prescription benzodiazepines,2020,204,0,0
+NV,Prescription benzodiazepines,2021,181,0,0
+NV,Prescription benzodiazepines,2022,67,0,0
+NV,Prescription benzodiazepines,2023,17,0,0
+NV,Prescription opioids,2013,346,0,0
+NV,Prescription opioids,2014,342,0,0
+NV,Prescription opioids,2015,295,0,0
+NV,Prescription opioids,2016,278,0,0
+NV,Prescription opioids,2017,234,0,0
+NV,Prescription opioids,2018,243,0,0
+NV,Prescription opioids,2019,293,4,1.365
+NV,Prescription opioids,2020,206,9,4.369
+NV,Prescription opioids,2021,214,4,1.869
+NV,Prescription opioids,2022,76,9,11.842
+NV,Prescription opioids,2023,18,0,0
+NV,Prescription stimulants,2013,28,0,0
+NV,Prescription stimulants,2014,33,0,0
+NV,Prescription stimulants,2015,28,0,0
+NV,Prescription stimulants,2016,26,0,0
+NV,Prescription stimulants,2017,28,0,0
+NV,Prescription stimulants,2018,47,0,0
+NV,Prescription stimulants,2019,68,0,0
+NV,Prescription stimulants,2020,42,0,0
+NV,Prescription stimulants,2021,47,0,0
+NV,Prescription stimulants,2022,19,0,0
+NV,Prescription stimulants,2023,4,0,0
+NY,Cannabinoids,2013,5654,0,0
+NY,Cannabinoids,2014,4498,0,0
+NY,Cannabinoids,2015,3823,0,0
+NY,Cannabinoids,2016,3763,0,0
+NY,Cannabinoids,2017,4130,1,0.024
+NY,Cannabinoids,2018,4451,0,0
+NY,Cannabinoids,2019,3585,0,0
+NY,Cannabinoids,2020,895,0,0
+NY,Cannabinoids,2021,446,0,0
+NY,Cannabinoids,2022,484,0,0
+NY,Cannabinoids,2023,376,0,0
+NY,Club drugs,2013,162,0,0
+NY,Club drugs,2014,149,0,0
+NY,Club drugs,2015,175,1,0.571
+NY,Club drugs,2016,156,1,0.641
+NY,Club drugs,2017,210,21,10
+NY,Club drugs,2018,200,8,4
+NY,Club drugs,2019,238,14,5.882
+NY,Club drugs,2020,190,5,2.632
+NY,Club drugs,2021,133,4,3.008
+NY,Club drugs,2022,125,4,3.2
+NY,Club drugs,2023,192,0,0
+NY,Cocaine,2013,7229,0,0
+NY,Cocaine,2014,6318,0,0
+NY,Cocaine,2015,6196,5,0.081
+NY,Cocaine,2016,7065,3,0.042
+NY,Cocaine,2017,8539,26,0.304
+NY,Cocaine,2018,9080,38,0.419
+NY,Cocaine,2019,9194,52,0.566
+NY,Cocaine,2020,7412,41,0.553
+NY,Cocaine,2021,7292,73,1.001
+NY,Cocaine,2022,8255,70,0.848
+NY,Cocaine,2023,8614,38,0.441
+NY,Hallucinogens,2013,313,0,0
+NY,Hallucinogens,2014,217,0,0
+NY,Hallucinogens,2015,202,0,0
+NY,Hallucinogens,2016,282,0,0
+NY,Hallucinogens,2017,309,0,0
+NY,Hallucinogens,2018,318,1,0.314
+NY,Hallucinogens,2019,259,1,0.386
+NY,Hallucinogens,2020,274,0,0
+NY,Hallucinogens,2021,190,0,0
+NY,Hallucinogens,2022,260,0,0
+NY,Hallucinogens,2023,231,0,0
+NY,Heroin,2013,3826,4,0.105
+NY,Heroin,2014,4309,21,0.487
+NY,Heroin,2015,4137,43,1.039
+NY,Heroin,2016,4020,82,2.04
+NY,Heroin,2017,4051,225,5.554
+NY,Heroin,2018,3188,412,12.923
+NY,Heroin,2019,2731,428,15.672
+NY,Heroin,2020,2094,382,18.243
+NY,Heroin,2021,1564,522,33.376
+NY,Heroin,2022,1250,286,22.88
+NY,Heroin,2023,652,189,28.988
+NY,Methamphetamine,2013,248,0,0
+NY,Methamphetamine,2014,255,0,0
+NY,Methamphetamine,2015,282,0,0
+NY,Methamphetamine,2016,354,1,0.282
+NY,Methamphetamine,2017,628,16,2.548
+NY,Methamphetamine,2018,636,17,2.673
+NY,Methamphetamine,2019,1035,5,0.483
+NY,Methamphetamine,2020,1593,11,0.691
+NY,Methamphetamine,2021,1980,19,0.96
+NY,Methamphetamine,2022,2136,21,0.983
+NY,Methamphetamine,2023,2163,26,1.202
+NY,Prescription benzodiazepines,2013,265,0,0
+NY,Prescription benzodiazepines,2014,253,0,0
+NY,Prescription benzodiazepines,2015,381,0,0
+NY,Prescription benzodiazepines,2016,404,1,0.248
+NY,Prescription benzodiazepines,2017,373,1,0.268
+NY,Prescription benzodiazepines,2018,322,1,0.311
+NY,Prescription benzodiazepines,2019,245,0,0
+NY,Prescription benzodiazepines,2020,236,1,0.424
+NY,Prescription benzodiazepines,2021,235,0,0
+NY,Prescription benzodiazepines,2022,289,1,0.346
+NY,Prescription benzodiazepines,2023,185,0,0
+NY,Prescription opioids,2013,1066,0,0
+NY,Prescription opioids,2014,1310,0,0
+NY,Prescription opioids,2015,1338,0,0
+NY,Prescription opioids,2016,1189,0,0
+NY,Prescription opioids,2017,1018,0,0
+NY,Prescription opioids,2018,1019,1,0.098
+NY,Prescription opioids,2019,1047,3,0.287
+NY,Prescription opioids,2020,677,2,0.295
+NY,Prescription opioids,2021,636,6,0.943
+NY,Prescription opioids,2022,719,7,0.974
+NY,Prescription opioids,2023,580,3,0.517
+NY,Prescription stimulants,2013,91,0,0
+NY,Prescription stimulants,2014,86,0,0
+NY,Prescription stimulants,2015,102,0,0
+NY,Prescription stimulants,2016,119,0,0
+NY,Prescription stimulants,2017,148,0,0
+NY,Prescription stimulants,2018,156,0,0
+NY,Prescription stimulants,2019,186,0,0
+NY,Prescription stimulants,2020,141,1,0.709
+NY,Prescription stimulants,2021,144,0,0
+NY,Prescription stimulants,2022,207,1,0.483
+NY,Prescription stimulants,2023,118,0,0
+OH,Cannabinoids,2013,32124,0,0
+OH,Cannabinoids,2014,33440,1,0.003
+OH,Cannabinoids,2015,31350,9,0.029
+OH,Cannabinoids,2016,24073,18,0.075
+OH,Cannabinoids,2017,23213,48,0.207
+OH,Cannabinoids,2018,26539,105,0.396
+OH,Cannabinoids,2019,19243,178,0.925
+OH,Cannabinoids,2020,8504,115,1.352
+OH,Cannabinoids,2021,9910,111,1.12
+OH,Cannabinoids,2022,8377,87,1.039
+OH,Cannabinoids,2023,7429,69,0.929
+OH,Club drugs,2013,278,0,0
+OH,Club drugs,2014,430,2,0.465
+OH,Club drugs,2015,664,0,0
+OH,Club drugs,2016,531,3,0.565
+OH,Club drugs,2017,635,36,5.669
+OH,Club drugs,2018,789,23,2.915
+OH,Club drugs,2019,741,49,6.613
+OH,Club drugs,2020,720,39,5.417
+OH,Club drugs,2021,635,56,8.819
+OH,Club drugs,2022,502,69,13.745
+OH,Club drugs,2023,467,21,4.497
+OH,Cocaine,2013,13699,3,0.022
+OH,Cocaine,2014,15269,96,0.629
+OH,Cocaine,2015,17269,189,1.094
+OH,Cocaine,2016,21525,548,2.546
+OH,Cocaine,2017,23755,1027,4.323
+OH,Cocaine,2018,24090,1261,5.235
+OH,Cocaine,2019,21321,1701,7.978
+OH,Cocaine,2020,15253,1217,7.979
+OH,Cocaine,2021,17335,1493,8.613
+OH,Cocaine,2022,17573,1736,9.879
+OH,Cocaine,2023,17350,1673,9.643
+OH,Hallucinogens,2013,567,0,0
+OH,Hallucinogens,2014,618,0,0
+OH,Hallucinogens,2015,630,0,0
+OH,Hallucinogens,2016,927,0,0
+OH,Hallucinogens,2017,1048,3,0.286
+OH,Hallucinogens,2018,1123,0,0
+OH,Hallucinogens,2019,1407,0,0
+OH,Hallucinogens,2020,1394,0,0
+OH,Hallucinogens,2021,1456,4,0.275
+OH,Hallucinogens,2022,1400,4,0.286
+OH,Hallucinogens,2023,1504,11,0.731
+OH,Heroin,2013,18359,18,0.098
+OH,Heroin,2014,20634,292,1.415
+OH,Heroin,2015,23420,943,4.026
+OH,Heroin,2016,21128,2359,11.165
+OH,Heroin,2017,15666,3339,21.314
+OH,Heroin,2018,13082,4270,32.64
+OH,Heroin,2019,12063,5372,44.533
+OH,Heroin,2020,7282,3587,49.258
+OH,Heroin,2021,4249,2019,47.517
+OH,Heroin,2022,2999,1367,45.582
+OH,Heroin,2023,2474,1378,55.699
+OH,Methamphetamine,2013,3157,0,0
+OH,Methamphetamine,2014,3733,2,0.054
+OH,Methamphetamine,2015,5581,19,0.34
+OH,Methamphetamine,2016,8471,72,0.85
+OH,Methamphetamine,2017,14312,269,1.88
+OH,Methamphetamine,2018,21667,480,2.215
+OH,Methamphetamine,2019,27918,1082,3.876
+OH,Methamphetamine,2020,29130,1133,3.889
+OH,Methamphetamine,2021,33348,1126,3.377
+OH,Methamphetamine,2022,25043,977,3.901
+OH,Methamphetamine,2023,19946,726,3.64
+OH,Prescription benzodiazepines,2013,3125,0,0
+OH,Prescription benzodiazepines,2014,3460,0,0
+OH,Prescription benzodiazepines,2015,3757,2,0.053
+OH,Prescription benzodiazepines,2016,4561,7,0.153
+OH,Prescription benzodiazepines,2017,4218,29,0.688
+OH,Prescription benzodiazepines,2018,3840,17,0.443
+OH,Prescription benzodiazepines,2019,2889,22,0.762
+OH,Prescription benzodiazepines,2020,2388,19,0.796
+OH,Prescription benzodiazepines,2021,2098,19,0.906
+OH,Prescription benzodiazepines,2022,1711,22,1.286
+OH,Prescription benzodiazepines,2023,1345,34,2.528
+OH,Prescription opioids,2013,8046,0,0
+OH,Prescription opioids,2014,8375,2,0.024
+OH,Prescription opioids,2015,8525,13,0.152
+OH,Prescription opioids,2016,8742,36,0.412
+OH,Prescription opioids,2017,7921,65,0.821
+OH,Prescription opioids,2018,6594,63,0.955
+OH,Prescription opioids,2019,6215,237,3.813
+OH,Prescription opioids,2020,5042,143,2.836
+OH,Prescription opioids,2021,4457,110,2.468
+OH,Prescription opioids,2022,3891,143,3.675
+OH,Prescription opioids,2023,2997,48,1.602
+OH,Prescription stimulants,2013,983,0,0
+OH,Prescription stimulants,2014,1164,1,0.086
+OH,Prescription stimulants,2015,1105,0,0
+OH,Prescription stimulants,2016,1413,3,0.212
+OH,Prescription stimulants,2017,1431,3,0.21
+OH,Prescription stimulants,2018,1474,3,0.204
+OH,Prescription stimulants,2019,1389,2,0.144
+OH,Prescription stimulants,2020,1047,5,0.478
+OH,Prescription stimulants,2021,1086,4,0.368
+OH,Prescription stimulants,2022,909,5,0.55
+OH,Prescription stimulants,2023,698,0,0
+OK,Cannabinoids,2013,10805,0,0
+OK,Cannabinoids,2014,11530,0,0
+OK,Cannabinoids,2015,12274,0,0
+OK,Cannabinoids,2016,14324,0,0
+OK,Cannabinoids,2017,13562,0,0
+OK,Cannabinoids,2018,11137,0,0
+OK,Cannabinoids,2019,7495,1,0.013
+OK,Cannabinoids,2020,4914,0,0
+OK,Cannabinoids,2021,8383,3,0.036
+OK,Cannabinoids,2022,10355,4,0.039
+OK,Cannabinoids,2023,11453,3,0.026
+OK,Club drugs,2013,42,0,0
+OK,Club drugs,2014,89,0,0
+OK,Club drugs,2015,125,0,0
+OK,Club drugs,2016,126,0,0
+OK,Club drugs,2017,77,0,0
+OK,Club drugs,2018,83,0,0
+OK,Club drugs,2019,69,0,0
+OK,Club drugs,2020,41,0,0
+OK,Club drugs,2021,98,0,0
+OK,Club drugs,2022,86,0,0
+OK,Club drugs,2023,86,1,1.163
+OK,Cocaine,2013,1464,0,0
+OK,Cocaine,2014,1354,0,0
+OK,Cocaine,2015,1134,0,0
+OK,Cocaine,2016,1298,0,0
+OK,Cocaine,2017,1185,0,0
+OK,Cocaine,2018,945,2,0.212
+OK,Cocaine,2019,718,1,0.139
+OK,Cocaine,2020,532,0,0
+OK,Cocaine,2021,896,12,1.339
+OK,Cocaine,2022,909,13,1.43
+OK,Cocaine,2023,873,9,1.031
+OK,Hallucinogens,2013,166,0,0
+OK,Hallucinogens,2014,201,0,0
+OK,Hallucinogens,2015,246,0,0
+OK,Hallucinogens,2016,301,0,0
+OK,Hallucinogens,2017,237,0,0
+OK,Hallucinogens,2018,302,0,0
+OK,Hallucinogens,2019,251,0,0
+OK,Hallucinogens,2020,178,0,0
+OK,Hallucinogens,2021,310,0,0
+OK,Hallucinogens,2022,281,1,0.356
+OK,Hallucinogens,2023,317,0,0
+OK,Heroin,2013,297,0,0
+OK,Heroin,2014,411,0,0
+OK,Heroin,2015,466,0,0
+OK,Heroin,2016,935,4,0.428
+OK,Heroin,2017,1029,3,0.292
+OK,Heroin,2018,1034,5,0.484
+OK,Heroin,2019,1423,8,0.562
+OK,Heroin,2020,1566,31,1.98
+OK,Heroin,2021,1488,39,2.621
+OK,Heroin,2022,1003,27,2.692
+OK,Heroin,2023,283,23,8.127
+OK,Methamphetamine,2013,12798,0,0
+OK,Methamphetamine,2014,13454,0,0
+OK,Methamphetamine,2015,15449,0,0
+OK,Methamphetamine,2016,18300,1,0.005
+OK,Methamphetamine,2017,16337,0,0
+OK,Methamphetamine,2018,12845,2,0.016
+OK,Methamphetamine,2019,13151,0,0
+OK,Methamphetamine,2020,9708,7,0.072
+OK,Methamphetamine,2021,11832,52,0.439
+OK,Methamphetamine,2022,10860,92,0.847
+OK,Methamphetamine,2023,10261,137,1.335
+OK,Prescription benzodiazepines,2013,2145,0,0
+OK,Prescription benzodiazepines,2014,2124,0,0
+OK,Prescription benzodiazepines,2015,2244,0,0
+OK,Prescription benzodiazepines,2016,2531,2,0.079
+OK,Prescription benzodiazepines,2017,2240,3,0.134
+OK,Prescription benzodiazepines,2018,1372,0,0
+OK,Prescription benzodiazepines,2019,745,0,0
+OK,Prescription benzodiazepines,2020,504,0,0
+OK,Prescription benzodiazepines,2021,632,1,0.158
+OK,Prescription benzodiazepines,2022,538,16,2.974
+OK,Prescription benzodiazepines,2023,473,1,0.211
+OK,Prescription opioids,2013,2778,0,0
+OK,Prescription opioids,2014,2573,0,0
+OK,Prescription opioids,2015,2467,0,0
+OK,Prescription opioids,2016,2437,0,0
+OK,Prescription opioids,2017,2001,1,0.05
+OK,Prescription opioids,2018,1300,6,0.462
+OK,Prescription opioids,2019,826,2,0.242
+OK,Prescription opioids,2020,635,1,0.157
+OK,Prescription opioids,2021,633,10,1.58
+OK,Prescription opioids,2022,575,2,0.348
+OK,Prescription opioids,2023,498,0,0
+OK,Prescription stimulants,2013,259,0,0
+OK,Prescription stimulants,2014,288,0,0
+OK,Prescription stimulants,2015,251,0,0
+OK,Prescription stimulants,2016,350,0,0
+OK,Prescription stimulants,2017,333,0,0
+OK,Prescription stimulants,2018,214,0,0
+OK,Prescription stimulants,2019,131,0,0
+OK,Prescription stimulants,2020,94,0,0
+OK,Prescription stimulants,2021,128,0,0
+OK,Prescription stimulants,2022,126,0,0
+OK,Prescription stimulants,2023,78,0,0
+OR,Cannabinoids,2013,2147,0,0
+OR,Cannabinoids,2014,1588,0,0
+OR,Cannabinoids,2015,939,0,0
+OR,Cannabinoids,2016,453,0,0
+OR,Cannabinoids,2017,421,0,0
+OR,Cannabinoids,2018,465,0,0
+OR,Cannabinoids,2019,286,2,0.699
+OR,Cannabinoids,2020,291,2,0.687
+OR,Cannabinoids,2021,333,0,0
+OR,Cannabinoids,2022,340,0,0
+OR,Cannabinoids,2023,439,0,0
+OR,Club drugs,2013,113,0,0
+OR,Club drugs,2014,95,0,0
+OR,Club drugs,2015,110,0,0
+OR,Club drugs,2016,120,0,0
+OR,Club drugs,2017,110,0,0
+OR,Club drugs,2018,103,0,0
+OR,Club drugs,2019,166,0,0
+OR,Club drugs,2020,140,2,1.429
+OR,Club drugs,2021,105,1,0.952
+OR,Club drugs,2022,29,0,0
+OR,Club drugs,2023,47,0,0
+OR,Cocaine,2013,703,0,0
+OR,Cocaine,2014,621,0,0
+OR,Cocaine,2015,542,0,0
+OR,Cocaine,2016,503,0,0
+OR,Cocaine,2017,594,0,0
+OR,Cocaine,2018,632,1,0.158
+OR,Cocaine,2019,557,5,0.898
+OR,Cocaine,2020,368,5,1.359
+OR,Cocaine,2021,272,6,2.206
+OR,Cocaine,2022,193,2,1.036
+OR,Cocaine,2023,299,1,0.334
+OR,Hallucinogens,2013,169,0,0
+OR,Hallucinogens,2014,153,0,0
+OR,Hallucinogens,2015,122,0,0
+OR,Hallucinogens,2016,136,0,0
+OR,Hallucinogens,2017,114,0,0
+OR,Hallucinogens,2018,135,0,0
+OR,Hallucinogens,2019,161,0,0
+OR,Hallucinogens,2020,156,0,0
+OR,Hallucinogens,2021,123,0,0
+OR,Hallucinogens,2022,46,0,0
+OR,Hallucinogens,2023,73,0,0
+OR,Heroin,2013,2503,0,0
+OR,Heroin,2014,2865,1,0.035
+OR,Heroin,2015,2931,5,0.171
+OR,Heroin,2016,2982,13,0.436
+OR,Heroin,2017,2896,13,0.449
+OR,Heroin,2018,3043,39,1.282
+OR,Heroin,2019,3265,49,1.501
+OR,Heroin,2020,2446,52,2.126
+OR,Heroin,2021,1209,52,4.301
+OR,Heroin,2022,389,35,8.997
+OR,Heroin,2023,154,11,7.143
+OR,Methamphetamine,2013,8387,2,0.024
+OR,Methamphetamine,2014,9286,0,0
+OR,Methamphetamine,2015,9828,3,0.031
+OR,Methamphetamine,2016,9354,0,0
+OR,Methamphetamine,2017,7848,4,0.051
+OR,Methamphetamine,2018,9043,9,0.1
+OR,Methamphetamine,2019,8842,15,0.17
+OR,Methamphetamine,2020,6557,21,0.32
+OR,Methamphetamine,2021,3038,41,1.35
+OR,Methamphetamine,2022,1509,51,3.38
+OR,Methamphetamine,2023,1704,99,5.81
+OR,Prescription benzodiazepines,2013,226,0,0
+OR,Prescription benzodiazepines,2014,224,0,0
+OR,Prescription benzodiazepines,2015,196,0,0
+OR,Prescription benzodiazepines,2016,206,14,6.796
+OR,Prescription benzodiazepines,2017,187,1,0.535
+OR,Prescription benzodiazepines,2018,191,3,1.571
+OR,Prescription benzodiazepines,2019,160,0,0
+OR,Prescription benzodiazepines,2020,104,0,0
+OR,Prescription benzodiazepines,2021,46,0,0
+OR,Prescription benzodiazepines,2022,26,0,0
+OR,Prescription benzodiazepines,2023,15,0,0
+OR,Prescription opioids,2013,954,0,0
+OR,Prescription opioids,2014,780,1,0.128
+OR,Prescription opioids,2015,705,0,0
+OR,Prescription opioids,2016,541,2,0.37
+OR,Prescription opioids,2017,371,3,0.809
+OR,Prescription opioids,2018,373,2,0.536
+OR,Prescription opioids,2019,374,0,0
+OR,Prescription opioids,2020,263,1,0.38
+OR,Prescription opioids,2021,121,0,0
+OR,Prescription opioids,2022,44,0,0
+OR,Prescription opioids,2023,87,0,0
+OR,Prescription stimulants,2013,95,0,0
+OR,Prescription stimulants,2014,111,0,0
+OR,Prescription stimulants,2015,86,0,0
+OR,Prescription stimulants,2016,64,0,0
+OR,Prescription stimulants,2017,54,0,0
+OR,Prescription stimulants,2018,54,0,0
+OR,Prescription stimulants,2019,68,0,0
+OR,Prescription stimulants,2020,59,0,0
+OR,Prescription stimulants,2021,14,0,0
+OR,Prescription stimulants,2022,8,0,0
+OR,Prescription stimulants,2023,17,0,0
+PA,Cannabinoids,2013,23863,0,0
+PA,Cannabinoids,2014,23670,0,0
+PA,Cannabinoids,2015,21468,0,0
+PA,Cannabinoids,2016,20466,5,0.024
+PA,Cannabinoids,2017,20306,9,0.044
+PA,Cannabinoids,2018,18851,15,0.08
+PA,Cannabinoids,2019,16509,10,0.061
+PA,Cannabinoids,2020,12904,11,0.085
+PA,Cannabinoids,2021,16086,20,0.124
+PA,Cannabinoids,2022,14924,16,0.107
+PA,Cannabinoids,2023,7331,12,0.164
+PA,Club drugs,2013,136,0,0
+PA,Club drugs,2014,409,0,0
+PA,Club drugs,2015,634,10,1.577
+PA,Club drugs,2016,275,9,3.273
+PA,Club drugs,2017,352,61,17.33
+PA,Club drugs,2018,297,34,11.448
+PA,Club drugs,2019,388,57,14.691
+PA,Club drugs,2020,372,45,12.097
+PA,Club drugs,2021,216,39,18.056
+PA,Club drugs,2022,288,26,9.028
+PA,Club drugs,2023,167,36,21.557
+PA,Cocaine,2013,13343,1,0.007
+PA,Cocaine,2014,11263,4,0.036
+PA,Cocaine,2015,12182,19,0.156
+PA,Cocaine,2016,12595,91,0.723
+PA,Cocaine,2017,12808,310,2.42
+PA,Cocaine,2018,12748,307,2.408
+PA,Cocaine,2019,11798,285,2.416
+PA,Cocaine,2020,7430,291,3.917
+PA,Cocaine,2021,13057,551,4.22
+PA,Cocaine,2022,12268,461,3.758
+PA,Cocaine,2023,8678,394,4.54
+PA,Hallucinogens,2013,898,0,0
+PA,Hallucinogens,2014,794,0,0
+PA,Hallucinogens,2015,778,0,0
+PA,Hallucinogens,2016,741,1,0.135
+PA,Hallucinogens,2017,755,1,0.132
+PA,Hallucinogens,2018,656,1,0.152
+PA,Hallucinogens,2019,588,1,0.17
+PA,Hallucinogens,2020,637,0,0
+PA,Hallucinogens,2021,782,0,0
+PA,Hallucinogens,2022,756,12,1.587
+PA,Hallucinogens,2023,497,7,1.408
+PA,Heroin,2013,14760,19,0.129
+PA,Heroin,2014,18465,226,1.224
+PA,Heroin,2015,18983,690,3.635
+PA,Heroin,2016,17575,2197,12.501
+PA,Heroin,2017,13753,5218,37.941
+PA,Heroin,2018,11066,5776,52.196
+PA,Heroin,2019,9203,5033,54.689
+PA,Heroin,2020,5663,3547,62.635
+PA,Heroin,2021,5907,5065,85.746
+PA,Heroin,2022,3313,3132,94.537
+PA,Heroin,2023,1869,1737,92.937
+PA,Methamphetamine,2013,1296,0,0
+PA,Methamphetamine,2014,1886,0,0
+PA,Methamphetamine,2015,2197,3,0.137
+PA,Methamphetamine,2016,2898,20,0.69
+PA,Methamphetamine,2017,3732,43,1.152
+PA,Methamphetamine,2018,5204,44,0.846
+PA,Methamphetamine,2019,6953,121,1.74
+PA,Methamphetamine,2020,8254,159,1.926
+PA,Methamphetamine,2021,10271,234,2.278
+PA,Methamphetamine,2022,8500,281,3.306
+PA,Methamphetamine,2023,6062,274,4.52
+PA,Prescription benzodiazepines,2013,3298,0,0
+PA,Prescription benzodiazepines,2014,3326,0,0
+PA,Prescription benzodiazepines,2015,3035,2,0.066
+PA,Prescription benzodiazepines,2016,3108,15,0.483
+PA,Prescription benzodiazepines,2017,2889,3,0.104
+PA,Prescription benzodiazepines,2018,2211,6,0.271
+PA,Prescription benzodiazepines,2019,1760,12,0.682
+PA,Prescription benzodiazepines,2020,1178,3,0.255
+PA,Prescription benzodiazepines,2021,1324,1,0.076
+PA,Prescription benzodiazepines,2022,1079,5,0.463
+PA,Prescription benzodiazepines,2023,621,2,0.322
+PA,Prescription opioids,2013,5224,0,0
+PA,Prescription opioids,2014,5700,2,0.035
+PA,Prescription opioids,2015,4933,4,0.081
+PA,Prescription opioids,2016,4216,31,0.735
+PA,Prescription opioids,2017,4039,79,1.956
+PA,Prescription opioids,2018,3635,41,1.128
+PA,Prescription opioids,2019,3038,29,0.955
+PA,Prescription opioids,2020,2201,51,2.317
+PA,Prescription opioids,2021,2583,42,1.626
+PA,Prescription opioids,2022,2624,18,0.686
+PA,Prescription opioids,2023,1353,7,0.517
+PA,Prescription stimulants,2013,579,0,0
+PA,Prescription stimulants,2014,707,0,0
+PA,Prescription stimulants,2015,637,0,0
+PA,Prescription stimulants,2016,641,1,0.156
+PA,Prescription stimulants,2017,677,0,0
+PA,Prescription stimulants,2018,682,0,0
+PA,Prescription stimulants,2019,621,2,0.322
+PA,Prescription stimulants,2020,454,4,0.881
+PA,Prescription stimulants,2021,513,0,0
+PA,Prescription stimulants,2022,523,2,0.382
+PA,Prescription stimulants,2023,265,1,0.377
+RI,Cannabinoids,2013,8,0,0
+RI,Cannabinoids,2014,108,0,0
+RI,Cannabinoids,2015,402,0,0
+RI,Cannabinoids,2016,451,0,0
+RI,Cannabinoids,2017,529,0,0
+RI,Cannabinoids,2018,576,1,0.174
+RI,Cannabinoids,2019,522,0,0
+RI,Cannabinoids,2020,468,0,0
+RI,Cannabinoids,2021,584,0,0
+RI,Cannabinoids,2022,404,0,0
+RI,Cannabinoids,2023,171,0,0
+RI,Club drugs,2014,6,0,0
+RI,Club drugs,2015,14,0,0
+RI,Club drugs,2016,33,0,0
+RI,Club drugs,2017,28,2,7.143
+RI,Club drugs,2018,17,1,5.882
+RI,Club drugs,2019,28,0,0
+RI,Club drugs,2020,43,0,0
+RI,Club drugs,2021,62,0,0
+RI,Club drugs,2022,43,0,0
+RI,Club drugs,2023,32,0,0
+RI,Cocaine,2013,39,0,0
+RI,Cocaine,2014,405,0,0
+RI,Cocaine,2015,866,0,0
+RI,Cocaine,2016,942,0,0
+RI,Cocaine,2017,1098,3,0.273
+RI,Cocaine,2018,1365,45,3.297
+RI,Cocaine,2019,1301,65,4.996
+RI,Cocaine,2020,957,66,6.897
+RI,Cocaine,2021,1475,190,12.881
+RI,Cocaine,2022,1240,168,13.548
+RI,Cocaine,2023,913,95,10.405
+RI,Hallucinogens,2014,13,0,0
+RI,Hallucinogens,2015,19,0,0
+RI,Hallucinogens,2016,31,0,0
+RI,Hallucinogens,2017,32,0,0
+RI,Hallucinogens,2018,33,0,0
+RI,Hallucinogens,2019,47,0,0
+RI,Hallucinogens,2020,42,0,0
+RI,Hallucinogens,2021,68,0,0
+RI,Hallucinogens,2022,54,0,0
+RI,Hallucinogens,2023,47,0,0
+RI,Heroin,2013,36,0,0
+RI,Heroin,2014,324,6,1.852
+RI,Heroin,2015,655,11,1.679
+RI,Heroin,2016,604,16,2.649
+RI,Heroin,2017,410,20,4.878
+RI,Heroin,2018,281,15,5.338
+RI,Heroin,2019,221,15,6.787
+RI,Heroin,2020,110,4,3.636
+RI,Heroin,2021,78,5,6.41
+RI,Heroin,2022,71,1,1.408
+RI,Heroin,2023,50,3,6
+RI,Methamphetamine,2013,7,0,0
+RI,Methamphetamine,2014,5,0,0
+RI,Methamphetamine,2015,32,0,0
+RI,Methamphetamine,2016,31,0,0
+RI,Methamphetamine,2017,59,1,1.695
+RI,Methamphetamine,2018,107,0,0
+RI,Methamphetamine,2019,189,0,0
+RI,Methamphetamine,2020,270,0,0
+RI,Methamphetamine,2021,447,2,0.447
+RI,Methamphetamine,2022,309,5,1.618
+RI,Methamphetamine,2023,234,0,0
+RI,Prescription benzodiazepines,2013,4,0,0
+RI,Prescription benzodiazepines,2014,115,0,0
+RI,Prescription benzodiazepines,2015,272,0,0
+RI,Prescription benzodiazepines,2016,311,0,0
+RI,Prescription benzodiazepines,2017,292,0,0
+RI,Prescription benzodiazepines,2018,324,0,0
+RI,Prescription benzodiazepines,2019,329,0,0
+RI,Prescription benzodiazepines,2020,189,0,0
+RI,Prescription benzodiazepines,2021,166,0,0
+RI,Prescription benzodiazepines,2022,120,0,0
+RI,Prescription benzodiazepines,2023,72,0,0
+RI,Prescription opioids,2013,1,0,0
+RI,Prescription opioids,2014,151,0,0
+RI,Prescription opioids,2015,362,0,0
+RI,Prescription opioids,2016,291,0,0
+RI,Prescription opioids,2017,262,0,0
+RI,Prescription opioids,2018,329,0,0
+RI,Prescription opioids,2019,301,0,0
+RI,Prescription opioids,2020,142,0,0
+RI,Prescription opioids,2021,162,0,0
+RI,Prescription opioids,2022,92,0,0
+RI,Prescription opioids,2023,76,0,0
+RI,Prescription stimulants,2013,2,0,0
+RI,Prescription stimulants,2014,63,0,0
+RI,Prescription stimulants,2015,97,0,0
+RI,Prescription stimulants,2016,124,0,0
+RI,Prescription stimulants,2017,148,0,0
+RI,Prescription stimulants,2018,133,0,0
+RI,Prescription stimulants,2019,150,0,0
+RI,Prescription stimulants,2020,116,0,0
+RI,Prescription stimulants,2021,140,0,0
+RI,Prescription stimulants,2022,86,0,0
+RI,Prescription stimulants,2023,65,0,0
+SC,Cannabinoids,2013,2472,0,0
+SC,Cannabinoids,2014,5540,0,0
+SC,Cannabinoids,2015,4967,0,0
+SC,Cannabinoids,2016,3924,1,0.025
+SC,Cannabinoids,2017,5322,0,0
+SC,Cannabinoids,2018,5808,4,0.069
+SC,Cannabinoids,2019,9426,2,0.021
+SC,Cannabinoids,2020,3732,3,0.08
+SC,Cannabinoids,2021,3026,7,0.231
+SC,Cannabinoids,2022,3620,1,0.028
+SC,Cannabinoids,2023,1786,1,0.056
+SC,Club drugs,2013,110,0,0
+SC,Club drugs,2014,242,0,0
+SC,Club drugs,2015,358,0,0
+SC,Club drugs,2016,125,0,0
+SC,Club drugs,2017,69,9,13.043
+SC,Club drugs,2018,78,12,15.385
+SC,Club drugs,2019,206,17,8.252
+SC,Club drugs,2020,76,5,6.579
+SC,Club drugs,2021,46,4,8.696
+SC,Club drugs,2022,152,1,0.658
+SC,Club drugs,2023,42,1,2.381
+SC,Cocaine,2013,4778,0,0
+SC,Cocaine,2014,4870,1,0.021
+SC,Cocaine,2015,5197,3,0.058
+SC,Cocaine,2016,5042,8,0.159
+SC,Cocaine,2017,5516,51,0.925
+SC,Cocaine,2018,5269,58,1.101
+SC,Cocaine,2019,4770,60,1.258
+SC,Cocaine,2020,2884,51,1.768
+SC,Cocaine,2021,2673,88,3.292
+SC,Cocaine,2022,1597,52,3.256
+SC,Cocaine,2023,798,15,1.88
+SC,Hallucinogens,2013,86,0,0
+SC,Hallucinogens,2014,97,0,0
+SC,Hallucinogens,2015,80,0,0
+SC,Hallucinogens,2016,106,0,0
+SC,Hallucinogens,2017,83,0,0
+SC,Hallucinogens,2018,75,0,0
+SC,Hallucinogens,2019,121,0,0
+SC,Hallucinogens,2020,109,1,0.917
+SC,Hallucinogens,2021,142,0,0
+SC,Hallucinogens,2022,83,0,0
+SC,Hallucinogens,2023,56,0,0
+SC,Heroin,2013,712,0,0
+SC,Heroin,2014,1051,8,0.761
+SC,Heroin,2015,1400,81,5.786
+SC,Heroin,2016,1267,100,7.893
+SC,Heroin,2017,2441,349,14.297
+SC,Heroin,2018,2201,572,25.988
+SC,Heroin,2019,3011,839,27.864
+SC,Heroin,2020,1727,808,46.786
+SC,Heroin,2021,998,555,55.611
+SC,Heroin,2022,322,170,52.795
+SC,Heroin,2023,97,44,45.361
+SC,Methamphetamine,2013,2211,0,0
+SC,Methamphetamine,2014,2775,0,0
+SC,Methamphetamine,2015,4103,7,0.171
+SC,Methamphetamine,2016,4914,7,0.142
+SC,Methamphetamine,2017,8038,34,0.423
+SC,Methamphetamine,2018,10635,73,0.686
+SC,Methamphetamine,2019,10099,118,1.168
+SC,Methamphetamine,2020,8571,148,1.727
+SC,Methamphetamine,2021,8855,170,1.92
+SC,Methamphetamine,2022,5395,102,1.891
+SC,Methamphetamine,2023,3018,83,2.75
+SC,Prescription benzodiazepines,2013,1395,0,0
+SC,Prescription benzodiazepines,2014,1677,0,0
+SC,Prescription benzodiazepines,2015,1938,0,0
+SC,Prescription benzodiazepines,2016,1998,0,0
+SC,Prescription benzodiazepines,2017,2209,0,0
+SC,Prescription benzodiazepines,2018,1924,1,0.052
+SC,Prescription benzodiazepines,2019,1439,1,0.069
+SC,Prescription benzodiazepines,2020,1139,0,0
+SC,Prescription benzodiazepines,2021,972,1,0.103
+SC,Prescription benzodiazepines,2022,443,2,0.451
+SC,Prescription benzodiazepines,2023,230,2,0.87
+SC,Prescription opioids,2013,1943,0,0
+SC,Prescription opioids,2014,2027,0,0
+SC,Prescription opioids,2015,2000,1,0.05
+SC,Prescription opioids,2016,1791,4,0.223
+SC,Prescription opioids,2017,2135,12,0.562
+SC,Prescription opioids,2018,1864,7,0.376
+SC,Prescription opioids,2019,1625,8,0.492
+SC,Prescription opioids,2020,1071,8,0.747
+SC,Prescription opioids,2021,1032,10,0.969
+SC,Prescription opioids,2022,511,0,0
+SC,Prescription opioids,2023,289,0,0
+SC,Prescription stimulants,2013,396,0,0
+SC,Prescription stimulants,2014,412,0,0
+SC,Prescription stimulants,2015,551,1,0.181
+SC,Prescription stimulants,2016,445,0,0
+SC,Prescription stimulants,2017,550,0,0
+SC,Prescription stimulants,2018,521,0,0
+SC,Prescription stimulants,2019,506,1,0.198
+SC,Prescription stimulants,2020,333,0,0
+SC,Prescription stimulants,2021,298,0,0
+SC,Prescription stimulants,2022,152,0,0
+SC,Prescription stimulants,2023,62,0,0
+SD,Cannabinoids,2013,430,0,0
+SD,Cannabinoids,2014,370,0,0
+SD,Cannabinoids,2015,250,0,0
+SD,Cannabinoids,2016,290,0,0
+SD,Cannabinoids,2017,272,0,0
+SD,Cannabinoids,2018,496,0,0
+SD,Cannabinoids,2019,568,0,0
+SD,Cannabinoids,2020,254,0,0
+SD,Cannabinoids,2021,34,0,0
+SD,Cannabinoids,2022,14,0,0
+SD,Cannabinoids,2023,1,0,0
+SD,Club drugs,2013,5,0,0
+SD,Club drugs,2014,4,0,0
+SD,Club drugs,2015,6,0,0
+SD,Club drugs,2016,2,0,0
+SD,Club drugs,2017,6,0,0
+SD,Club drugs,2018,4,0,0
+SD,Club drugs,2019,16,0,0
+SD,Club drugs,2020,6,0,0
+SD,Club drugs,2021,6,0,0
+SD,Club drugs,2022,5,0,0
+SD,Club drugs,2023,2,0,0
+SD,Cocaine,2013,24,0,0
+SD,Cocaine,2014,40,0,0
+SD,Cocaine,2015,15,0,0
+SD,Cocaine,2016,27,0,0
+SD,Cocaine,2017,51,0,0
+SD,Cocaine,2018,76,0,0
+SD,Cocaine,2019,61,0,0
+SD,Cocaine,2020,33,0,0
+SD,Cocaine,2021,34,0,0
+SD,Cocaine,2022,48,0,0
+SD,Cocaine,2023,29,0,0
+SD,Hallucinogens,2013,12,0,0
+SD,Hallucinogens,2014,9,0,0
+SD,Hallucinogens,2015,15,0,0
+SD,Hallucinogens,2016,8,0,0
+SD,Hallucinogens,2017,12,0,0
+SD,Hallucinogens,2018,23,0,0
+SD,Hallucinogens,2019,22,0,0
+SD,Hallucinogens,2020,11,0,0
+SD,Hallucinogens,2021,19,0,0
+SD,Hallucinogens,2022,23,0,0
+SD,Hallucinogens,2023,8,0,0
+SD,Heroin,2013,9,0,0
+SD,Heroin,2014,8,0,0
+SD,Heroin,2015,5,0,0
+SD,Heroin,2016,21,0,0
+SD,Heroin,2017,36,0,0
+SD,Heroin,2018,76,1,1.316
+SD,Heroin,2019,100,1,1
+SD,Heroin,2020,61,0,0
+SD,Heroin,2021,35,2,5.714
+SD,Heroin,2022,19,2,10.526
+SD,Heroin,2023,3,1,33.333
+SD,Methamphetamine,2013,414,0,0
+SD,Methamphetamine,2014,574,0,0
+SD,Methamphetamine,2015,537,0,0
+SD,Methamphetamine,2016,731,0,0
+SD,Methamphetamine,2017,962,0,0
+SD,Methamphetamine,2018,1178,0,0
+SD,Methamphetamine,2019,1343,0,0
+SD,Methamphetamine,2020,945,0,0
+SD,Methamphetamine,2021,977,2,0.205
+SD,Methamphetamine,2022,1167,4,0.343
+SD,Methamphetamine,2023,469,0,0
+SD,Prescription benzodiazepines,2013,17,0,0
+SD,Prescription benzodiazepines,2014,19,0,0
+SD,Prescription benzodiazepines,2015,16,0,0
+SD,Prescription benzodiazepines,2016,25,0,0
+SD,Prescription benzodiazepines,2017,22,0,0
+SD,Prescription benzodiazepines,2018,38,0,0
+SD,Prescription benzodiazepines,2019,40,0,0
+SD,Prescription benzodiazepines,2020,24,0,0
+SD,Prescription benzodiazepines,2021,12,0,0
+SD,Prescription benzodiazepines,2022,15,0,0
+SD,Prescription benzodiazepines,2023,5,0,0
+SD,Prescription opioids,2013,55,0,0
+SD,Prescription opioids,2014,66,0,0
+SD,Prescription opioids,2015,52,0,0
+SD,Prescription opioids,2016,63,0,0
+SD,Prescription opioids,2017,52,0,0
+SD,Prescription opioids,2018,53,0,0
+SD,Prescription opioids,2019,46,0,0
+SD,Prescription opioids,2020,40,0,0
+SD,Prescription opioids,2021,17,0,0
+SD,Prescription opioids,2022,17,0,0
+SD,Prescription opioids,2023,8,0,0
+SD,Prescription stimulants,2013,11,0,0
+SD,Prescription stimulants,2014,23,0,0
+SD,Prescription stimulants,2015,9,0,0
+SD,Prescription stimulants,2016,6,0,0
+SD,Prescription stimulants,2017,16,0,0
+SD,Prescription stimulants,2018,20,0,0
+SD,Prescription stimulants,2019,14,0,0
+SD,Prescription stimulants,2020,9,0,0
+SD,Prescription stimulants,2021,5,0,0
+SD,Prescription stimulants,2023,6,0,0
+TN,Cannabinoids,2013,10442,0,0
+TN,Cannabinoids,2014,10225,0,0
+TN,Cannabinoids,2015,9857,0,0
+TN,Cannabinoids,2016,10934,0,0
+TN,Cannabinoids,2017,12173,1,0.008
+TN,Cannabinoids,2018,13058,1,0.008
+TN,Cannabinoids,2019,10024,2,0.02
+TN,Cannabinoids,2020,6314,28,0.443
+TN,Cannabinoids,2021,6820,41,0.601
+TN,Cannabinoids,2022,5325,40,0.751
+TN,Cannabinoids,2023,2942,9,0.306
+TN,Club drugs,2013,34,0,0
+TN,Club drugs,2014,145,0,0
+TN,Club drugs,2015,243,0,0
+TN,Club drugs,2016,118,0,0
+TN,Club drugs,2017,112,0,0
+TN,Club drugs,2018,125,0,0
+TN,Club drugs,2019,117,3,2.564
+TN,Club drugs,2020,115,0,0
+TN,Club drugs,2021,131,6,4.58
+TN,Club drugs,2022,97,8,8.247
+TN,Club drugs,2023,51,0,0
+TN,Cocaine,2013,3636,0,0
+TN,Cocaine,2014,2674,0,0
+TN,Cocaine,2015,2402,0,0
+TN,Cocaine,2016,2407,1,0.042
+TN,Cocaine,2017,2719,6,0.221
+TN,Cocaine,2018,2423,5,0.206
+TN,Cocaine,2019,2342,8,0.342
+TN,Cocaine,2020,1673,8,0.478
+TN,Cocaine,2021,1928,3,0.156
+TN,Cocaine,2022,2025,8,0.395
+TN,Cocaine,2023,1307,5,0.383
+TN,Hallucinogens,2013,186,0,0
+TN,Hallucinogens,2014,132,0,0
+TN,Hallucinogens,2015,181,0,0
+TN,Hallucinogens,2016,205,0,0
+TN,Hallucinogens,2017,204,0,0
+TN,Hallucinogens,2018,175,0,0
+TN,Hallucinogens,2019,165,0,0
+TN,Hallucinogens,2020,225,0,0
+TN,Hallucinogens,2021,325,0,0
+TN,Hallucinogens,2022,362,1,0.276
+TN,Hallucinogens,2023,245,0,0
+TN,Heroin,2013,306,0,0
+TN,Heroin,2014,482,0,0
+TN,Heroin,2015,718,6,0.836
+TN,Heroin,2016,975,47,4.821
+TN,Heroin,2017,1331,61,4.583
+TN,Heroin,2018,1798,54,3.003
+TN,Heroin,2019,2195,110,5.011
+TN,Heroin,2020,2410,145,6.017
+TN,Heroin,2021,1633,57,3.491
+TN,Heroin,2022,842,59,7.007
+TN,Heroin,2023,272,23,8.456
+TN,Methamphetamine,2013,2197,0,0
+TN,Methamphetamine,2014,2928,0,0
+TN,Methamphetamine,2015,4925,0,0
+TN,Methamphetamine,2016,7702,1,0.013
+TN,Methamphetamine,2017,10293,6,0.058
+TN,Methamphetamine,2018,12270,5,0.041
+TN,Methamphetamine,2019,14219,6,0.042
+TN,Methamphetamine,2020,13031,4,0.031
+TN,Methamphetamine,2021,14889,4,0.027
+TN,Methamphetamine,2022,10336,5,0.048
+TN,Methamphetamine,2023,5198,7,0.135
+TN,Prescription benzodiazepines,2013,2810,0,0
+TN,Prescription benzodiazepines,2014,2750,0,0
+TN,Prescription benzodiazepines,2015,2996,0,0
+TN,Prescription benzodiazepines,2016,3366,28,0.832
+TN,Prescription benzodiazepines,2017,3209,0,0
+TN,Prescription benzodiazepines,2018,2772,1,0.036
+TN,Prescription benzodiazepines,2019,1769,0,0
+TN,Prescription benzodiazepines,2020,1158,0,0
+TN,Prescription benzodiazepines,2021,867,0,0
+TN,Prescription benzodiazepines,2022,476,2,0.42
+TN,Prescription benzodiazepines,2023,204,0,0
+TN,Prescription opioids,2013,7816,0,0
+TN,Prescription opioids,2014,6916,0,0
+TN,Prescription opioids,2015,7211,0,0
+TN,Prescription opioids,2016,6701,2,0.03
+TN,Prescription opioids,2017,6064,0,0
+TN,Prescription opioids,2018,4818,0,0
+TN,Prescription opioids,2019,3792,3,0.079
+TN,Prescription opioids,2020,2779,2,0.072
+TN,Prescription opioids,2021,2077,1,0.048
+TN,Prescription opioids,2022,1402,0,0
+TN,Prescription opioids,2023,687,0,0
+TN,Prescription stimulants,2013,423,0,0
+TN,Prescription stimulants,2014,402,0,0
+TN,Prescription stimulants,2015,414,0,0
+TN,Prescription stimulants,2016,464,0,0
+TN,Prescription stimulants,2017,473,0,0
+TN,Prescription stimulants,2018,501,0,0
+TN,Prescription stimulants,2019,368,0,0
+TN,Prescription stimulants,2020,289,0,0
+TN,Prescription stimulants,2021,227,0,0
+TN,Prescription stimulants,2022,146,0,0
+TN,Prescription stimulants,2023,82,0,0
+TX,Cannabinoids,2013,20859,0,0
+TX,Cannabinoids,2014,27274,0,0
+TX,Cannabinoids,2015,23285,0,0
+TX,Cannabinoids,2016,26630,0,0
+TX,Cannabinoids,2017,23199,0,0
+TX,Cannabinoids,2018,27249,0,0
+TX,Cannabinoids,2019,23767,0,0
+TX,Cannabinoids,2020,9956,0,0
+TX,Cannabinoids,2021,10238,1,0.01
+TX,Cannabinoids,2022,9633,3,0.031
+TX,Cannabinoids,2023,12719,2,0.016
+TX,Club drugs,2013,322,0,0
+TX,Club drugs,2014,784,0,0
+TX,Club drugs,2015,1385,0,0
+TX,Club drugs,2016,653,0,0
+TX,Club drugs,2017,637,0,0
+TX,Club drugs,2018,511,2,0.391
+TX,Club drugs,2019,601,0,0
+TX,Club drugs,2020,604,8,1.325
+TX,Club drugs,2021,448,1,0.223
+TX,Club drugs,2022,542,2,0.369
+TX,Club drugs,2023,511,4,0.783
+TX,Cocaine,2013,17743,0,0
+TX,Cocaine,2014,21823,0,0
+TX,Cocaine,2015,22889,0,0
+TX,Cocaine,2016,21951,0,0
+TX,Cocaine,2017,23673,7,0.03
+TX,Cocaine,2018,22186,5,0.023
+TX,Cocaine,2019,19026,13,0.068
+TX,Cocaine,2020,15623,14,0.09
+TX,Cocaine,2021,15258,14,0.092
+TX,Cocaine,2022,15602,21,0.135
+TX,Cocaine,2023,15161,26,0.171
+TX,Hallucinogens,2013,1033,0,0
+TX,Hallucinogens,2014,1564,0,0
+TX,Hallucinogens,2015,1826,0,0
+TX,Hallucinogens,2016,1807,0,0
+TX,Hallucinogens,2017,1928,0,0
+TX,Hallucinogens,2018,1889,0,0
+TX,Hallucinogens,2019,1837,0,0
+TX,Hallucinogens,2020,2060,0,0
+TX,Hallucinogens,2021,1982,0,0
+TX,Hallucinogens,2022,2021,0,0
+TX,Hallucinogens,2023,2262,2,0.088
+TX,Heroin,2013,3919,0,0
+TX,Heroin,2014,4347,0,0
+TX,Heroin,2015,5370,0,0
+TX,Heroin,2016,5536,2,0.036
+TX,Heroin,2017,6356,28,0.441
+TX,Heroin,2018,6482,64,0.987
+TX,Heroin,2019,6142,86,1.4
+TX,Heroin,2020,5698,109,1.913
+TX,Heroin,2021,4880,149,3.053
+TX,Heroin,2022,3393,127,3.743
+TX,Heroin,2023,1819,105,5.772
+TX,Methamphetamine,2013,22368,0,0
+TX,Methamphetamine,2014,30903,0,0
+TX,Methamphetamine,2015,37674,0,0
+TX,Methamphetamine,2016,43226,0,0
+TX,Methamphetamine,2017,49478,12,0.024
+TX,Methamphetamine,2018,51678,4,0.008
+TX,Methamphetamine,2019,55876,10,0.018
+TX,Methamphetamine,2020,53372,38,0.071
+TX,Methamphetamine,2021,52545,49,0.093
+TX,Methamphetamine,2022,47278,85,0.18
+TX,Methamphetamine,2023,38673,91,0.235
+TX,Prescription benzodiazepines,2013,3408,0,0
+TX,Prescription benzodiazepines,2014,4716,0,0
+TX,Prescription benzodiazepines,2015,4507,0,0
+TX,Prescription benzodiazepines,2016,5055,22,0.435
+TX,Prescription benzodiazepines,2017,4811,12,0.249
+TX,Prescription benzodiazepines,2018,4202,21,0.5
+TX,Prescription benzodiazepines,2019,2584,0,0
+TX,Prescription benzodiazepines,2020,2473,1,0.04
+TX,Prescription benzodiazepines,2021,2057,1,0.049
+TX,Prescription benzodiazepines,2022,1716,0,0
+TX,Prescription benzodiazepines,2023,1409,1,0.071
+TX,Prescription opioids,2013,3838,0,0
+TX,Prescription opioids,2014,4224,0,0
+TX,Prescription opioids,2015,3155,0,0
+TX,Prescription opioids,2016,2936,0,0
+TX,Prescription opioids,2017,2652,0,0
+TX,Prescription opioids,2018,2359,0,0
+TX,Prescription opioids,2019,1925,4,0.208
+TX,Prescription opioids,2020,1456,6,0.412
+TX,Prescription opioids,2021,1297,4,0.308
+TX,Prescription opioids,2022,1182,11,0.931
+TX,Prescription opioids,2023,1011,3,0.297
+TX,Prescription stimulants,2013,1033,0,0
+TX,Prescription stimulants,2014,1293,0,0
+TX,Prescription stimulants,2015,1240,0,0
+TX,Prescription stimulants,2016,1176,0,0
+TX,Prescription stimulants,2017,904,0,0
+TX,Prescription stimulants,2018,1210,0,0
+TX,Prescription stimulants,2019,1109,0,0
+TX,Prescription stimulants,2020,810,0,0
+TX,Prescription stimulants,2021,626,0,0
+TX,Prescription stimulants,2022,706,0,0
+TX,Prescription stimulants,2023,527,0,0
+UT,Cannabinoids,2013,1233,0,0
+UT,Cannabinoids,2014,1322,0,0
+UT,Cannabinoids,2015,1228,0,0
+UT,Cannabinoids,2016,453,0,0
+UT,Cannabinoids,2017,469,0,0
+UT,Cannabinoids,2018,717,0,0
+UT,Cannabinoids,2019,582,0,0
+UT,Cannabinoids,2020,454,0,0
+UT,Cannabinoids,2021,484,0,0
+UT,Cannabinoids,2022,427,0,0
+UT,Cannabinoids,2023,407,1,0.246
+UT,Club drugs,2013,62,0,0
+UT,Club drugs,2014,113,0,0
+UT,Club drugs,2015,118,0,0
+UT,Club drugs,2016,67,0,0
+UT,Club drugs,2017,50,0,0
+UT,Club drugs,2018,55,0,0
+UT,Club drugs,2019,50,0,0
+UT,Club drugs,2020,46,0,0
+UT,Club drugs,2021,59,0,0
+UT,Club drugs,2022,65,1,1.538
+UT,Club drugs,2023,48,1,2.083
+UT,Cocaine,2013,364,0,0
+UT,Cocaine,2014,477,0,0
+UT,Cocaine,2015,492,0,0
+UT,Cocaine,2016,300,0,0
+UT,Cocaine,2017,238,0,0
+UT,Cocaine,2018,266,2,0.752
+UT,Cocaine,2019,197,0,0
+UT,Cocaine,2020,123,0,0
+UT,Cocaine,2021,159,1,0.629
+UT,Cocaine,2022,133,1,0.752
+UT,Cocaine,2023,138,4,2.899
+UT,Hallucinogens,2013,413,0,0
+UT,Hallucinogens,2014,370,0,0
+UT,Hallucinogens,2015,311,0,0
+UT,Hallucinogens,2016,171,0,0
+UT,Hallucinogens,2017,138,0,0
+UT,Hallucinogens,2018,141,0,0
+UT,Hallucinogens,2019,155,0,0
+UT,Hallucinogens,2020,154,0,0
+UT,Hallucinogens,2021,217,0,0
+UT,Hallucinogens,2022,213,0,0
+UT,Hallucinogens,2023,212,1,0.472
+UT,Heroin,2013,1069,0,0
+UT,Heroin,2014,1552,0,0
+UT,Heroin,2015,1602,0,0
+UT,Heroin,2016,880,0,0
+UT,Heroin,2017,864,1,0.116
+UT,Heroin,2018,939,3,0.319
+UT,Heroin,2019,634,1,0.158
+UT,Heroin,2020,471,0,0
+UT,Heroin,2021,500,4,0.8
+UT,Heroin,2022,421,19,4.513
+UT,Heroin,2023,288,9,3.125
+UT,Methamphetamine,2013,2612,0,0
+UT,Methamphetamine,2014,3076,0,0
+UT,Methamphetamine,2015,2961,0,0
+UT,Methamphetamine,2016,1756,0,0
+UT,Methamphetamine,2017,1638,0,0
+UT,Methamphetamine,2018,1678,2,0.119
+UT,Methamphetamine,2019,1515,0,0
+UT,Methamphetamine,2020,967,0,0
+UT,Methamphetamine,2021,1156,4,0.346
+UT,Methamphetamine,2022,1012,12,1.186
+UT,Methamphetamine,2023,828,23,2.778
+UT,Prescription benzodiazepines,2013,540,0,0
+UT,Prescription benzodiazepines,2014,443,0,0
+UT,Prescription benzodiazepines,2015,556,0,0
+UT,Prescription benzodiazepines,2016,261,0,0
+UT,Prescription benzodiazepines,2017,151,0,0
+UT,Prescription benzodiazepines,2018,152,0,0
+UT,Prescription benzodiazepines,2019,111,0,0
+UT,Prescription benzodiazepines,2020,43,0,0
+UT,Prescription benzodiazepines,2021,53,1,1.887
+UT,Prescription benzodiazepines,2022,53,2,3.774
+UT,Prescription benzodiazepines,2023,75,5,6.667
+UT,Prescription opioids,2013,916,0,0
+UT,Prescription opioids,2014,1068,0,0
+UT,Prescription opioids,2015,765,0,0
+UT,Prescription opioids,2016,337,0,0
+UT,Prescription opioids,2017,271,0,0
+UT,Prescription opioids,2018,230,0,0
+UT,Prescription opioids,2019,215,0,0
+UT,Prescription opioids,2020,164,0,0
+UT,Prescription opioids,2021,169,0,0
+UT,Prescription opioids,2022,125,3,2.4
+UT,Prescription opioids,2023,199,4,2.01
+UT,Prescription stimulants,2013,203,0,0
+UT,Prescription stimulants,2014,214,0,0
+UT,Prescription stimulants,2015,149,0,0
+UT,Prescription stimulants,2016,70,0,0
+UT,Prescription stimulants,2017,70,0,0
+UT,Prescription stimulants,2018,48,0,0
+UT,Prescription stimulants,2019,56,0,0
+UT,Prescription stimulants,2020,26,0,0
+UT,Prescription stimulants,2021,30,0,0
+UT,Prescription stimulants,2022,44,2,4.545
+UT,Prescription stimulants,2023,41,1,2.439
+VA,Cannabinoids,2013,17956,0,0
+VA,Cannabinoids,2014,16445,0,0
+VA,Cannabinoids,2015,9873,0,0
+VA,Cannabinoids,2016,10781,2,0.019
+VA,Cannabinoids,2017,12338,4,0.032
+VA,Cannabinoids,2018,12440,2,0.016
+VA,Cannabinoids,2019,11469,1,0.009
+VA,Cannabinoids,2020,7848,11,0.14
+VA,Cannabinoids,2021,3268,8,0.245
+VA,Cannabinoids,2022,3604,28,0.777
+VA,Cannabinoids,2023,4000,28,0.7
+VA,Club drugs,2013,338,0,0
+VA,Club drugs,2014,527,2,0.38
+VA,Club drugs,2015,820,3,0.366
+VA,Club drugs,2016,416,2,0.481
+VA,Club drugs,2017,483,8,1.656
+VA,Club drugs,2018,344,7,2.035
+VA,Club drugs,2019,397,8,2.015
+VA,Club drugs,2020,255,3,1.176
+VA,Club drugs,2021,201,1,0.498
+VA,Club drugs,2022,220,8,3.636
+VA,Club drugs,2023,272,15,5.515
+VA,Cocaine,2013,8935,12,0.134
+VA,Cocaine,2014,8413,11,0.131
+VA,Cocaine,2015,8500,27,0.318
+VA,Cocaine,2016,9557,117,1.224
+VA,Cocaine,2017,11612,217,1.869
+VA,Cocaine,2018,11892,236,1.985
+VA,Cocaine,2019,11660,250,2.144
+VA,Cocaine,2020,8690,256,2.946
+VA,Cocaine,2021,8412,435,5.171
+VA,Cocaine,2022,9666,510,5.276
+VA,Cocaine,2023,11271,582,5.164
+VA,Hallucinogens,2013,558,0,0
+VA,Hallucinogens,2014,627,0,0
+VA,Hallucinogens,2015,575,0,0
+VA,Hallucinogens,2016,729,0,0
+VA,Hallucinogens,2017,859,0,0
+VA,Hallucinogens,2018,758,1,0.132
+VA,Hallucinogens,2019,744,1,0.134
+VA,Hallucinogens,2020,766,0,0
+VA,Hallucinogens,2021,810,0,0
+VA,Hallucinogens,2022,811,0,0
+VA,Hallucinogens,2023,875,0,0
+VA,Heroin,2013,4785,31,0.648
+VA,Heroin,2014,5429,80,1.474
+VA,Heroin,2015,6266,283,4.516
+VA,Heroin,2016,6793,955,14.059
+VA,Heroin,2017,6284,1646,26.194
+VA,Heroin,2018,5610,1563,27.861
+VA,Heroin,2019,5291,1556,29.408
+VA,Heroin,2020,3838,2103,54.794
+VA,Heroin,2021,2635,1818,68.994
+VA,Heroin,2022,1705,1416,83.05
+VA,Heroin,2023,1106,965,87.251
+VA,Methamphetamine,2013,2003,0,0
+VA,Methamphetamine,2014,2302,1,0.043
+VA,Methamphetamine,2015,2950,1,0.034
+VA,Methamphetamine,2016,4765,11,0.231
+VA,Methamphetamine,2017,6731,18,0.267
+VA,Methamphetamine,2018,9300,35,0.376
+VA,Methamphetamine,2019,12101,41,0.339
+VA,Methamphetamine,2020,11959,129,1.079
+VA,Methamphetamine,2021,11979,163,1.361
+VA,Methamphetamine,2022,11945,243,2.034
+VA,Methamphetamine,2023,11810,219,1.854
+VA,Prescription benzodiazepines,2013,2341,1,0.043
+VA,Prescription benzodiazepines,2014,2329,0,0
+VA,Prescription benzodiazepines,2015,2566,1,0.039
+VA,Prescription benzodiazepines,2016,3142,2,0.064
+VA,Prescription benzodiazepines,2017,2847,2,0.07
+VA,Prescription benzodiazepines,2018,2523,10,0.396
+VA,Prescription benzodiazepines,2019,1831,9,0.492
+VA,Prescription benzodiazepines,2020,1246,5,0.401
+VA,Prescription benzodiazepines,2021,1115,7,0.628
+VA,Prescription benzodiazepines,2022,989,3,0.303
+VA,Prescription benzodiazepines,2023,995,3,0.302
+VA,Prescription opioids,2013,6984,0,0
+VA,Prescription opioids,2014,6728,8,0.119
+VA,Prescription opioids,2015,6009,8,0.133
+VA,Prescription opioids,2016,5733,23,0.401
+VA,Prescription opioids,2017,5245,32,0.61
+VA,Prescription opioids,2018,4451,29,0.652
+VA,Prescription opioids,2019,4251,22,0.518
+VA,Prescription opioids,2020,3220,45,1.398
+VA,Prescription opioids,2021,2987,43,1.44
+VA,Prescription opioids,2022,2704,44,1.627
+VA,Prescription opioids,2023,2601,40,1.538
+VA,Prescription stimulants,2013,1044,1,0.096
+VA,Prescription stimulants,2014,1099,0,0
+VA,Prescription stimulants,2015,1178,0,0
+VA,Prescription stimulants,2016,1314,2,0.152
+VA,Prescription stimulants,2017,1411,0,0
+VA,Prescription stimulants,2018,1291,3,0.232
+VA,Prescription stimulants,2019,1017,0,0
+VA,Prescription stimulants,2020,781,3,0.384
+VA,Prescription stimulants,2021,607,2,0.329
+VA,Prescription stimulants,2022,622,2,0.322
+VA,Prescription stimulants,2023,536,0,0
+VT,Cannabinoids,2013,707,0,0
+VT,Cannabinoids,2014,245,0,0
+VT,Cannabinoids,2015,142,0,0
+VT,Cannabinoids,2016,192,0,0
+VT,Cannabinoids,2017,90,0,0
+VT,Cannabinoids,2018,56,0,0
+VT,Cannabinoids,2019,115,0,0
+VT,Cannabinoids,2020,44,0,0
+VT,Cannabinoids,2021,29,0,0
+VT,Cannabinoids,2022,25,0,0
+VT,Club drugs,2013,5,0,0
+VT,Club drugs,2014,9,0,0
+VT,Club drugs,2015,11,0,0
+VT,Club drugs,2016,35,0,0
+VT,Club drugs,2017,25,1,4
+VT,Club drugs,2018,26,1,3.846
+VT,Club drugs,2019,11,1,9.091
+VT,Club drugs,2020,19,0,0
+VT,Club drugs,2021,7,0,0
+VT,Club drugs,2022,4,0,0
+VT,Cocaine,2013,432,0,0
+VT,Cocaine,2014,258,1,0.388
+VT,Cocaine,2015,282,3,1.064
+VT,Cocaine,2016,224,3,1.339
+VT,Cocaine,2017,519,12,2.312
+VT,Cocaine,2018,539,3,0.557
+VT,Cocaine,2019,559,1,0.179
+VT,Cocaine,2020,660,5,0.758
+VT,Cocaine,2021,503,1,0.199
+VT,Cocaine,2022,325,1,0.308
+VT,Cocaine,2023,25,6,24
+VT,Hallucinogens,2013,5,0,0
+VT,Hallucinogens,2014,5,0,0
+VT,Hallucinogens,2015,9,0,0
+VT,Hallucinogens,2016,2,0,0
+VT,Hallucinogens,2017,14,0,0
+VT,Hallucinogens,2018,21,0,0
+VT,Hallucinogens,2019,3,0,0
+VT,Hallucinogens,2020,6,0,0
+VT,Hallucinogens,2021,2,0,0
+VT,Hallucinogens,2022,4,0,0
+VT,Heroin,2013,1974,0,0
+VT,Heroin,2014,1234,5,0.405
+VT,Heroin,2015,1295,31,2.394
+VT,Heroin,2016,1598,117,7.322
+VT,Heroin,2017,1686,209,12.396
+VT,Heroin,2018,1408,81,5.753
+VT,Heroin,2019,1038,71,6.84
+VT,Heroin,2020,736,30,4.076
+VT,Heroin,2021,602,15,2.492
+VT,Heroin,2022,335,31,9.254
+VT,Heroin,2023,16,15,93.75
+VT,Methamphetamine,2013,11,0,0
+VT,Methamphetamine,2014,6,0,0
+VT,Methamphetamine,2015,6,0,0
+VT,Methamphetamine,2016,42,1,2.381
+VT,Methamphetamine,2017,30,0,0
+VT,Methamphetamine,2018,16,0,0
+VT,Methamphetamine,2019,47,0,0
+VT,Methamphetamine,2020,67,0,0
+VT,Methamphetamine,2021,91,0,0
+VT,Methamphetamine,2022,48,0,0
+VT,Methamphetamine,2023,2,1,50
+VT,Prescription benzodiazepines,2013,4,0,0
+VT,Prescription benzodiazepines,2014,9,0,0
+VT,Prescription benzodiazepines,2015,5,0,0
+VT,Prescription benzodiazepines,2016,33,0,0
+VT,Prescription benzodiazepines,2017,12,0,0
+VT,Prescription benzodiazepines,2018,8,0,0
+VT,Prescription benzodiazepines,2019,3,0,0
+VT,Prescription benzodiazepines,2020,11,0,0
+VT,Prescription benzodiazepines,2021,13,0,0
+VT,Prescription benzodiazepines,2022,3,0,0
+VT,Prescription opioids,2013,99,0,0
+VT,Prescription opioids,2014,71,0,0
+VT,Prescription opioids,2015,48,0,0
+VT,Prescription opioids,2016,72,0,0
+VT,Prescription opioids,2017,75,8,10.667
+VT,Prescription opioids,2018,93,2,2.151
+VT,Prescription opioids,2019,32,0,0
+VT,Prescription opioids,2020,46,0,0
+VT,Prescription opioids,2021,29,0,0
+VT,Prescription opioids,2022,26,0,0
+VT,Prescription stimulants,2013,10,0,0
+VT,Prescription stimulants,2014,6,0,0
+VT,Prescription stimulants,2015,7,0,0
+VT,Prescription stimulants,2016,19,0,0
+VT,Prescription stimulants,2017,6,0,0
+VT,Prescription stimulants,2018,7,0,0
+VT,Prescription stimulants,2019,14,0,0
+VT,Prescription stimulants,2020,12,0,0
+VT,Prescription stimulants,2021,7,0,0
+VT,Prescription stimulants,2022,6,0,0
+WA,Cannabinoids,2013,969,0,0
+WA,Cannabinoids,2014,1025,0,0
+WA,Cannabinoids,2015,1055,0,0
+WA,Cannabinoids,2016,1246,0,0
+WA,Cannabinoids,2017,1410,0,0
+WA,Cannabinoids,2018,1368,1,0.073
+WA,Cannabinoids,2019,1053,0,0
+WA,Cannabinoids,2020,878,0,0
+WA,Cannabinoids,2021,464,0,0
+WA,Cannabinoids,2022,328,0,0
+WA,Cannabinoids,2023,255,0,0
+WA,Club drugs,2013,85,0,0
+WA,Club drugs,2014,92,1,1.087
+WA,Club drugs,2015,98,0,0
+WA,Club drugs,2016,125,0,0
+WA,Club drugs,2017,123,0,0
+WA,Club drugs,2018,149,0,0
+WA,Club drugs,2019,141,0,0
+WA,Club drugs,2020,116,2,1.724
+WA,Club drugs,2021,72,1,1.389
+WA,Club drugs,2022,63,0,0
+WA,Club drugs,2023,78,0,0
+WA,Cocaine,2013,730,0,0
+WA,Cocaine,2014,566,0,0
+WA,Cocaine,2015,568,0,0
+WA,Cocaine,2016,646,1,0.155
+WA,Cocaine,2017,742,1,0.135
+WA,Cocaine,2018,843,1,0.119
+WA,Cocaine,2019,773,1,0.129
+WA,Cocaine,2020,618,1,0.162
+WA,Cocaine,2021,427,2,0.468
+WA,Cocaine,2022,464,4,0.862
+WA,Cocaine,2023,513,2,0.39
+WA,Hallucinogens,2013,114,0,0
+WA,Hallucinogens,2014,93,0,0
+WA,Hallucinogens,2015,102,0,0
+WA,Hallucinogens,2016,123,0,0
+WA,Hallucinogens,2017,102,0,0
+WA,Hallucinogens,2018,130,0,0
+WA,Hallucinogens,2019,121,0,0
+WA,Hallucinogens,2020,164,0,0
+WA,Hallucinogens,2021,82,0,0
+WA,Hallucinogens,2022,70,0,0
+WA,Hallucinogens,2023,80,0,0
+WA,Heroin,2013,2486,0,0
+WA,Heroin,2014,2669,0,0
+WA,Heroin,2015,2807,1,0.036
+WA,Heroin,2016,3231,2,0.062
+WA,Heroin,2017,3303,2,0.061
+WA,Heroin,2018,3559,5,0.14
+WA,Heroin,2019,3672,1,0.027
+WA,Heroin,2020,3456,14,0.405
+WA,Heroin,2021,1251,15,1.199
+WA,Heroin,2022,616,13,2.11
+WA,Heroin,2023,320,6,1.875
+WA,Methamphetamine,2013,5691,0,0
+WA,Methamphetamine,2014,5936,2,0.034
+WA,Methamphetamine,2015,6046,0,0
+WA,Methamphetamine,2016,6629,11,0.166
+WA,Methamphetamine,2017,6805,0,0
+WA,Methamphetamine,2018,7009,2,0.029
+WA,Methamphetamine,2019,7620,0,0
+WA,Methamphetamine,2020,6911,8,0.116
+WA,Methamphetamine,2021,2310,8,0.346
+WA,Methamphetamine,2022,2017,21,1.041
+WA,Methamphetamine,2023,2401,7,0.292
+WA,Prescription benzodiazepines,2013,213,0,0
+WA,Prescription benzodiazepines,2014,226,0,0
+WA,Prescription benzodiazepines,2015,286,0,0
+WA,Prescription benzodiazepines,2016,392,0,0
+WA,Prescription benzodiazepines,2017,294,0,0
+WA,Prescription benzodiazepines,2018,266,0,0
+WA,Prescription benzodiazepines,2019,179,0,0
+WA,Prescription benzodiazepines,2020,142,0,0
+WA,Prescription benzodiazepines,2021,82,0,0
+WA,Prescription benzodiazepines,2022,61,0,0
+WA,Prescription benzodiazepines,2023,52,0,0
+WA,Prescription opioids,2013,813,0,0
+WA,Prescription opioids,2014,695,0,0
+WA,Prescription opioids,2015,714,0,0
+WA,Prescription opioids,2016,763,0,0
+WA,Prescription opioids,2017,632,0,0
+WA,Prescription opioids,2018,563,0,0
+WA,Prescription opioids,2019,578,0,0
+WA,Prescription opioids,2020,425,0,0
+WA,Prescription opioids,2021,169,0,0
+WA,Prescription opioids,2022,159,1,0.629
+WA,Prescription opioids,2023,141,0,0
+WA,Prescription stimulants,2013,79,0,0
+WA,Prescription stimulants,2014,61,0,0
+WA,Prescription stimulants,2015,71,0,0
+WA,Prescription stimulants,2016,88,0,0
+WA,Prescription stimulants,2017,75,0,0
+WA,Prescription stimulants,2018,79,0,0
+WA,Prescription stimulants,2019,87,0,0
+WA,Prescription stimulants,2020,60,0,0
+WA,Prescription stimulants,2021,34,0,0
+WA,Prescription stimulants,2022,28,0,0
+WA,Prescription stimulants,2023,16,0,0
+WI,Cannabinoids,2013,4016,0,0
+WI,Cannabinoids,2014,3963,1,0.025
+WI,Cannabinoids,2015,3864,1,0.026
+WI,Cannabinoids,2016,3679,1,0.027
+WI,Cannabinoids,2017,2702,0,0
+WI,Cannabinoids,2018,2222,0,0
+WI,Cannabinoids,2019,1824,0,0
+WI,Cannabinoids,2020,1257,1,0.08
+WI,Cannabinoids,2021,1471,0,0
+WI,Cannabinoids,2022,1311,3,0.229
+WI,Cannabinoids,2023,1377,2,0.145
+WI,Club drugs,2013,86,0,0
+WI,Club drugs,2014,125,0,0
+WI,Club drugs,2015,174,0,0
+WI,Club drugs,2016,153,0,0
+WI,Club drugs,2017,105,0,0
+WI,Club drugs,2018,76,1,1.316
+WI,Club drugs,2019,75,1,1.333
+WI,Club drugs,2020,73,1,1.37
+WI,Club drugs,2021,71,1,1.408
+WI,Club drugs,2022,62,8,12.903
+WI,Club drugs,2023,35,5,14.286
+WI,Cocaine,2013,1150,0,0
+WI,Cocaine,2014,1297,1,0.077
+WI,Cocaine,2015,1338,1,0.075
+WI,Cocaine,2016,1567,1,0.064
+WI,Cocaine,2017,1691,6,0.355
+WI,Cocaine,2018,1525,9,0.59
+WI,Cocaine,2019,1417,3,0.212
+WI,Cocaine,2020,946,24,2.537
+WI,Cocaine,2021,999,32,3.203
+WI,Cocaine,2022,1058,79,7.467
+WI,Cocaine,2023,1235,70,5.668
+WI,Hallucinogens,2013,164,0,0
+WI,Hallucinogens,2014,186,0,0
+WI,Hallucinogens,2015,229,0,0
+WI,Hallucinogens,2016,198,0,0
+WI,Hallucinogens,2017,185,0,0
+WI,Hallucinogens,2018,147,0,0
+WI,Hallucinogens,2019,136,0,0
+WI,Hallucinogens,2020,93,0,0
+WI,Hallucinogens,2021,117,0,0
+WI,Hallucinogens,2022,65,0,0
+WI,Hallucinogens,2023,96,0,0
+WI,Heroin,2013,1407,0,0
+WI,Heroin,2014,1660,0,0
+WI,Heroin,2015,1642,5,0.305
+WI,Heroin,2016,1784,10,0.561
+WI,Heroin,2017,1815,22,1.212
+WI,Heroin,2018,1297,40,3.084
+WI,Heroin,2019,931,21,2.256
+WI,Heroin,2020,737,155,21.031
+WI,Heroin,2021,619,224,36.187
+WI,Heroin,2022,434,331,76.267
+WI,Heroin,2023,352,286,81.25
+WI,Methamphetamine,2013,820,0,0
+WI,Methamphetamine,2014,1416,0,0
+WI,Methamphetamine,2015,1656,0,0
+WI,Methamphetamine,2016,2120,1,0.047
+WI,Methamphetamine,2017,2027,1,0.049
+WI,Methamphetamine,2018,1856,0,0
+WI,Methamphetamine,2019,1829,2,0.109
+WI,Methamphetamine,2020,1753,10,0.57
+WI,Methamphetamine,2021,2133,22,1.031
+WI,Methamphetamine,2022,1647,20,1.214
+WI,Methamphetamine,2023,1670,21,1.257
+WI,Prescription benzodiazepines,2013,264,0,0
+WI,Prescription benzodiazepines,2014,312,0,0
+WI,Prescription benzodiazepines,2015,300,0,0
+WI,Prescription benzodiazepines,2016,306,0,0
+WI,Prescription benzodiazepines,2017,264,0,0
+WI,Prescription benzodiazepines,2018,166,0,0
+WI,Prescription benzodiazepines,2019,144,0,0
+WI,Prescription benzodiazepines,2020,73,0,0
+WI,Prescription benzodiazepines,2021,75,0,0
+WI,Prescription benzodiazepines,2022,58,0,0
+WI,Prescription benzodiazepines,2023,60,0,0
+WI,Prescription opioids,2013,849,1,0.118
+WI,Prescription opioids,2014,799,0,0
+WI,Prescription opioids,2015,759,0,0
+WI,Prescription opioids,2016,745,3,0.403
+WI,Prescription opioids,2017,510,0,0
+WI,Prescription opioids,2018,373,0,0
+WI,Prescription opioids,2019,284,0,0
+WI,Prescription opioids,2020,178,1,0.562
+WI,Prescription opioids,2021,140,7,5
+WI,Prescription opioids,2022,154,4,2.597
+WI,Prescription opioids,2023,161,3,1.863
+WI,Prescription stimulants,2013,262,0,0
+WI,Prescription stimulants,2014,275,0,0
+WI,Prescription stimulants,2015,317,0,0
+WI,Prescription stimulants,2016,273,0,0
+WI,Prescription stimulants,2017,178,0,0
+WI,Prescription stimulants,2018,142,0,0
+WI,Prescription stimulants,2019,101,0,0
+WI,Prescription stimulants,2020,57,0,0
+WI,Prescription stimulants,2021,65,2,3.077
+WI,Prescription stimulants,2022,55,0,0
+WI,Prescription stimulants,2023,61,1,1.639
+WV,Cannabinoids,2013,1633,0,0
+WV,Cannabinoids,2014,1406,0,0
+WV,Cannabinoids,2015,1126,0,0
+WV,Cannabinoids,2016,637,0,0
+WV,Cannabinoids,2017,395,0,0
+WV,Cannabinoids,2018,455,0,0
+WV,Cannabinoids,2019,520,0,0
+WV,Cannabinoids,2020,420,1,0.238
+WV,Cannabinoids,2021,421,0,0
+WV,Cannabinoids,2022,236,0,0
+WV,Cannabinoids,2023,107,0,0
+WV,Club drugs,2013,12,0,0
+WV,Club drugs,2014,6,0,0
+WV,Club drugs,2015,25,0,0
+WV,Club drugs,2016,2,0,0
+WV,Club drugs,2017,19,5,26.316
+WV,Club drugs,2018,6,0,0
+WV,Club drugs,2019,21,0,0
+WV,Club drugs,2020,18,1,5.556
+WV,Club drugs,2021,18,0,0
+WV,Club drugs,2022,16,2,12.5
+WV,Club drugs,2023,20,0,0
+WV,Cocaine,2013,1085,0,0
+WV,Cocaine,2014,755,0,0
+WV,Cocaine,2015,487,2,0.411
+WV,Cocaine,2016,706,2,0.283
+WV,Cocaine,2017,746,16,2.145
+WV,Cocaine,2018,629,8,1.272
+WV,Cocaine,2019,623,6,0.963
+WV,Cocaine,2020,549,8,1.457
+WV,Cocaine,2021,668,8,1.198
+WV,Cocaine,2022,680,17,2.5
+WV,Cocaine,2023,492,7,1.423
+WV,Hallucinogens,2013,27,0,0
+WV,Hallucinogens,2014,20,0,0
+WV,Hallucinogens,2015,15,0,0
+WV,Hallucinogens,2016,13,0,0
+WV,Hallucinogens,2017,26,1,3.846
+WV,Hallucinogens,2018,14,0,0
+WV,Hallucinogens,2019,34,0,0
+WV,Hallucinogens,2020,28,0,0
+WV,Hallucinogens,2021,44,0,0
+WV,Hallucinogens,2022,35,0,0
+WV,Hallucinogens,2023,28,0,0
+WV,Heroin,2013,1878,3,0.16
+WV,Heroin,2014,1524,35,2.297
+WV,Heroin,2015,1136,74,6.514
+WV,Heroin,2016,1190,125,10.504
+WV,Heroin,2017,1219,275,22.559
+WV,Heroin,2018,1053,186,17.664
+WV,Heroin,2019,1165,157,13.476
+WV,Heroin,2020,990,133,13.434
+WV,Heroin,2021,959,98,10.219
+WV,Heroin,2022,581,78,13.425
+WV,Heroin,2023,280,22,7.857
+WV,Methamphetamine,2013,424,0,0
+WV,Methamphetamine,2014,285,0,0
+WV,Methamphetamine,2015,400,0,0
+WV,Methamphetamine,2016,728,1,0.137
+WV,Methamphetamine,2017,1857,16,0.862
+WV,Methamphetamine,2018,2185,8,0.366
+WV,Methamphetamine,2019,2865,7,0.244
+WV,Methamphetamine,2020,2405,7,0.291
+WV,Methamphetamine,2021,3444,5,0.145
+WV,Methamphetamine,2022,2801,7,0.25
+WV,Methamphetamine,2023,2027,4,0.197
+WV,Prescription benzodiazepines,2013,333,0,0
+WV,Prescription benzodiazepines,2014,299,0,0
+WV,Prescription benzodiazepines,2015,182,1,0.549
+WV,Prescription benzodiazepines,2016,245,0,0
+WV,Prescription benzodiazepines,2017,245,2,0.816
+WV,Prescription benzodiazepines,2018,176,1,0.568
+WV,Prescription benzodiazepines,2019,237,0,0
+WV,Prescription benzodiazepines,2020,139,0,0
+WV,Prescription benzodiazepines,2021,177,0,0
+WV,Prescription benzodiazepines,2022,163,0,0
+WV,Prescription benzodiazepines,2023,82,0,0
+WV,Prescription opioids,2013,2206,0,0
+WV,Prescription opioids,2014,1712,1,0.058
+WV,Prescription opioids,2015,1267,0,0
+WV,Prescription opioids,2016,1135,1,0.088
+WV,Prescription opioids,2017,752,7,0.931
+WV,Prescription opioids,2018,490,0,0
+WV,Prescription opioids,2019,493,2,0.406
+WV,Prescription opioids,2020,391,1,0.256
+WV,Prescription opioids,2021,323,0,0
+WV,Prescription opioids,2022,331,1,0.302
+WV,Prescription opioids,2023,144,0,0
+WV,Prescription stimulants,2013,87,0,0
+WV,Prescription stimulants,2014,74,0,0
+WV,Prescription stimulants,2015,50,0,0
+WV,Prescription stimulants,2016,43,0,0
+WV,Prescription stimulants,2017,48,0,0
+WV,Prescription stimulants,2018,48,0,0
+WV,Prescription stimulants,2019,53,0,0
+WV,Prescription stimulants,2020,28,0,0
+WV,Prescription stimulants,2021,34,0,0
+WV,Prescription stimulants,2022,41,0,0
+WV,Prescription stimulants,2023,27,0,0
+WY,Cannabinoids,2013,2632,0,0
+WY,Cannabinoids,2014,2428,0,0
+WY,Cannabinoids,2015,2198,0,0
+WY,Cannabinoids,2016,2839,0,0
+WY,Cannabinoids,2017,3437,0,0
+WY,Cannabinoids,2018,3707,0,0
+WY,Cannabinoids,2019,2756,0,0
+WY,Cannabinoids,2020,2143,0,0
+WY,Cannabinoids,2021,1882,0,0
+WY,Cannabinoids,2022,2280,0,0
+WY,Cannabinoids,2023,1040,0,0
+WY,Club drugs,2013,24,0,0
+WY,Club drugs,2014,24,0,0
+WY,Club drugs,2015,23,0,0
+WY,Club drugs,2016,23,0,0
+WY,Club drugs,2017,66,0,0
+WY,Club drugs,2018,46,0,0
+WY,Club drugs,2019,28,0,0
+WY,Club drugs,2020,21,0,0
+WY,Club drugs,2021,36,0,0
+WY,Club drugs,2022,22,0,0
+WY,Club drugs,2023,10,0,0
+WY,Cocaine,2013,108,0,0
+WY,Cocaine,2014,67,0,0
+WY,Cocaine,2015,76,0,0
+WY,Cocaine,2016,131,0,0
+WY,Cocaine,2017,136,0,0
+WY,Cocaine,2018,183,0,0
+WY,Cocaine,2019,162,0,0
+WY,Cocaine,2020,117,0,0
+WY,Cocaine,2021,98,0,0
+WY,Cocaine,2022,141,0,0
+WY,Cocaine,2023,51,0,0
+WY,Hallucinogens,2013,64,0,0
+WY,Hallucinogens,2014,62,0,0
+WY,Hallucinogens,2015,67,0,0
+WY,Hallucinogens,2016,68,0,0
+WY,Hallucinogens,2017,80,0,0
+WY,Hallucinogens,2018,70,0,0
+WY,Hallucinogens,2019,73,0,0
+WY,Hallucinogens,2020,69,0,0
+WY,Hallucinogens,2021,69,0,0
+WY,Hallucinogens,2022,92,0,0
+WY,Hallucinogens,2023,36,0,0
+WY,Heroin,2013,235,0,0
+WY,Heroin,2014,139,0,0
+WY,Heroin,2015,149,0,0
+WY,Heroin,2016,222,0,0
+WY,Heroin,2017,232,0,0
+WY,Heroin,2018,222,0,0
+WY,Heroin,2019,211,0,0
+WY,Heroin,2020,269,0,0
+WY,Heroin,2021,214,0,0
+WY,Heroin,2022,65,0,0
+WY,Heroin,2023,37,0,0
+WY,Methamphetamine,2013,1155,0,0
+WY,Methamphetamine,2014,1337,0,0
+WY,Methamphetamine,2015,1603,0,0
+WY,Methamphetamine,2016,1983,0,0
+WY,Methamphetamine,2017,2057,0,0
+WY,Methamphetamine,2018,2179,0,0
+WY,Methamphetamine,2019,2285,0,0
+WY,Methamphetamine,2020,1668,0,0
+WY,Methamphetamine,2021,1558,0,0
+WY,Methamphetamine,2022,1685,0,0
+WY,Methamphetamine,2023,1058,0,0
+WY,Prescription benzodiazepines,2013,57,0,0
+WY,Prescription benzodiazepines,2014,90,0,0
+WY,Prescription benzodiazepines,2015,102,0,0
+WY,Prescription benzodiazepines,2016,91,0,0
+WY,Prescription benzodiazepines,2017,90,0,0
+WY,Prescription benzodiazepines,2018,83,0,0
+WY,Prescription benzodiazepines,2019,49,0,0
+WY,Prescription benzodiazepines,2020,38,0,0
+WY,Prescription benzodiazepines,2021,26,0,0
+WY,Prescription benzodiazepines,2022,39,0,0
+WY,Prescription benzodiazepines,2023,25,0,0
+WY,Prescription opioids,2013,212,0,0
+WY,Prescription opioids,2014,203,0,0
+WY,Prescription opioids,2015,178,0,0
+WY,Prescription opioids,2016,195,0,0
+WY,Prescription opioids,2017,156,0,0
+WY,Prescription opioids,2018,216,0,0
+WY,Prescription opioids,2019,187,0,0
+WY,Prescription opioids,2020,84,0,0
+WY,Prescription opioids,2021,48,0,0
+WY,Prescription opioids,2022,86,0,0
+WY,Prescription opioids,2023,51,0,0
+WY,Prescription stimulants,2013,35,0,0
+WY,Prescription stimulants,2014,36,0,0
+WY,Prescription stimulants,2015,64,0,0
+WY,Prescription stimulants,2016,75,0,0
+WY,Prescription stimulants,2017,68,0,0
+WY,Prescription stimulants,2018,67,0,0
+WY,Prescription stimulants,2019,38,0,0
+WY,Prescription stimulants,2020,45,0,0
+WY,Prescription stimulants,2021,37,0,0
+WY,Prescription stimulants,2022,60,0,0
+WY,Prescription stimulants,2023,51,0,0

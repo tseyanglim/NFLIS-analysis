@@ -1,0 +1,48 @@
+---
+title: "Fentanyl in the drug supply"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(lubridate)
+library(patchwork)
+library(geofacet)
+library(readxl)
+library(ggpubr)
+library(svglite)
+library(zoo)
+library(grid)
+```
+
+```{r specify shared settings, load functions and data}
+## Define shared settings
+dat_folder <- "C:/Data/NFLIS/Raw"
+dat_years <- 2013:2023
+update_raw_data <- TRUE  # Only needed if raw data files have changed
+update_clean_data <- TRUE  # Only needed if categories or sample restrictions have changed
+update_analysis <- TRUE  # Need data folder access to update analysis, otherwise set to `FALSE`
+# druglist <- c("Methamphetamine", "Cannabinoids", "Cocaine", "Heroin", "Prescription opioids",
+#               "Prescription benzodiazepines", "Synthetic cannabinoids", "Prescription stimulants", 
+#               "Other prescription opioids", "Illicit stimulants", "Hallucinogens", "Club drugs",
+#               "Other prescription depressants", "Illicit benzodiazepines", "Xylazine", 
+#               "Other illicit opioids", "Other prescription stimulants")
+druglist <- c("Methamphetamine", "Cannabinoids", "Cocaine", "Heroin", "Prescription opioids",
+              "Prescription benzodiazepines", "Prescription stimulants", "Hallucinogens", "Club drugs")
+fig_ext <- "svg"
+datestring <- format(Sys.time(), "%Y%m%d")
+
+## Clean and load data
+source("./auxiliary/NFLIS_data_cleaning.R")
+```
+
+```{r calculate yearly and monthly trends}
+source("./auxiliary/calculate_trends.R")
+```
+
+```{r plot figures & tabulate rankings}
+source("./auxiliary/plot_trends_polished.R")
+```
+
+
+

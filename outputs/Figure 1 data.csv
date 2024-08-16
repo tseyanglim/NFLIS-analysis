@@ -1,0 +1,1189 @@
+Drug.sample,Time,Total_samples,Fent_present_samples,Percent_fent_cooccurrence_monthly,Percent_fent_12month_average
+Club drugs,2013-01,441,0,0,NA
+Club drugs,2013-02,398,0,0,NA
+Club drugs,2013-03,469,0,0,NA
+Club drugs,2013-04,576,0,0,NA
+Club drugs,2013-05,577,0,0,NA
+Club drugs,2013-06,530,0,0,0
+Club drugs,2013-07,610,0,0,0
+Club drugs,2013-08,506,0,0,0
+Club drugs,2013-09,510,0,0,0
+Club drugs,2013-10,488,0,0,0
+Club drugs,2013-11,346,0,0,0.031
+Club drugs,2013-12,367,0,0,0.029
+Club drugs,2014-01,447,0,0,0.027
+Club drugs,2014-02,411,0,0,0.024
+Club drugs,2014-03,485,0,0,0.033
+Club drugs,2014-04,722,0,0,0.03
+Club drugs,2014-05,957,2,0.209,0.047
+Club drugs,2014-06,1081,0,0,0.044
+Club drugs,2014-07,1198,0,0,0.058
+Club drugs,2014-08,1258,0,0,0.085
+Club drugs,2014-09,1362,1,0.073,0.086
+Club drugs,2014-10,1337,0,0,0.143
+Club drugs,2014-11,1000,2,0.2,0.154
+Club drugs,2014-12,1068,0,0,0.164
+Club drugs,2015-01,1210,2,0.165,0.168
+Club drugs,2015-02,1262,4,0.317,0.174
+Club drugs,2015-03,1524,1,0.066,0.18
+Club drugs,2015-04,1386,9,0.649,0.187
+Club drugs,2015-05,1236,4,0.324,0.174
+Club drugs,2015-06,1417,2,0.141,0.176
+Club drugs,2015-07,1441,1,0.069,0.166
+Club drugs,2015-08,1276,1,0.078,0.158
+Club drugs,2015-09,1366,2,0.146,0.193
+Club drugs,2015-10,1284,1,0.078,0.142
+Club drugs,2015-11,1087,0,0,0.116
+Club drugs,2015-12,892,0,0,0.105
+Club drugs,2016-01,891,0,0,0.128
+Club drugs,2016-02,744,2,0.269,0.168
+Club drugs,2016-03,974,5,0.513,0.279
+Club drugs,2016-04,786,1,0.127,0.35
+Club drugs,2016-05,786,0,0,0.395
+Club drugs,2016-06,896,0,0,0.435
+Club drugs,2016-07,739,3,0.406,0.552
+Club drugs,2016-08,883,5,0.566,0.688
+Club drugs,2016-09,794,13,1.637,0.912
+Club drugs,2016-10,519,6,1.156,1.301
+Club drugs,2016-11,470,2,0.426,1.794
+Club drugs,2016-12,476,2,0.42,2.408
+Club drugs,2017-01,622,9,1.447,2.805
+Club drugs,2017-02,630,13,2.063,3.206
+Club drugs,2017-03,838,23,2.745,3.299
+Club drugs,2017-04,728,33,4.533,3.421
+Club drugs,2017-05,767,41,5.346,3.541
+Club drugs,2017-06,880,51,5.795,3.645
+Club drugs,2017-07,701,35,4.993,3.734
+Club drugs,2017-08,840,37,4.405,3.73
+Club drugs,2017-09,683,17,2.489,3.628
+Club drugs,2017-10,549,17,3.097,3.421
+Club drugs,2017-11,616,17,2.76,3.158
+Club drugs,2017-12,568,14,2.465,2.705
+Club drugs,2018-01,609,16,2.627,2.589
+Club drugs,2018-02,612,12,1.961,2.621
+Club drugs,2018-03,853,15,1.758,2.623
+Club drugs,2018-04,683,14,2.05,2.596
+Club drugs,2018-05,892,23,2.578,2.71
+Club drugs,2018-06,787,10,1.271,2.845
+Club drugs,2018-07,807,28,3.47,3.103
+Club drugs,2018-08,1003,44,4.387,3.835
+Club drugs,2018-09,791,20,2.528,4.246
+Club drugs,2018-10,832,22,2.644,4.531
+Club drugs,2018-11,679,29,4.271,4.981
+Club drugs,2018-12,592,27,4.561,5.19
+Club drugs,2019-01,880,48,5.455,5.296
+Club drugs,2019-02,848,90,10.613,5.284
+Club drugs,2019-03,957,59,6.165,5.417
+Club drugs,2019-04,841,49,5.826,5.368
+Club drugs,2019-05,921,69,7.492,5.393
+Club drugs,2019-06,849,34,4.005,5.321
+Club drugs,2019-07,966,47,4.865,5.27
+Club drugs,2019-08,893,37,4.143,4.716
+Club drugs,2019-09,785,33,4.204,4.435
+Club drugs,2019-10,905,21,2.32,4.248
+Club drugs,2019-11,706,33,4.674,3.778
+Club drugs,2019-12,729,27,3.704,3.615
+Club drugs,2020-01,752,36,4.787,3.505
+Club drugs,2020-02,684,26,3.801,3.394
+Club drugs,2020-03,665,18,2.707,3.362
+Club drugs,2020-04,467,15,3.212,3.661
+Club drugs,2020-05,651,15,2.304,3.526
+Club drugs,2020-06,733,15,2.046,3.472
+Club drugs,2020-07,874,34,3.89,3.4
+Club drugs,2020-08,769,23,2.991,3.394
+Club drugs,2020-09,868,33,3.802,3.576
+Club drugs,2020-10,760,42,5.526,3.51
+Club drugs,2020-11,670,20,2.985,3.628
+Club drugs,2020-12,690,21,3.043,3.562
+Club drugs,2021-01,611,25,4.092,3.44
+Club drugs,2021-02,638,24,3.762,3.4
+Club drugs,2021-03,769,37,4.811,3.388
+Club drugs,2021-04,741,19,2.564,3.289
+Club drugs,2021-05,533,21,3.94,3.43
+Club drugs,2021-06,583,4,0.686,3.529
+Club drugs,2021-07,595,14,2.353,3.627
+Club drugs,2021-08,571,13,2.277,3.672
+Club drugs,2021-09,602,23,3.821,3.66
+Club drugs,2021-10,445,24,5.393,4.009
+Club drugs,2021-11,393,21,5.344,4.09
+Club drugs,2021-12,433,19,4.388,4.314
+Club drugs,2022-01,480,27,5.625,4.5
+Club drugs,2022-02,500,22,4.4,4.596
+Club drugs,2022-03,708,34,4.802,4.462
+Club drugs,2022-04,493,32,6.491,4.1
+Club drugs,2022-05,480,24,5,3.921
+Club drugs,2022-06,582,18,3.093,3.837
+Club drugs,2022-07,491,21,4.277,3.676
+Club drugs,2022-08,551,18,3.267,3.517
+Club drugs,2022-09,518,11,2.124,3.338
+Club drugs,2022-10,542,6,1.107,2.971
+Club drugs,2022-11,394,10,2.538,2.867
+Club drugs,2022-12,412,13,3.155,3.006
+Club drugs,2023-01,558,20,3.584,2.822
+Club drugs,2023-02,584,15,2.568,2.68
+Club drugs,2023-03,627,20,3.19,2.678
+Club drugs,2023-04,488,9,1.844,2.746
+Club drugs,2023-05,567,20,3.527,2.649
+Club drugs,2023-06,523,25,4.78,2.611
+Club drugs,2023-07,509,10,1.965,NA
+Club drugs,2023-08,509,8,1.572,NA
+Club drugs,2023-09,561,12,2.139,NA
+Club drugs,2023-10,458,8,1.747,NA
+Club drugs,2023-11,396,4,1.01,NA
+Club drugs,2023-12,272,7,2.574,NA
+Cocaine,2013-01,19266,0,0,NA
+Cocaine,2013-02,17105,0,0,NA
+Cocaine,2013-03,18635,0,0,NA
+Cocaine,2013-04,18817,0,0,NA
+Cocaine,2013-05,18780,0,0,NA
+Cocaine,2013-06,16385,1,0.006,0.009
+Cocaine,2013-07,18399,0,0,0.012
+Cocaine,2013-08,18643,1,0.005,0.016
+Cocaine,2013-09,16879,0,0,0.023
+Cocaine,2013-10,19100,3,0.016,0.029
+Cocaine,2013-11,14772,5,0.034,0.034
+Cocaine,2013-12,13994,9,0.064,0.039
+Cocaine,2014-01,16737,5,0.03,0.046
+Cocaine,2014-02,16350,9,0.055,0.055
+Cocaine,2014-03,18893,15,0.079,0.06
+Cocaine,2014-04,19093,12,0.063,0.07
+Cocaine,2014-05,17706,11,0.062,0.076
+Cocaine,2014-06,16428,10,0.061,0.079
+Cocaine,2014-07,16607,14,0.084,0.085
+Cocaine,2014-08,15805,19,0.12,0.088
+Cocaine,2014-09,16380,10,0.061,0.091
+Cocaine,2014-10,16888,20,0.118,0.099
+Cocaine,2014-11,13050,17,0.13,0.108
+Cocaine,2014-12,13833,14,0.101,0.127
+Cocaine,2015-01,15647,16,0.102,0.143
+Cocaine,2015-02,15009,14,0.093,0.153
+Cocaine,2015-03,17925,19,0.106,0.172
+Cocaine,2015-04,17573,26,0.148,0.184
+Cocaine,2015-05,15253,27,0.177,0.199
+Cocaine,2015-06,15906,45,0.283,0.221
+Cocaine,2015-07,17482,46,0.263,0.244
+Cocaine,2015-08,15920,38,0.239,0.272
+Cocaine,2015-09,16306,46,0.282,0.312
+Cocaine,2015-10,16780,42,0.25,0.36
+Cocaine,2015-11,14248,49,0.344,0.396
+Cocaine,2015-12,15300,59,0.386,0.423
+Cocaine,2016-01,15957,61,0.382,0.453
+Cocaine,2016-02,17142,74,0.432,0.496
+Cocaine,2016-03,19184,102,0.532,0.538
+Cocaine,2016-04,17407,120,0.689,0.586
+Cocaine,2016-05,16934,104,0.614,0.636
+Cocaine,2016-06,17752,106,0.597,0.67
+Cocaine,2016-07,15155,97,0.64,0.713
+Cocaine,2016-08,17877,133,0.744,0.758
+Cocaine,2016-09,17371,134,0.771,0.821
+Cocaine,2016-10,16036,136,0.848,0.878
+Cocaine,2016-11,15387,155,1.007,0.954
+Cocaine,2016-12,15075,126,0.836,1.022
+Cocaine,2017-01,17470,158,0.904,1.061
+Cocaine,2017-02,17472,168,0.962,1.094
+Cocaine,2017-03,21092,247,1.171,1.159
+Cocaine,2017-04,18486,246,1.331,1.19
+Cocaine,2017-05,19777,287,1.451,1.227
+Cocaine,2017-06,19174,264,1.377,1.254
+Cocaine,2017-07,17427,203,1.165,1.306
+Cocaine,2017-08,19859,223,1.123,1.339
+Cocaine,2017-09,17257,273,1.582,1.391
+Cocaine,2017-10,18587,233,1.254,1.414
+Cocaine,2017-11,17673,263,1.488,1.416
+Cocaine,2017-12,15066,185,1.228,1.42
+Cocaine,2018-01,18503,285,1.54,1.438
+Cocaine,2018-02,17557,243,1.384,1.493
+Cocaine,2018-03,20706,356,1.719,1.484
+Cocaine,2018-04,18990,305,1.606,1.51
+Cocaine,2018-05,20360,298,1.464,1.53
+Cocaine,2018-06,18489,263,1.422,1.557
+Cocaine,2018-07,18000,252,1.4,1.574
+Cocaine,2018-08,19240,336,1.746,1.594
+Cocaine,2018-09,16087,234,1.455,1.61
+Cocaine,2018-10,17688,277,1.566,1.605
+Cocaine,2018-11,15427,273,1.77,1.635
+Cocaine,2018-12,13596,220,1.618,1.694
+Cocaine,2019-01,17834,312,1.749,1.738
+Cocaine,2019-02,16191,262,1.618,1.762
+Cocaine,2019-03,17976,346,1.925,1.809
+Cocaine,2019-04,18063,281,1.556,1.85
+Cocaine,2019-05,18229,325,1.783,1.878
+Cocaine,2019-06,15964,342,2.142,1.897
+Cocaine,2019-07,17342,332,1.914,1.909
+Cocaine,2019-08,16189,330,2.038,1.923
+Cocaine,2019-09,15323,315,2.056,1.915
+Cocaine,2019-10,16983,345,2.031,1.963
+Cocaine,2019-11,13786,298,2.162,2.011
+Cocaine,2019-12,12835,244,1.901,2.016
+Cocaine,2020-01,16507,309,1.872,2.045
+Cocaine,2020-02,14884,265,1.78,2.054
+Cocaine,2020-03,13193,240,1.819,2.053
+Cocaine,2020-04,7727,168,2.174,2.066
+Cocaine,2020-05,11311,272,2.405,2.063
+Cocaine,2020-06,10952,250,2.283,2.086
+Cocaine,2020-07,11943,269,2.252,2.155
+Cocaine,2020-08,12042,259,2.151,2.263
+Cocaine,2020-09,12850,263,2.047,2.368
+Cocaine,2020-10,12172,266,2.185,2.426
+Cocaine,2020-11,9650,208,2.155,2.453
+Cocaine,2020-12,10700,233,2.178,2.479
+Cocaine,2021-01,11827,308,2.604,2.52
+Cocaine,2021-02,11365,336,2.956,2.597
+Cocaine,2021-03,14524,414,2.85,2.652
+Cocaine,2021-04,14082,401,2.848,2.698
+Cocaine,2021-05,12732,346,2.718,2.735
+Cocaine,2021-06,13967,363,2.599,2.785
+Cocaine,2021-07,13227,362,2.737,2.823
+Cocaine,2021-08,12859,395,3.072,2.828
+Cocaine,2021-09,12501,336,2.688,2.852
+Cocaine,2021-10,11650,320,2.747,2.907
+Cocaine,2021-11,10362,283,2.731,2.969
+Cocaine,2021-12,10622,306,2.881,2.994
+Cocaine,2022-01,10896,339,3.111,3.022
+Cocaine,2022-02,11325,341,3.011,3.022
+Cocaine,2022-03,14879,461,3.098,3.044
+Cocaine,2022-04,12499,436,3.488,3.07
+Cocaine,2022-05,12550,432,3.442,3.068
+Cocaine,2022-06,13082,374,2.859,3.083
+Cocaine,2022-07,12185,372,3.053,3.105
+Cocaine,2022-08,13410,411,3.065,3.172
+Cocaine,2022-09,12367,364,2.943,3.197
+Cocaine,2022-10,11898,365,3.068,3.183
+Cocaine,2022-11,10921,298,2.729,3.14
+Cocaine,2022-12,10148,313,3.084,3.173
+Cocaine,2023-01,12998,437,3.362,3.176
+Cocaine,2023-02,12194,468,3.838,3.161
+Cocaine,2023-03,14877,498,3.347,3.142
+Cocaine,2023-04,11982,398,3.322,3.077
+Cocaine,2023-05,13125,387,2.949,3.042
+Cocaine,2023-06,13006,420,3.229,3.004
+Cocaine,2023-07,11455,353,3.082,NA
+Cocaine,2023-08,12960,375,2.894,NA
+Cocaine,2023-09,10670,282,2.643,NA
+Cocaine,2023-10,9939,210,2.113,NA
+Cocaine,2023-11,8685,180,2.073,NA
+Cocaine,2023-12,6911,161,2.33,NA
+Hallucinogens,2013-01,924,0,0,NA
+Hallucinogens,2013-02,833,0,0,NA
+Hallucinogens,2013-03,896,0,0,NA
+Hallucinogens,2013-04,962,0,0,NA
+Hallucinogens,2013-05,1023,0,0,NA
+Hallucinogens,2013-06,903,0,0,0
+Hallucinogens,2013-07,1106,0,0,0
+Hallucinogens,2013-08,984,0,0,0
+Hallucinogens,2013-09,712,0,0,0
+Hallucinogens,2013-10,1032,0,0,0
+Hallucinogens,2013-11,821,0,0,0
+Hallucinogens,2013-12,821,0,0,0
+Hallucinogens,2014-01,896,0,0,0
+Hallucinogens,2014-02,870,0,0,0
+Hallucinogens,2014-03,978,0,0,0
+Hallucinogens,2014-04,1023,0,0,0
+Hallucinogens,2014-05,1023,0,0,0
+Hallucinogens,2014-06,1060,0,0,0
+Hallucinogens,2014-07,1162,0,0,0
+Hallucinogens,2014-08,940,0,0,0
+Hallucinogens,2014-09,837,0,0,0
+Hallucinogens,2014-10,978,0,0,0
+Hallucinogens,2014-11,714,0,0,0
+Hallucinogens,2014-12,885,0,0,0
+Hallucinogens,2015-01,866,0,0,0
+Hallucinogens,2015-02,880,0,0,0
+Hallucinogens,2015-03,1043,0,0,0
+Hallucinogens,2015-04,1055,0,0,0
+Hallucinogens,2015-05,953,0,0,0
+Hallucinogens,2015-06,1095,0,0,0
+Hallucinogens,2015-07,1125,0,0,0
+Hallucinogens,2015-08,1037,0,0,0
+Hallucinogens,2015-09,1048,0,0,0
+Hallucinogens,2015-10,1046,0,0,0
+Hallucinogens,2015-11,855,0,0,0
+Hallucinogens,2015-12,964,0,0,0
+Hallucinogens,2016-01,958,0,0,0
+Hallucinogens,2016-02,1040,0,0,0.008
+Hallucinogens,2016-03,1135,0,0,0.008
+Hallucinogens,2016-04,1110,0,0,0.008
+Hallucinogens,2016-05,1067,0,0,0.008
+Hallucinogens,2016-06,1262,0,0,0.008
+Hallucinogens,2016-07,942,0,0,0.008
+Hallucinogens,2016-08,1183,1,0.085,0.016
+Hallucinogens,2016-09,1116,0,0,0.015
+Hallucinogens,2016-10,1021,0,0,0.015
+Hallucinogens,2016-11,963,0,0,0.023
+Hallucinogens,2016-12,896,0,0,0.023
+Hallucinogens,2017-01,1044,0,0,0.022
+Hallucinogens,2017-02,1078,1,0.093,0.015
+Hallucinogens,2017-03,1253,0,0,0.023
+Hallucinogens,2017-04,1116,0,0,0.038
+Hallucinogens,2017-05,1252,1,0.08,0.045
+Hallucinogens,2017-06,1310,0,0,0.052
+Hallucinogens,2017-07,1149,0,0,0.059
+Hallucinogens,2017-08,1145,0,0,0.052
+Hallucinogens,2017-09,1090,1,0.092,0.053
+Hallucinogens,2017-10,1030,2,0.194,0.053
+Hallucinogens,2017-11,1000,1,0.1,0.054
+Hallucinogens,2017-12,1010,1,0.099,0.054
+Hallucinogens,2018-01,1107,1,0.09,0.054
+Hallucinogens,2018-02,906,0,0,0.054
+Hallucinogens,2018-03,1051,0,0,0.046
+Hallucinogens,2018-04,1049,0,0,0.038
+Hallucinogens,2018-05,1222,1,0.082,0.031
+Hallucinogens,2018-06,1121,0,0,0.031
+Hallucinogens,2018-07,1158,0,0,0.031
+Hallucinogens,2018-08,1197,0,0,0.031
+Hallucinogens,2018-09,1071,0,0,0.03
+Hallucinogens,2018-10,1177,1,0.085,0.03
+Hallucinogens,2018-11,981,0,0,0.023
+Hallucinogens,2018-12,887,1,0.113,0.038
+Hallucinogens,2019-01,1156,1,0.087,0.037
+Hallucinogens,2019-02,1006,0,0,0.037
+Hallucinogens,2019-03,1215,0,0,0.052
+Hallucinogens,2019-04,1158,0,0,0.045
+Hallucinogens,2019-05,1134,0,0,0.052
+Hallucinogens,2019-06,1166,2,0.172,0.044
+Hallucinogens,2019-07,1270,0,0,0.037
+Hallucinogens,2019-08,1139,0,0,0.045
+Hallucinogens,2019-09,1099,2,0.182,0.053
+Hallucinogens,2019-10,1180,0,0,0.071
+Hallucinogens,2019-11,965,1,0.104,0.071
+Hallucinogens,2019-12,1006,0,0,0.07
+Hallucinogens,2020-01,1135,0,0,0.077
+Hallucinogens,2020-02,1013,1,0.099,0.09
+Hallucinogens,2020-03,945,1,0.106,0.088
+Hallucinogens,2020-04,690,2,0.29,0.093
+Hallucinogens,2020-05,1128,0,0,0.086
+Hallucinogens,2020-06,1357,2,0.147,0.091
+Hallucinogens,2020-07,1393,1,0.072,0.118
+Hallucinogens,2020-08,1425,2,0.14,0.131
+Hallucinogens,2020-09,1406,2,0.142,0.159
+Hallucinogens,2020-10,1453,1,0.069,0.162
+Hallucinogens,2020-11,1062,0,0,0.161
+Hallucinogens,2020-12,1246,1,0.08,0.148
+Hallucinogens,2021-01,1238,4,0.323,0.155
+Hallucinogens,2021-02,1189,3,0.252,0.151
+Hallucinogens,2021-03,1544,6,0.389,0.165
+Hallucinogens,2021-04,1594,4,0.251,0.182
+Hallucinogens,2021-05,1291,0,0,0.19
+Hallucinogens,2021-06,1382,0,0,0.199
+Hallucinogens,2021-07,1325,2,0.151,0.235
+Hallucinogens,2021-08,1164,1,0.086,0.244
+Hallucinogens,2021-09,1251,4,0.32,0.213
+Hallucinogens,2021-10,1109,3,0.271,0.206
+Hallucinogens,2021-11,921,1,0.109,0.215
+Hallucinogens,2021-12,1033,2,0.194,0.229
+Hallucinogens,2022-01,1108,9,0.812,0.239
+Hallucinogens,2022-02,1044,4,0.383,0.272
+Hallucinogens,2022-03,1361,1,0.073,0.262
+Hallucinogens,2022-04,1118,2,0.179,0.285
+Hallucinogens,2022-05,1165,1,0.086,0.292
+Hallucinogens,2022-06,1354,2,0.148,0.308
+Hallucinogens,2022-07,1160,3,0.259,0.283
+Hallucinogens,2022-08,1325,6,0.453,0.275
+Hallucinogens,2022-09,1402,3,0.214,0.294
+Hallucinogens,2022-10,1060,6,0.566,0.321
+Hallucinogens,2022-11,924,2,0.216,0.317
+Hallucinogens,2022-12,920,4,0.435,0.315
+Hallucinogens,2023-01,1295,6,0.463,0.292
+Hallucinogens,2023-02,1093,3,0.274,0.265
+Hallucinogens,2023-03,1477,4,0.271,0.256
+Hallucinogens,2023-04,1141,6,0.526,0.23
+Hallucinogens,2023-05,1341,1,0.075,0.217
+Hallucinogens,2023-06,1455,2,0.137,0.192
+Hallucinogens,2023-07,1284,0,0,NA
+Hallucinogens,2023-08,1350,2,0.148,NA
+Hallucinogens,2023-09,1106,1,0.09,NA
+Hallucinogens,2023-10,953,2,0.21,NA
+Hallucinogens,2023-11,867,0,0,NA
+Hallucinogens,2023-12,697,0,0,NA
+Heroin,2013-01,12764,0,0,NA
+Heroin,2013-02,11150,0,0,NA
+Heroin,2013-03,12300,0,0,NA
+Heroin,2013-04,12700,3,0.024,NA
+Heroin,2013-05,13053,7,0.054,NA
+Heroin,2013-06,11629,17,0.146,0.078
+Heroin,2013-07,13084,6,0.046,0.147
+Heroin,2013-08,13579,10,0.074,0.223
+Heroin,2013-09,12414,4,0.032,0.328
+Heroin,2013-10,13330,10,0.075,0.428
+Heroin,2013-11,11573,22,0.19,0.495
+Heroin,2013-12,10554,36,0.341,0.537
+Heroin,2014-01,13033,103,0.79,0.581
+Heroin,2014-02,12731,117,0.919,0.629
+Heroin,2014-03,14504,164,1.131,0.676
+Heroin,2014-04,14608,163,1.116,0.749
+Heroin,2014-05,14328,117,0.817,0.83
+Heroin,2014-06,14066,96,0.682,0.89
+Heroin,2014-07,15053,87,0.578,0.944
+Heroin,2014-08,13948,89,0.638,0.988
+Heroin,2014-09,14567,93,0.638,1.021
+Heroin,2014-10,14493,138,0.952,1.086
+Heroin,2014-11,11202,150,1.339,1.199
+Heroin,2014-12,12584,153,1.216,1.325
+Heroin,2015-01,14293,203,1.42,1.471
+Heroin,2015-02,13496,199,1.475,1.579
+Heroin,2015-03,15998,233,1.456,1.759
+Heroin,2015-04,15491,283,1.827,1.982
+Heroin,2015-05,13987,304,2.173,2.137
+Heroin,2015-06,14974,322,2.15,2.285
+Heroin,2015-07,16095,350,2.175,2.407
+Heroin,2015-08,14102,277,1.964,2.606
+Heroin,2015-09,15274,413,2.704,2.924
+Heroin,2015-10,14644,524,3.578,3.242
+Heroin,2015-11,12909,454,3.517,3.543
+Heroin,2015-12,13708,436,3.181,3.889
+Heroin,2016-01,14413,420,2.914,4.19
+Heroin,2016-02,15092,589,3.903,4.602
+Heroin,2016-03,16903,821,4.857,5.104
+Heroin,2016-04,14687,822,5.597,5.491
+Heroin,2016-05,14514,855,5.891,5.967
+Heroin,2016-06,15456,953,6.166,6.457
+Heroin,2016-07,13427,774,5.765,7.189
+Heroin,2016-08,15322,1055,6.886,7.928
+Heroin,2016-09,14886,1278,8.585,8.641
+Heroin,2016-10,13565,1146,8.448,9.259
+Heroin,2016-11,12477,1260,10.099,9.887
+Heroin,2016-12,12168,1191,9.788,10.656
+Heroin,2017-01,14177,1670,11.78,11.505
+Heroin,2017-02,13987,1777,12.705,12.287
+Heroin,2017-03,15832,1952,12.329,13.048
+Heroin,2017-04,13498,1766,13.083,13.755
+Heroin,2017-05,14405,1907,13.238,14.297
+Heroin,2017-06,13914,2089,15.014,14.908
+Heroin,2017-07,12309,2069,16.809,15.581
+Heroin,2017-08,14197,2220,15.637,16.078
+Heroin,2017-09,12325,2202,17.866,16.885
+Heroin,2017-10,12433,2142,17.228,17.543
+Heroin,2017-11,11468,1992,17.37,18.411
+Heroin,2017-12,10070,1860,18.471,19.026
+Heroin,2018-01,11973,2394,19.995,19.541
+Heroin,2018-02,11708,2188,18.688,20.214
+Heroin,2018-03,12908,2702,20.933,20.712
+Heroin,2018-04,12008,2500,20.819,21.186
+Heroin,2018-05,12573,2869,22.819,21.578
+Heroin,2018-06,12129,2659,21.923,21.878
+Heroin,2018-07,12168,2794,22.962,21.984
+Heroin,2018-08,13105,2981,22.747,22.221
+Heroin,2018-09,10804,2609,24.148,22.404
+Heroin,2018-10,11962,2721,22.747,22.593
+Heroin,2018-11,10902,2430,22.289,22.733
+Heroin,2018-12,9764,2220,22.737,22.865
+Heroin,2019-01,12684,2702,21.302,23.001
+Heroin,2019-02,11141,2400,21.542,23.09
+Heroin,2019-03,12519,2875,22.965,23.073
+Heroin,2019-04,12125,2794,23.043,23.199
+Heroin,2019-05,12515,3054,24.403,23.495
+Heroin,2019-06,11056,2601,23.526,23.641
+Heroin,2019-07,11881,2920,24.577,24.075
+Heroin,2019-08,11290,2686,23.791,24.429
+Heroin,2019-09,9841,2364,24.022,24.511
+Heroin,2019-10,10683,2598,24.319,24.536
+Heroin,2019-11,8629,2300,26.654,24.616
+Heroin,2019-12,8078,2016,24.957,24.793
+Heroin,2020-01,10181,2675,26.274,24.803
+Heroin,2020-02,9062,2352,25.955,25.08
+Heroin,2020-03,7501,1750,23.33,25.262
+Heroin,2020-04,5340,1160,21.723,25.488
+Heroin,2020-05,8491,2156,25.392,25.546
+Heroin,2020-06,8711,2218,25.462,25.763
+Heroin,2020-07,9960,2454,24.639,26.088
+Heroin,2020-08,9348,2498,26.722,26.402
+Heroin,2020-09,9026,2351,26.047,27.313
+Heroin,2020-10,8487,2275,26.806,27.929
+Heroin,2020-11,6506,1818,27.943,28.271
+Heroin,2020-12,6828,1912,28.002,29.012
+Heroin,2021-01,7074,2188,30.93,29.822
+Heroin,2021-02,6798,2056,30.244,30.48
+Heroin,2021-03,8317,2830,34.027,31.21
+Heroin,2021-04,7367,2311,31.37,32.019
+Heroin,2021-05,6466,1915,29.616,32.746
+Heroin,2021-06,6558,2296,35.011,33.41
+Heroin,2021-07,5692,1933,33.96,34.011
+Heroin,2021-08,5280,1840,34.848,34.814
+Heroin,2021-09,4723,1624,34.385,35.365
+Heroin,2021-10,4080,1512,37.059,36.172
+Heroin,2021-11,3697,1448,39.167,37.201
+Heroin,2021-12,3470,1274,36.715,38.093
+Heroin,2022-01,3695,1457,39.432,39.034
+Heroin,2022-02,3825,1552,40.575,39.752
+Heroin,2022-03,4251,1740,40.932,40.619
+Heroin,2022-04,3331,1328,39.868,41.072
+Heroin,2022-05,3270,1293,39.541,41.605
+Heroin,2022-06,3561,1617,45.409,42.393
+Heroin,2022-07,3133,1394,44.494,42.99
+Heroin,2022-08,3266,1372,42.009,43.678
+Heroin,2022-09,2832,1240,43.785,44.313
+Heroin,2022-10,2529,1067,42.191,45.194
+Heroin,2022-11,2426,1137,46.867,46.162
+Heroin,2022-12,2137,1021,47.777,46.524
+Heroin,2023-01,2599,1214,46.71,46.809
+Heroin,2023-02,2530,1242,49.091,47.369
+Heroin,2023-03,2701,1281,47.427,47.626
+Heroin,2023-04,2268,1150,50.705,48.041
+Heroin,2023-05,2265,1151,50.817,48.127
+Heroin,2023-06,2225,1112,49.978,48.119
+Heroin,2023-07,1960,933,47.602,NA
+Heroin,2023-08,2076,975,46.965,NA
+Heroin,2023-09,1597,725,45.398,NA
+Heroin,2023-10,1431,653,45.632,NA
+Heroin,2023-11,1191,565,47.439,NA
+Heroin,2023-12,952,449,47.164,NA
+Methamphetamine,2013-01,18204,0,0,NA
+Methamphetamine,2013-02,16617,0,0,NA
+Methamphetamine,2013-03,18737,0,0,NA
+Methamphetamine,2013-04,17220,0,0,NA
+Methamphetamine,2013-05,19165,1,0.005,NA
+Methamphetamine,2013-06,16748,0,0,0.001
+Methamphetamine,2013-07,18689,0,0,0.002
+Methamphetamine,2013-08,19490,0,0,0.002
+Methamphetamine,2013-09,17657,0,0,0.003
+Methamphetamine,2013-10,19988,2,0.01,0.003
+Methamphetamine,2013-11,16240,0,0,0.003
+Methamphetamine,2013-12,17174,0,0,0.004
+Methamphetamine,2014-01,20198,2,0.01,0.004
+Methamphetamine,2014-02,19235,0,0,0.005
+Methamphetamine,2014-03,21177,2,0.009,0.006
+Methamphetamine,2014-04,23598,1,0.004,0.005
+Methamphetamine,2014-05,21294,1,0.005,0.006
+Methamphetamine,2014-06,20628,1,0.005,0.006
+Methamphetamine,2014-07,22142,1,0.005,0.006
+Methamphetamine,2014-08,20556,1,0.005,0.006
+Methamphetamine,2014-09,20905,3,0.014,0.006
+Methamphetamine,2014-10,21936,0,0,0.007
+Methamphetamine,2014-11,16814,2,0.012,0.009
+Methamphetamine,2014-12,18609,1,0.005,0.01
+Methamphetamine,2015-01,21285,1,0.005,0.011
+Methamphetamine,2015-02,21496,1,0.005,0.012
+Methamphetamine,2015-03,24549,3,0.012,0.016
+Methamphetamine,2015-04,24987,4,0.016,0.019
+Methamphetamine,2015-05,21752,4,0.018,0.025
+Methamphetamine,2015-06,23439,5,0.021,0.03
+Methamphetamine,2015-07,24870,5,0.02,0.035
+Methamphetamine,2015-08,22796,3,0.013,0.04
+Methamphetamine,2015-09,24161,14,0.058,0.047
+Methamphetamine,2015-10,24517,7,0.029,0.049
+Methamphetamine,2015-11,21399,21,0.098,0.05
+Methamphetamine,2015-12,24351,15,0.062,0.053
+Methamphetamine,2016-01,25574,18,0.07,0.057
+Methamphetamine,2016-02,27788,17,0.061,0.062
+Methamphetamine,2016-03,31954,27,0.084,0.068
+Methamphetamine,2016-04,28455,12,0.042,0.075
+Methamphetamine,2016-05,28051,11,0.039,0.078
+Methamphetamine,2016-06,28921,17,0.059,0.084
+Methamphetamine,2016-07,25458,18,0.071,0.094
+Methamphetamine,2016-08,30458,21,0.069,0.11
+Methamphetamine,2016-09,28735,39,0.136,0.121
+Methamphetamine,2016-10,26694,31,0.116,0.146
+Methamphetamine,2016-11,26256,33,0.126,0.16
+Methamphetamine,2016-12,26681,39,0.146,0.175
+Methamphetamine,2017-01,30978,55,0.178,0.183
+Methamphetamine,2017-02,29933,75,0.251,0.191
+Methamphetamine,2017-03,37225,71,0.191,0.192
+Methamphetamine,2017-04,31161,102,0.327,0.211
+Methamphetamine,2017-05,33908,69,0.203,0.223
+Methamphetamine,2017-06,32667,78,0.239,0.227
+Methamphetamine,2017-07,29216,52,0.178,0.23
+Methamphetamine,2017-08,35203,59,0.168,0.227
+Methamphetamine,2017-09,30800,49,0.159,0.233
+Methamphetamine,2017-10,31260,109,0.349,0.228
+Methamphetamine,2017-11,31013,88,0.284,0.228
+Methamphetamine,2017-12,28971,59,0.204,0.226
+Methamphetamine,2018-01,34362,76,0.221,0.233
+Methamphetamine,2018-02,31400,68,0.217,0.248
+Methamphetamine,2018-03,37933,94,0.248,0.266
+Methamphetamine,2018-04,35827,93,0.26,0.267
+Methamphetamine,2018-05,38914,83,0.213,0.274
+Methamphetamine,2018-06,36425,75,0.206,0.285
+Methamphetamine,2018-07,35979,99,0.275,0.291
+Methamphetamine,2018-08,40462,132,0.326,0.301
+Methamphetamine,2018-09,34693,135,0.389,0.321
+Methamphetamine,2018-10,37063,127,0.343,0.335
+Methamphetamine,2018-11,33035,122,0.369,0.353
+Methamphetamine,2018-12,30488,112,0.367,0.382
+Methamphetamine,2019-01,42157,125,0.297,0.404
+Methamphetamine,2019-02,36632,125,0.341,0.42
+Methamphetamine,2019-03,41172,193,0.469,0.463
+Methamphetamine,2019-04,41945,175,0.417,0.469
+Methamphetamine,2019-05,43276,181,0.418,0.483
+Methamphetamine,2019-06,36695,207,0.564,0.494
+Methamphetamine,2019-07,41014,217,0.529,0.516
+Methamphetamine,2019-08,41869,212,0.506,0.523
+Methamphetamine,2019-09,36807,344,0.935,0.525
+Methamphetamine,2019-10,39973,167,0.418,0.538
+Methamphetamine,2019-11,31983,183,0.572,0.567
+Methamphetamine,2019-12,32810,174,0.53,0.582
+Methamphetamine,2020-01,41693,228,0.547,0.603
+Methamphetamine,2020-02,35853,151,0.421,0.626
+Methamphetamine,2020-03,34047,164,0.482,0.621
+Methamphetamine,2020-04,23192,136,0.586,0.653
+Methamphetamine,2020-05,34948,258,0.738,0.668
+Methamphetamine,2020-06,35333,266,0.753,0.693
+Methamphetamine,2020-07,39485,298,0.755,0.724
+Methamphetamine,2020-08,39955,298,0.746,0.745
+Methamphetamine,2020-09,41172,349,0.848,0.778
+Methamphetamine,2020-10,38923,299,0.768,0.784
+Methamphetamine,2020-11,30376,238,0.784,0.788
+Methamphetamine,2020-12,33771,285,0.844,0.796
+Methamphetamine,2021-01,38083,336,0.882,0.821
+Methamphetamine,2021-02,35155,236,0.671,0.838
+Methamphetamine,2021-03,45585,392,0.86,0.839
+Methamphetamine,2021-04,44958,335,0.745,0.852
+Methamphetamine,2021-05,40048,315,0.787,0.863
+Methamphetamine,2021-06,40455,346,0.855,0.865
+Methamphetamine,2021-07,36971,393,1.063,0.879
+Methamphetamine,2021-08,35475,337,0.95,0.905
+Methamphetamine,2021-09,32806,285,0.869,0.907
+Methamphetamine,2021-10,30439,286,0.94,0.939
+Methamphetamine,2021-11,27727,264,0.952,0.971
+Methamphetamine,2021-12,28008,245,0.875,0.991
+Methamphetamine,2022-01,28900,317,1.097,1.001
+Methamphetamine,2022-02,28012,281,1.003,1.017
+Methamphetamine,2022-03,36016,313,0.869,1.038
+Methamphetamine,2022-04,30924,335,1.083,1.062
+Methamphetamine,2022-05,30972,354,1.143,1.083
+Methamphetamine,2022-06,31526,332,1.053,1.1
+Methamphetamine,2022-07,28794,349,1.212,1.11
+Methamphetamine,2022-08,32020,364,1.137,1.131
+Methamphetamine,2022-09,28448,314,1.104,1.16
+Methamphetamine,2022-10,26024,326,1.253,1.177
+Methamphetamine,2022-11,22920,290,1.265,1.19
+Methamphetamine,2022-12,22298,242,1.085,1.207
+Methamphetamine,2023-01,28737,350,1.218,1.2
+Methamphetamine,2023-02,26767,338,1.263,1.202
+Methamphetamine,2023-03,31476,362,1.15,1.205
+Methamphetamine,2023-04,25244,325,1.287,1.188
+Methamphetamine,2023-05,28167,365,1.296,1.166
+Methamphetamine,2023-06,26941,331,1.229,1.153
+Methamphetamine,2023-07,23875,268,1.123,NA
+Methamphetamine,2023-08,26726,308,1.152,NA
+Methamphetamine,2023-09,20366,224,1.1,NA
+Methamphetamine,2023-10,18265,181,0.991,NA
+Methamphetamine,2023-11,16045,146,0.91,NA
+Methamphetamine,2023-12,13854,104,0.751,NA
+Prescription benzodiazepines,2013-01,4551,0,0,NA
+Prescription benzodiazepines,2013-02,3927,0,0,NA
+Prescription benzodiazepines,2013-03,4426,0,0,NA
+Prescription benzodiazepines,2013-04,4304,0,0,NA
+Prescription benzodiazepines,2013-05,4700,0,0,NA
+Prescription benzodiazepines,2013-06,4078,0,0,0.002
+Prescription benzodiazepines,2013-07,4523,0,0,0.002
+Prescription benzodiazepines,2013-08,4438,0,0,0.002
+Prescription benzodiazepines,2013-09,4306,1,0.023,0.002
+Prescription benzodiazepines,2013-10,4722,0,0,0.002
+Prescription benzodiazepines,2013-11,3718,0,0,0.002
+Prescription benzodiazepines,2013-12,3741,0,0,0.002
+Prescription benzodiazepines,2014-01,4654,0,0,0.002
+Prescription benzodiazepines,2014-02,4537,0,0,0.002
+Prescription benzodiazepines,2014-03,4970,0,0,0.002
+Prescription benzodiazepines,2014-04,5077,0,0,0.002
+Prescription benzodiazepines,2014-05,5055,0,0,0.002
+Prescription benzodiazepines,2014-06,4798,0,0,0.002
+Prescription benzodiazepines,2014-07,5303,0,0,0.002
+Prescription benzodiazepines,2014-08,4754,0,0,0.002
+Prescription benzodiazepines,2014-09,4768,1,0.021,0.003
+Prescription benzodiazepines,2014-10,4896,0,0,0.003
+Prescription benzodiazepines,2014-11,3637,0,0,0.003
+Prescription benzodiazepines,2014-12,4203,0,0,0.003
+Prescription benzodiazepines,2015-01,4797,0,0,0.007
+Prescription benzodiazepines,2015-02,4663,0,0,0.01
+Prescription benzodiazepines,2015-03,5585,1,0.018,0.01
+Prescription benzodiazepines,2015-04,5440,0,0,0.01
+Prescription benzodiazepines,2015-05,4940,0,0,0.01
+Prescription benzodiazepines,2015-06,5178,0,0,0.013
+Prescription benzodiazepines,2015-07,5265,2,0.038,0.025
+Prescription benzodiazepines,2015-08,4904,2,0.041,0.026
+Prescription benzodiazepines,2015-09,5208,1,0.019,0.042
+Prescription benzodiazepines,2015-10,5246,0,0,0.059
+Prescription benzodiazepines,2015-11,4276,0,0,0.082
+Prescription benzodiazepines,2015-12,4907,2,0.041,0.1
+Prescription benzodiazepines,2016-01,5168,7,0.135,0.127
+Prescription benzodiazepines,2016-02,5280,1,0.019,0.145
+Prescription benzodiazepines,2016-03,6675,11,0.165,0.176
+Prescription benzodiazepines,2016-04,6175,11,0.178,0.192
+Prescription benzodiazepines,2016-05,6268,16,0.255,0.198
+Prescription benzodiazepines,2016-06,6484,13,0.2,0.2
+Prescription benzodiazepines,2016-07,5679,20,0.352,0.202
+Prescription benzodiazepines,2016-08,6271,16,0.255,0.21
+Prescription benzodiazepines,2016-09,5862,23,0.392,0.213
+Prescription benzodiazepines,2016-10,5247,11,0.21,0.225
+Prescription benzodiazepines,2016-11,5027,6,0.119,0.212
+Prescription benzodiazepines,2016-12,4939,3,0.061,0.214
+Prescription benzodiazepines,2017-01,5942,10,0.168,0.2
+Prescription benzodiazepines,2017-02,5475,7,0.128,0.184
+Prescription benzodiazepines,2017-03,6514,13,0.2,0.163
+Prescription benzodiazepines,2017-04,5332,17,0.319,0.163
+Prescription benzodiazepines,2017-05,5738,6,0.105,0.162
+Prescription benzodiazepines,2017-06,5630,13,0.231,0.167
+Prescription benzodiazepines,2017-07,4924,9,0.183,0.173
+Prescription benzodiazepines,2017-08,5594,4,0.072,0.179
+Prescription benzodiazepines,2017-09,4677,7,0.15,0.188
+Prescription benzodiazepines,2017-10,5145,11,0.214,0.179
+Prescription benzodiazepines,2017-11,4736,5,0.106,0.195
+Prescription benzodiazepines,2017-12,4198,5,0.119,0.181
+Prescription benzodiazepines,2018-01,5088,12,0.236,0.179
+Prescription benzodiazepines,2018-02,4508,9,0.2,0.185
+Prescription benzodiazepines,2018-03,4982,16,0.321,0.188
+Prescription benzodiazepines,2018-04,4696,10,0.213,0.181
+Prescription benzodiazepines,2018-05,4822,14,0.29,0.185
+Prescription benzodiazepines,2018-06,4498,3,0.067,0.199
+Prescription benzodiazepines,2018-07,4534,7,0.154,0.2
+Prescription benzodiazepines,2018-08,4969,6,0.121,0.2
+Prescription benzodiazepines,2018-09,4265,8,0.188,0.19
+Prescription benzodiazepines,2018-10,4626,6,0.13,0.182
+Prescription benzodiazepines,2018-11,3812,6,0.157,0.167
+Prescription benzodiazepines,2018-12,3445,11,0.319,0.183
+Prescription benzodiazepines,2019-01,4382,11,0.251,0.19
+Prescription benzodiazepines,2019-02,3582,7,0.195,0.198
+Prescription benzodiazepines,2019-03,3502,8,0.228,0.195
+Prescription benzodiazepines,2019-04,3450,4,0.116,0.202
+Prescription benzodiazepines,2019-05,3435,4,0.116,0.209
+Prescription benzodiazepines,2019-06,3021,8,0.265,0.205
+Prescription benzodiazepines,2019-07,3224,8,0.248,0.208
+Prescription benzodiazepines,2019-08,3234,6,0.186,0.205
+Prescription benzodiazepines,2019-09,2775,4,0.144,0.194
+Prescription benzodiazepines,2019-10,3138,6,0.191,0.205
+Prescription benzodiazepines,2019-11,2471,6,0.243,0.208
+Prescription benzodiazepines,2019-12,2409,7,0.291,0.208
+Prescription benzodiazepines,2020-01,2854,9,0.315,0.218
+Prescription benzodiazepines,2020-02,2633,4,0.152,0.224
+Prescription benzodiazepines,2020-03,2375,2,0.084,0.248
+Prescription benzodiazepines,2020-04,1645,4,0.243,0.24
+Prescription benzodiazepines,2020-05,2420,3,0.124,0.238
+Prescription benzodiazepines,2020-06,2556,7,0.274,0.24
+Prescription benzodiazepines,2020-07,2719,10,0.368,0.227
+Prescription benzodiazepines,2020-08,2846,7,0.246,0.249
+Prescription benzodiazepines,2020-09,2590,11,0.425,0.262
+Prescription benzodiazepines,2020-10,2481,2,0.081,0.277
+Prescription benzodiazepines,2020-11,1892,4,0.211,0.303
+Prescription benzodiazepines,2020-12,2147,7,0.326,0.337
+Prescription benzodiazepines,2021-01,2315,4,0.173,0.327
+Prescription benzodiazepines,2021-02,2146,9,0.419,0.323
+Prescription benzodiazepines,2021-03,2884,7,0.243,0.317
+Prescription benzodiazepines,2021-04,2616,11,0.42,0.339
+Prescription benzodiazepines,2021-05,2198,10,0.455,0.33
+Prescription benzodiazepines,2021-06,2255,16,0.71,0.33
+Prescription benzodiazepines,2021-07,2065,5,0.242,0.344
+Prescription benzodiazepines,2021-08,1944,3,0.154,0.331
+Prescription benzodiazepines,2021-09,1838,7,0.381,0.351
+Prescription benzodiazepines,2021-10,1625,5,0.308,0.346
+Prescription benzodiazepines,2021-11,1440,0,0,0.341
+Prescription benzodiazepines,2021-12,1539,5,0.325,0.325
+Prescription benzodiazepines,2022-01,1580,5,0.316,0.342
+Prescription benzodiazepines,2022-02,1564,4,0.256,0.396
+Prescription benzodiazepines,2022-03,2151,9,0.418,0.452
+Prescription benzodiazepines,2022-04,1738,7,0.403,0.476
+Prescription benzodiazepines,2022-05,1673,7,0.418,0.533
+Prescription benzodiazepines,2022-06,1746,11,0.63,0.555
+Prescription benzodiazepines,2022-07,1644,7,0.426,0.587
+Prescription benzodiazepines,2022-08,1665,13,0.781,0.604
+Prescription benzodiazepines,2022-09,1545,17,1.1,0.624
+Prescription benzodiazepines,2022-10,1452,9,0.62,0.65
+Prescription benzodiazepines,2022-11,1219,10,0.82,0.699
+Prescription benzodiazepines,2022-12,1295,8,0.618,0.694
+Prescription benzodiazepines,2023-01,1561,11,0.705,0.73
+Prescription benzodiazepines,2023-02,1501,7,0.466,0.688
+Prescription benzodiazepines,2023-03,1726,10,0.579,0.62
+Prescription benzodiazepines,2023-04,1267,9,0.71,0.607
+Prescription benzodiazepines,2023-05,1397,14,1.002,0.571
+Prescription benzodiazepines,2023-06,1454,8,0.55,0.548
+Prescription benzodiazepines,2023-07,1317,11,0.835,NA
+Prescription benzodiazepines,2023-08,1426,4,0.281,NA
+Prescription benzodiazepines,2023-09,1165,3,0.258,NA
+Prescription benzodiazepines,2023-10,981,4,0.408,NA
+Prescription benzodiazepines,2023-11,836,2,0.239,NA
+Prescription benzodiazepines,2023-12,708,1,0.141,NA
+Prescription opioids,2013-01,10841,0,0,NA
+Prescription opioids,2013-02,9553,1,0.01,NA
+Prescription opioids,2013-03,9906,1,0.01,NA
+Prescription opioids,2013-04,9505,0,0,NA
+Prescription opioids,2013-05,10061,0,0,NA
+Prescription opioids,2013-06,8610,1,0.012,0.005
+Prescription opioids,2013-07,9661,0,0,0.005
+Prescription opioids,2013-08,9540,0,0,0.008
+Prescription opioids,2013-09,9416,0,0,0.009
+Prescription opioids,2013-10,10032,1,0.01,0.014
+Prescription opioids,2013-11,8125,0,0,0.015
+Prescription opioids,2013-12,8125,2,0.025,0.018
+Prescription opioids,2014-01,9836,0,0,0.019
+Prescription opioids,2014-02,9068,4,0.044,0.02
+Prescription opioids,2014-03,9857,2,0.02,0.02
+Prescription opioids,2014-04,9182,6,0.065,0.023
+Prescription opioids,2014-05,9282,1,0.011,0.023
+Prescription opioids,2014-06,9081,4,0.044,0.023
+Prescription opioids,2014-07,10171,1,0.01,0.025
+Prescription opioids,2014-08,9448,1,0.011,0.023
+Prescription opioids,2014-09,8965,0,0,0.025
+Prescription opioids,2014-10,9459,4,0.042,0.023
+Prescription opioids,2014-11,6827,0,0,0.026
+Prescription opioids,2014-12,7867,2,0.025,0.025
+Prescription opioids,2015-01,8643,2,0.023,0.029
+Prescription opioids,2015-02,7979,2,0.025,0.031
+Prescription opioids,2015-03,8879,3,0.034,0.039
+Prescription opioids,2015-04,8816,4,0.045,0.04
+Prescription opioids,2015-05,7874,4,0.051,0.044
+Prescription opioids,2015-06,8474,3,0.035,0.049
+Prescription opioids,2015-07,9046,5,0.055,0.055
+Prescription opioids,2015-08,8155,2,0.025,0.06
+Prescription opioids,2015-09,8409,8,0.095,0.066
+Prescription opioids,2015-10,8549,5,0.058,0.068
+Prescription opioids,2015-11,7159,4,0.056,0.081
+Prescription opioids,2015-12,7925,7,0.088,0.093
+Prescription opioids,2016-01,8137,8,0.098,0.1
+Prescription opioids,2016-02,8584,7,0.082,0.115
+Prescription opioids,2016-03,8989,9,0.1,0.136
+Prescription opioids,2016-04,8146,6,0.074,0.151
+Prescription opioids,2016-05,8050,17,0.211,0.16
+Prescription opioids,2016-06,8578,15,0.175,0.171
+Prescription opioids,2016-07,7150,10,0.14,0.187
+Prescription opioids,2016-08,8522,17,0.199,0.226
+Prescription opioids,2016-09,8217,28,0.341,0.258
+Prescription opioids,2016-10,7070,18,0.255,0.286
+Prescription opioids,2016-11,6744,12,0.178,0.299
+Prescription opioids,2016-12,6902,16,0.232,0.314
+Prescription opioids,2017-01,7850,22,0.28,0.334
+Prescription opioids,2017-02,7504,42,0.56,0.347
+Prescription opioids,2017-03,8754,38,0.434,0.352
+Prescription opioids,2017-04,6772,28,0.413,0.359
+Prescription opioids,2017-05,7940,29,0.365,0.371
+Prescription opioids,2017-06,7526,26,0.345,0.375
+Prescription opioids,2017-07,7281,28,0.385,0.381
+Prescription opioids,2017-08,7755,26,0.335,0.375
+Prescription opioids,2017-09,6628,27,0.407,0.369
+Prescription opioids,2017-10,7003,24,0.343,0.374
+Prescription opioids,2017-11,6488,22,0.339,0.371
+Prescription opioids,2017-12,5750,15,0.261,0.385
+Prescription opioids,2018-01,6684,23,0.344,0.375
+Prescription opioids,2018-02,6399,33,0.516,0.398
+Prescription opioids,2018-03,6918,26,0.376,0.4
+Prescription opioids,2018-04,6416,31,0.483,0.411
+Prescription opioids,2018-05,6528,21,0.322,0.412
+Prescription opioids,2018-06,6312,33,0.523,0.424
+Prescription opioids,2018-07,6120,15,0.245,0.432
+Prescription opioids,2018-08,6984,41,0.587,0.42
+Prescription opioids,2018-09,5694,25,0.439,0.429
+Prescription opioids,2018-10,6106,29,0.475,0.427
+Prescription opioids,2018-11,5071,17,0.335,0.428
+Prescription opioids,2018-12,4616,19,0.412,0.427
+Prescription opioids,2019-01,6377,28,0.439,0.454
+Prescription opioids,2019-02,5498,20,0.364,0.442
+Prescription opioids,2019-03,5689,27,0.475,0.653
+Prescription opioids,2019-04,5577,26,0.466,0.635
+Prescription opioids,2019-05,5862,19,0.324,0.656
+Prescription opioids,2019-06,5058,27,0.534,0.722
+Prescription opioids,2019-07,5774,32,0.554,0.745
+Prescription opioids,2019-08,5920,28,0.473,0.773
+Prescription opioids,2019-09,5108,163,3.191,0.794
+Prescription opioids,2019-10,5552,14,0.252,0.814
+Prescription opioids,2019-11,4174,25,0.599,0.878
+Prescription opioids,2019-12,4348,60,1.38,0.929
+Prescription opioids,2020-01,5352,35,0.654,0.959
+Prescription opioids,2020-02,4710,32,0.679,1.038
+Prescription opioids,2020-03,4062,27,0.665,0.857
+Prescription opioids,2020-04,2769,16,0.578,0.907
+Prescription opioids,2020-05,3696,37,1.001,0.915
+Prescription opioids,2020-06,4078,47,1.153,0.885
+Prescription opioids,2020-07,4123,33,0.8,0.93
+Prescription opioids,2020-08,4345,54,1.243,1.037
+Prescription opioids,2020-09,4351,62,1.425,1.035
+Prescription opioids,2020-10,4176,27,0.647,1.048
+Prescription opioids,2020-11,3268,21,0.643,1.065
+Prescription opioids,2020-12,3678,39,1.06,1.051
+Prescription opioids,2021-01,3719,42,1.129,1.071
+Prescription opioids,2021-02,3540,70,1.977,1.046
+Prescription opioids,2021-03,4333,29,0.669,1.006
+Prescription opioids,2021-04,3739,32,0.856,1.028
+Prescription opioids,2021-05,3402,42,1.235,1.015
+Prescription opioids,2021-06,3775,37,0.98,0.988
+Prescription opioids,2021-07,3501,36,1.028,0.994
+Prescription opioids,2021-08,3467,33,0.952,0.923
+Prescription opioids,2021-09,3055,31,1.015,0.973
+Prescription opioids,2021-10,2955,24,0.812,0.989
+Prescription opioids,2021-11,2702,10,0.37,1.019
+Prescription opioids,2021-12,2686,18,0.67,1.026
+Prescription opioids,2022-01,2986,37,1.239,1.033
+Prescription opioids,2022-02,2932,36,1.228,1.097
+Prescription opioids,2022-03,3548,41,1.156,1.092
+Prescription opioids,2022-04,3107,32,1.03,1.121
+Prescription opioids,2022-05,2981,49,1.644,1.169
+Prescription opioids,2022-06,3126,33,1.056,1.238
+Prescription opioids,2022-07,2862,32,1.118,1.218
+Prescription opioids,2022-08,3238,54,1.668,1.22
+Prescription opioids,2022-09,2762,26,0.941,1.218
+Prescription opioids,2022-10,2661,31,1.165,1.229
+Prescription opioids,2022-11,2360,23,0.975,1.196
+Prescription opioids,2022-12,2182,36,1.65,1.191
+Prescription opioids,2023-01,2961,30,1.013,1.184
+Prescription opioids,2023-02,2626,33,1.257,1.164
+Prescription opioids,2023-03,2973,33,1.11,1.149
+Prescription opioids,2023-04,2396,27,1.127,1.158
+Prescription opioids,2023-05,2624,34,1.296,1.133
+Prescription opioids,2023-06,2590,25,0.965,1.066
+Prescription opioids,2023-07,2309,23,0.996,NA
+Prescription opioids,2023-08,2493,39,1.564,NA
+Prescription opioids,2023-09,1931,12,0.621,NA
+Prescription opioids,2023-10,1821,24,1.318,NA
+Prescription opioids,2023-11,1512,6,0.397,NA
+Prescription opioids,2023-12,1252,7,0.559,NA
+Prescription stimulants,2013-01,1283,0,0,NA
+Prescription stimulants,2013-02,1233,0,0,NA
+Prescription stimulants,2013-03,1251,0,0,NA
+Prescription stimulants,2013-04,1173,0,0,NA
+Prescription stimulants,2013-05,1361,0,0,NA
+Prescription stimulants,2013-06,1041,0,0,0.007
+Prescription stimulants,2013-07,1107,0,0,0.007
+Prescription stimulants,2013-08,1056,0,0,0.007
+Prescription stimulants,2013-09,1098,1,0.091,0.007
+Prescription stimulants,2013-10,1269,0,0,0.007
+Prescription stimulants,2013-11,955,0,0,0.007
+Prescription stimulants,2013-12,1058,0,0,0.007
+Prescription stimulants,2014-01,1301,0,0,0.007
+Prescription stimulants,2014-02,1176,0,0,0.007
+Prescription stimulants,2014-03,1458,0,0,0
+Prescription stimulants,2014-04,1316,0,0,0
+Prescription stimulants,2014-05,1432,0,0,0.007
+Prescription stimulants,2014-06,1168,0,0,0.013
+Prescription stimulants,2014-07,1297,0,0,0.013
+Prescription stimulants,2014-08,1220,0,0,0.013
+Prescription stimulants,2014-09,1209,0,0,0.013
+Prescription stimulants,2014-10,1260,0,0,0.013
+Prescription stimulants,2014-11,989,1,0.101,0.013
+Prescription stimulants,2014-12,1199,1,0.083,0.013
+Prescription stimulants,2015-01,1191,0,0,0.02
+Prescription stimulants,2015-02,1186,0,0,0.027
+Prescription stimulants,2015-03,1440,0,0,0.027
+Prescription stimulants,2015-04,1377,0,0,0.027
+Prescription stimulants,2015-05,1282,0,0,0.02
+Prescription stimulants,2015-06,1237,0,0,0.02
+Prescription stimulants,2015-07,1304,1,0.077,0.032
+Prescription stimulants,2015-08,1146,1,0.087,0.032
+Prescription stimulants,2015-09,1190,0,0,0.038
+Prescription stimulants,2015-10,1257,0,0,0.038
+Prescription stimulants,2015-11,1182,0,0,0.037
+Prescription stimulants,2015-12,1381,1,0.072,0.043
+Prescription stimulants,2016-01,1450,2,0.138,0.037
+Prescription stimulants,2016-02,1325,0,0,0.049
+Prescription stimulants,2016-03,1597,1,0.063,0.049
+Prescription stimulants,2016-04,1494,0,0,0.049
+Prescription stimulants,2016-05,1526,0,0,0.049
+Prescription stimulants,2016-06,1408,1,0.071,0.049
+Prescription stimulants,2016-07,1143,0,0,0.043
+Prescription stimulants,2016-08,1350,3,0.222,0.043
+Prescription stimulants,2016-09,1328,0,0,0.043
+Prescription stimulants,2016-10,1286,0,0,0.043
+Prescription stimulants,2016-11,1165,0,0,0.044
+Prescription stimulants,2016-12,1238,1,0.081,0.037
+Prescription stimulants,2017-01,1464,1,0.068,0.037
+Prescription stimulants,2017-02,1340,0,0,0.019
+Prescription stimulants,2017-03,1600,1,0.062,0.025
+Prescription stimulants,2017-04,1284,0,0,0.031
+Prescription stimulants,2017-05,1439,0,0,0.043
+Prescription stimulants,2017-06,1380,0,0,0.037
+Prescription stimulants,2017-07,1256,0,0,0.031
+Prescription stimulants,2017-08,1390,0,0,0.031
+Prescription stimulants,2017-09,1225,1,0.082,0.031
+Prescription stimulants,2017-10,1352,1,0.074,0.037
+Prescription stimulants,2017-11,1364,2,0.147,0.043
+Prescription stimulants,2017-12,1133,0,0,0.049
+Prescription stimulants,2018-01,1414,0,0,0.061
+Prescription stimulants,2018-02,1377,0,0,0.074
+Prescription stimulants,2018-03,1525,1,0.066,0.074
+Prescription stimulants,2018-04,1528,1,0.065,0.074
+Prescription stimulants,2018-05,1451,1,0.069,0.075
+Prescription stimulants,2018-06,1269,1,0.079,0.075
+Prescription stimulants,2018-07,1285,2,0.156,0.094
+Prescription stimulants,2018-08,1370,2,0.146,0.101
+Prescription stimulants,2018-09,1165,1,0.086,0.097
+Prescription stimulants,2018-10,1274,1,0.078,0.098
+Prescription stimulants,2018-11,1230,2,0.163,0.093
+Prescription stimulants,2018-12,1039,0,0,0.087
+Prescription stimulants,2019-01,1430,3,0.21,0.075
+Prescription stimulants,2019-02,1233,1,0.081,0.082
+Prescription stimulants,2019-03,1224,0,0,0.097
+Prescription stimulants,2019-04,1269,1,0.079,0.097
+Prescription stimulants,2019-05,1231,0,0,0.099
+Prescription stimulants,2019-06,1124,0,0,0.099
+Prescription stimulants,2019-07,1175,0,0,0.087
+Prescription stimulants,2019-08,1250,3,0.24,0.081
+Prescription stimulants,2019-09,1014,3,0.296,0.09
+Prescription stimulants,2019-10,1222,1,0.082,0.095
+Prescription stimulants,2019-11,954,2,0.21,0.106
+Prescription stimulants,2019-12,962,0,0,0.108
+Prescription stimulants,2020-01,1161,1,0.086,0.118
+Prescription stimulants,2020-02,1045,0,0,0.095
+Prescription stimulants,2020-03,957,1,0.104,0.122
+Prescription stimulants,2020-04,558,1,0.179,0.144
+Prescription stimulants,2020-05,799,1,0.125,0.147
+Prescription stimulants,2020-06,933,0,0,0.167
+Prescription stimulants,2020-07,977,1,0.102,0.192
+Prescription stimulants,2020-08,957,0,0,0.199
+Prescription stimulants,2020-09,939,6,0.639,0.217
+Prescription stimulants,2020-10,862,3,0.348,0.238
+Prescription stimulants,2020-11,739,2,0.271,0.238
+Prescription stimulants,2020-12,821,2,0.244,0.268
+Prescription stimulants,2021-01,804,3,0.373,0.271
+Prescription stimulants,2021-02,720,0,0,0.286
+Prescription stimulants,2021-03,1022,3,0.294,0.251
+Prescription stimulants,2021-04,912,4,0.439,0.225
+Prescription stimulants,2021-05,823,1,0.122,0.207
+Prescription stimulants,2021-06,877,3,0.342,0.19
+Prescription stimulants,2021-07,853,1,0.117,0.181
+Prescription stimulants,2021-08,780,1,0.128,0.181
+Prescription stimulants,2021-09,748,2,0.267,0.162
+Prescription stimulants,2021-10,686,0,0,0.143
+Prescription stimulants,2021-11,603,0,0,0.144
+Prescription stimulants,2021-12,642,0,0,0.134
+Prescription stimulants,2022-01,732,2,0.273,0.126
+Prescription stimulants,2022-02,719,0,0,0.138
+Prescription stimulants,2022-03,894,1,0.112,0.15
+Prescription stimulants,2022-04,737,2,0.271,0.196
+Prescription stimulants,2022-05,782,1,0.128,0.197
+Prescription stimulants,2022-06,779,2,0.257,0.198
+Prescription stimulants,2022-07,640,0,0,0.188
+Prescription stimulants,2022-08,747,2,0.268,0.225
+Prescription stimulants,2022-09,726,3,0.413,0.228
+Prescription stimulants,2022-10,651,4,0.614,0.208
+Prescription stimulants,2022-11,582,0,0,0.199
+Prescription stimulants,2022-12,586,0,0,0.191
+Prescription stimulants,2023-01,667,1,0.15,0.219
+Prescription stimulants,2023-02,658,3,0.456,0.21
+Prescription stimulants,2023-03,773,1,0.129,0.176
+Prescription stimulants,2023-04,597,0,0,0.126
+Prescription stimulants,2023-05,628,0,0,0.129
+Prescription stimulants,2023-06,616,1,0.162,0.135
+Prescription stimulants,2023-07,514,2,0.389,NA
+Prescription stimulants,2023-08,631,1,0.158,NA
+Prescription stimulants,2023-09,490,0,0,NA
+Prescription stimulants,2023-10,418,0,0,NA
+Prescription stimulants,2023-11,384,0,0,NA
+Prescription stimulants,2023-12,303,0,0,NA
+Cannabinoids,2013-01,41344,0,0,NA
+Cannabinoids,2013-02,36626,0,0,NA
+Cannabinoids,2013-03,41157,0,0,NA
+Cannabinoids,2013-04,38758,0,0,NA
+Cannabinoids,2013-05,39938,0,0,NA
+Cannabinoids,2013-06,34295,0,0,0
+Cannabinoids,2013-07,37318,0,0,0
+Cannabinoids,2013-08,35194,0,0,0
+Cannabinoids,2013-09,33572,0,0,0
+Cannabinoids,2013-10,37879,0,0,0
+Cannabinoids,2013-11,31641,0,0,0
+Cannabinoids,2013-12,31609,0,0,0
+Cannabinoids,2014-01,36264,1,0.003,0.001
+Cannabinoids,2014-02,35200,0,0,0.001
+Cannabinoids,2014-03,39541,1,0.003,0.001
+Cannabinoids,2014-04,40907,0,0,0.001
+Cannabinoids,2014-05,38950,0,0,0.001
+Cannabinoids,2014-06,36445,0,0,0.001
+Cannabinoids,2014-07,37497,1,0.003,0.001
+Cannabinoids,2014-08,33898,0,0,0.001
+Cannabinoids,2014-09,33749,0,0,0.001
+Cannabinoids,2014-10,34110,1,0.003,0.002
+Cannabinoids,2014-11,26318,0,0,0.002
+Cannabinoids,2014-12,29798,1,0.003,0.002
+Cannabinoids,2015-01,32136,0,0,0.002
+Cannabinoids,2015-02,30879,0,0,0.002
+Cannabinoids,2015-03,35282,3,0.009,0.004
+Cannabinoids,2015-04,34847,1,0.003,0.004
+Cannabinoids,2015-05,29336,0,0,0.004
+Cannabinoids,2015-06,30483,0,0,0.004
+Cannabinoids,2015-07,30818,1,0.003,0.004
+Cannabinoids,2015-08,28065,2,0.007,0.005
+Cannabinoids,2015-09,28537,4,0.014,0.006
+Cannabinoids,2015-10,30245,1,0.003,0.007
+Cannabinoids,2015-11,27449,0,0,0.008
+Cannabinoids,2015-12,30607,1,0.003,0.009
+Cannabinoids,2016-01,30629,3,0.01,0.009
+Cannabinoids,2016-02,33914,4,0.012,0.01
+Cannabinoids,2016-03,38320,5,0.013,0.011
+Cannabinoids,2016-04,32883,6,0.018,0.012
+Cannabinoids,2016-05,32505,4,0.012,0.013
+Cannabinoids,2016-06,33130,2,0.006,0.014
+Cannabinoids,2016-07,27788,1,0.004,0.015
+Cannabinoids,2016-08,28778,7,0.024,0.017
+Cannabinoids,2016-09,28039,7,0.025,0.017
+Cannabinoids,2016-10,26040,3,0.012,0.017
+Cannabinoids,2016-11,24972,6,0.024,0.018
+Cannabinoids,2016-12,27053,3,0.011,0.02
+Cannabinoids,2017-01,28428,7,0.025,0.022
+Cannabinoids,2017-02,27723,10,0.036,0.024
+Cannabinoids,2017-03,34735,4,0.012,0.025
+Cannabinoids,2017-04,28545,5,0.018,0.027
+Cannabinoids,2017-05,30142,7,0.023,0.028
+Cannabinoids,2017-06,29968,10,0.033,0.029
+Cannabinoids,2017-07,25862,5,0.019,0.031
+Cannabinoids,2017-08,28651,14,0.049,0.032
+Cannabinoids,2017-09,25854,11,0.043,0.036
+Cannabinoids,2017-10,27204,10,0.037,0.038
+Cannabinoids,2017-11,26540,11,0.041,0.039
+Cannabinoids,2017-12,23977,5,0.021,0.039
+Cannabinoids,2018-01,29415,13,0.044,0.039
+Cannabinoids,2018-02,27590,13,0.047,0.042
+Cannabinoids,2018-03,32676,18,0.055,0.045
+Cannabinoids,2018-04,31095,11,0.035,0.049
+Cannabinoids,2018-05,30267,12,0.04,0.05
+Cannabinoids,2018-06,27388,8,0.029,0.058
+Cannabinoids,2018-07,26376,5,0.019,0.065
+Cannabinoids,2018-08,29323,24,0.082,0.071
+Cannabinoids,2018-09,25092,21,0.084,0.074
+Cannabinoids,2018-10,27475,23,0.084,0.08
+Cannabinoids,2018-11,25713,16,0.062,0.084
+Cannabinoids,2018-12,22715,29,0.128,0.088
+Cannabinoids,2019-01,31625,40,0.126,0.096
+Cannabinoids,2019-02,27649,33,0.119,0.095
+Cannabinoids,2019-03,30142,25,0.083,0.097
+Cannabinoids,2019-04,29033,31,0.107,0.096
+Cannabinoids,2019-05,28244,22,0.078,0.098
+Cannabinoids,2019-06,22736,19,0.084,0.094
+Cannabinoids,2019-07,21879,25,0.114,0.094
+Cannabinoids,2019-08,20443,13,0.064,0.091
+Cannabinoids,2019-09,18148,20,0.11,0.092
+Cannabinoids,2019-10,19861,14,0.07,0.09
+Cannabinoids,2019-11,16328,11,0.067,0.091
+Cannabinoids,2019-12,16915,13,0.077,0.092
+Cannabinoids,2020-01,21450,31,0.145,0.09
+Cannabinoids,2020-02,18433,17,0.092,0.096
+Cannabinoids,2020-03,15967,14,0.088,0.097
+Cannabinoids,2020-04,9943,8,0.08,0.101
+Cannabinoids,2020-05,16852,14,0.083,0.108
+Cannabinoids,2020-06,17949,18,0.1,0.113
+Cannabinoids,2020-07,17579,16,0.091,0.117
+Cannabinoids,2020-08,18052,23,0.127,0.129
+Cannabinoids,2020-09,17289,22,0.127,0.14
+Cannabinoids,2020-10,16842,19,0.113,0.147
+Cannabinoids,2020-11,13824,23,0.166,0.156
+Cannabinoids,2020-12,14486,19,0.131,0.157
+Cannabinoids,2021-01,15843,33,0.208,0.159
+Cannabinoids,2021-02,13434,34,0.253,0.163
+Cannabinoids,2021-03,18891,38,0.201,0.162
+Cannabinoids,2021-04,17941,34,0.19,0.166
+Cannabinoids,2021-05,14654,28,0.191,0.163
+Cannabinoids,2021-06,16120,18,0.112,0.165
+Cannabinoids,2021-07,13661,13,0.095,0.163
+Cannabinoids,2021-08,12884,22,0.171,0.159
+Cannabinoids,2021-09,12805,13,0.102,0.151
+Cannabinoids,2021-10,11280,17,0.151,0.151
+Cannabinoids,2021-11,11368,14,0.123,0.15
+Cannabinoids,2021-12,11315,16,0.141,0.155
+Cannabinoids,2022-01,11546,24,0.208,0.168
+Cannabinoids,2022-02,11723,24,0.205,0.167
+Cannabinoids,2022-03,15073,19,0.126,0.171
+Cannabinoids,2022-04,12862,26,0.202,0.17
+Cannabinoids,2022-05,12813,24,0.187,0.179
+Cannabinoids,2022-06,12386,20,0.161,0.186
+Cannabinoids,2022-07,11631,29,0.249,0.184
+Cannabinoids,2022-08,12594,20,0.159,0.187
+Cannabinoids,2022-09,11383,17,0.149,0.193
+Cannabinoids,2022-10,9825,13,0.132,0.191
+Cannabinoids,2022-11,9575,24,0.251,0.183
+Cannabinoids,2022-12,9198,21,0.228,0.187
+Cannabinoids,2023-01,11970,22,0.184,0.179
+Cannabinoids,2023-02,10992,27,0.246,0.179
+Cannabinoids,2023-03,12812,23,0.18,0.179
+Cannabinoids,2023-04,10535,19,0.18,0.181
+Cannabinoids,2023-05,11174,10,0.089,0.168
+Cannabinoids,2023-06,11439,24,0.21,0.16
+Cannabinoids,2023-07,9135,14,0.153,NA
+Cannabinoids,2023-08,9672,15,0.155,NA
+Cannabinoids,2023-09,8352,11,0.132,NA
+Cannabinoids,2023-10,8540,13,0.152,NA
+Cannabinoids,2023-11,6647,3,0.045,NA
+Cannabinoids,2023-12,5966,7,0.117,NA
