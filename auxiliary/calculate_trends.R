@@ -12,7 +12,6 @@ if (update_analysis == TRUE) {  # Analysis can only be updated with access to da
   alldrugs_month <- read_csv("./outputs/processed/Fentanyl_cooccurrence_month_state.csv")
 }
 
-
 ##########################################
 ###         Yearly trend               ###
 ##########################################

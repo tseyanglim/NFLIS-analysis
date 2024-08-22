@@ -19,8 +19,8 @@ library(grid)
 ## Define shared settings
 dat_folder <- "C:/Data/NFLIS/Raw"
 dat_years <- 2013:2023
-update_raw_data <- TRUE  # Only needed if raw data files have changed
-update_clean_data <- TRUE  # Only needed if categories or sample restrictions have changed
+update_raw_data <- FALSE  # Only needed if raw data files have changed
+update_clean_data <- FALSE  # Only needed if categories or sample restrictions have changed
 update_analysis <- TRUE  # Need data folder access to update analysis, otherwise set to `FALSE`
 druglist <- c("Methamphetamine", "Cannabinoids", "Cocaine", "Heroin", "Prescription opioids",
               "Prescription benzodiazepines", "Prescription stimulants", "Hallucinogens", "Club drugs")
@@ -30,9 +30,11 @@ datestring <- format(Sys.time(), "%Y%m%d")
 ## Clean and load data
 source("./auxiliary/NFLIS_data_cleaning.R")
 ```
-
 ```{r calculate yearly and monthly trends}
 source("./auxiliary/calculate_trends.R")
+
+# Generate descriptive statistics and sample restrictions figure
+source("./auxiliary/descriptive_statistics.R")
 ```
 
 ```{r plot figures & tabulate rankings}

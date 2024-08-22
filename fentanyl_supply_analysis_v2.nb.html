@@ -1756,12 +1756,12 @@ display: none;
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyMgRGVmaW5lIHNoYXJlZCBzZXR0aW5nc1xuZGF0X2ZvbGRlciA8LSBcIkM6L0RhdGEvTkZMSVMvUmF3XCJcbmRhdF95ZWFycyA8LSAyMDEzOjIwMjNcbnVwZGF0ZV9yYXdfZGF0YSA8LSBUUlVFICAjIE9ubHkgbmVlZGVkIGlmIHJhdyBkYXRhIGZpbGVzIGhhdmUgY2hhbmdlZFxudXBkYXRlX2NsZWFuX2RhdGEgPC0gVFJVRSAgIyBPbmx5IG5lZWRlZCBpZiBjYXRlZ29yaWVzIG9yIHNhbXBsZSByZXN0cmljdGlvbnMgaGF2ZSBjaGFuZ2VkXG51cGRhdGVfYW5hbHlzaXMgPC0gVFJVRSAgIyBOZWVkIGRhdGEgZm9sZGVyIGFjY2VzcyB0byB1cGRhdGUgYW5hbHlzaXMsIG90aGVyd2lzZSBzZXQgdG8gYEZBTFNFYFxuZHJ1Z2xpc3QgPC0gYyhcIk1ldGhhbXBoZXRhbWluZVwiLCBcIkNhbm5hYmlub2lkc1wiLCBcIkNvY2FpbmVcIiwgXCJIZXJvaW5cIiwgXCJQcmVzY3JpcHRpb24gb3Bpb2lkc1wiLFxuICAgICAgICAgICAgICBcIlByZXNjcmlwdGlvbiBiZW56b2RpYXplcGluZXNcIiwgXCJQcmVzY3JpcHRpb24gc3RpbXVsYW50c1wiLCBcIkhhbGx1Y2lub2dlbnNcIiwgXCJDbHViIGRydWdzXCIpXG5maWdfZXh0IDwtIFwic3ZnXCJcbmRhdGVzdHJpbmcgPC0gZm9ybWF0KFN5cy50aW1lKCksIFwiJVklbSVkXCIpXG5cbiMjIENsZWFuIGFuZCBsb2FkIGRhdGFcbnNvdXJjZShcIi4vYXV4aWxpYXJ5L05GTElTX2RhdGFfY2xlYW5pbmcuUlwiKVxuYGBgIn0= -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyMgRGVmaW5lIHNoYXJlZCBzZXR0aW5nc1xuZGF0X2ZvbGRlciA8LSBcIkM6L0RhdGEvTkZMSVMvUmF3XCJcbmRhdF95ZWFycyA8LSAyMDEzOjIwMjNcbnVwZGF0ZV9yYXdfZGF0YSA8LSBGQUxTRSAgIyBPbmx5IG5lZWRlZCBpZiByYXcgZGF0YSBmaWxlcyBoYXZlIGNoYW5nZWRcbnVwZGF0ZV9jbGVhbl9kYXRhIDwtIEZBTFNFICAjIE9ubHkgbmVlZGVkIGlmIGNhdGVnb3JpZXMgb3Igc2FtcGxlIHJlc3RyaWN0aW9ucyBoYXZlIGNoYW5nZWRcbnVwZGF0ZV9hbmFseXNpcyA8LSBUUlVFICAjIE5lZWQgZGF0YSBmb2xkZXIgYWNjZXNzIHRvIHVwZGF0ZSBhbmFseXNpcywgb3RoZXJ3aXNlIHNldCB0byBgRkFMU0VgXG5kcnVnbGlzdCA8LSBjKFwiTWV0aGFtcGhldGFtaW5lXCIsIFwiQ2FubmFiaW5vaWRzXCIsIFwiQ29jYWluZVwiLCBcIkhlcm9pblwiLCBcIlByZXNjcmlwdGlvbiBvcGlvaWRzXCIsXG4gICAgICAgICAgICAgIFwiUHJlc2NyaXB0aW9uIGJlbnpvZGlhemVwaW5lc1wiLCBcIlByZXNjcmlwdGlvbiBzdGltdWxhbnRzXCIsIFwiSGFsbHVjaW5vZ2Vuc1wiLCBcIkNsdWIgZHJ1Z3NcIilcbmZpZ19leHQgPC0gXCJzdmdcIlxuZGF0ZXN0cmluZyA8LSBmb3JtYXQoU3lzLnRpbWUoKSwgXCIlWSVtJWRcIilcblxuIyMgQ2xlYW4gYW5kIGxvYWQgZGF0YVxuc291cmNlKFwiLi9hdXhpbGlhcnkvTkZMSVNfZGF0YV9jbGVhbmluZy5SXCIpXG5gYGAifQ== -->
 <pre class="r"><code>## Define shared settings
 dat_folder &lt;- &quot;C:/Data/NFLIS/Raw&quot;
 dat_years &lt;- 2013:2023
-update_raw_data &lt;- TRUE  # Only needed if raw data files have changed
-update_clean_data &lt;- TRUE  # Only needed if categories or sample restrictions have changed
+update_raw_data &lt;- FALSE  # Only needed if raw data files have changed
+update_clean_data &lt;- FALSE  # Only needed if categories or sample restrictions have changed
 update_analysis &lt;- TRUE  # Need data folder access to update analysis, otherwise set to `FALSE`
 druglist &lt;- c(&quot;Methamphetamine&quot;, &quot;Cannabinoids&quot;, &quot;Cocaine&quot;, &quot;Heroin&quot;, &quot;Prescription opioids&quot;,
               &quot;Prescription benzodiazepines&quot;, &quot;Prescription stimulants&quot;, &quot;Hallucinogens&quot;, &quot;Club drugs&quot;)
@@ -1772,104 +1772,152 @@ datestring &lt;- format(Sys.time(), &quot;%Y%m%d&quot;)
 source(&quot;./auxiliary/NFLIS_data_cleaning.R&quot;)</code></pre>
 <!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc291cmNlKFwiLi9hdXhpbGlhcnkvY2FsY3VsYXRlX3RyZW5kcy5SXCIpXG5gYGAifQ== -->
+<pre class="r"><code>source(&quot;./auxiliary/calculate_trends.R&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiUm93czogMTc3NTk4NzggQ29sdW1uczogMTNcbuKUgOKUgCBDb2x1bW4gc3BlY2lmaWNhdGlvbiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIBcbkRlbGltaXRlcjogXCIsXCJcbmNociAoNyk6IFN1YnN0YW5jZURldGVjdGVkLCBTdGF0ZSwgTU0sIEZvcm0sIFN1YnN0YW5jZSwgQ2F0ZWdvcnkuYWdncmVnYXRlLCBNb250aFxuZGJsICg2KTogTkZMSVNJRCwgQW5hbHlzaXNJRCwgWVlZWSwgU0VRTlVNLCBmZW50LCBmZW50X3Byb3Bcblxu4oS5IFVzZSBgc3BlYygpYCB0byByZXRyaWV2ZSB0aGUgZnVsbCBjb2x1bW4gc3BlY2lmaWNhdGlvbiBmb3IgdGhpcyBkYXRhLlxu4oS5IFNwZWNpZnkgdGhlIGNvbHVtbiB0eXBlcyBvciBzZXQgYHNob3dfY29sX3R5cGVzID0gRkFMU0VgIHRvIHF1aWV0IHRoaXMgbWVzc2FnZS5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBNZXRoYW1waGV0YW1pbmUgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBDYW5uYWJpbm9pZHMgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBDb2NhaW5lIFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgSGVyb2luIFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgUHJlc2NyaXB0aW9uIG9waW9pZHMgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBQcmVzY3JpcHRpb24gYmVuem9kaWF6ZXBpbmVzIFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgUHJlc2NyaXB0aW9uIHN0aW11bGFudHMgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBIYWxsdWNpbm9nZW5zIFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgQ2x1YiBkcnVncyBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuQ2FsY3VsYXRpbmcgZmVudGFueWwgc2FtcGxlIHNpemVzXG5Kb2luaW5nIHdpdGggYGJ5ID0gam9pbl9ieShZWVlZKWBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5Kb2luaW5nIHdpdGggYGJ5ID0gam9pbl9ieShZWVlZLCBTdGF0ZSlgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgTWV0aGFtcGhldGFtaW5lIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIENhbm5hYmlub2lkcyBcbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBDb2NhaW5lIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIEhlcm9pbiBcbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBQcmVzY3JpcHRpb24gb3Bpb2lkcyBcbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBQcmVzY3JpcHRpb24gYmVuem9kaWF6ZXBpbmVzIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIFByZXNjcmlwdGlvbiBzdGltdWxhbnRzIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIEhhbGx1Y2lub2dlbnMgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgQ2x1YiBkcnVncyBcblxuUm9sbGluZyBhdmVyYWdlIHZzLiBhbm51YWwgdG90YWwgY2hlY2s6XG4gWzFdIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUVcblszNV0gVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRVxuWzY5XSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnU3RhdGUnLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnU3RhdGUnLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG4ifQ== -->
+<pre><code>Rows: 17759878 Columns: 13
+── Column specification ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Delimiter: &quot;,&quot;
+chr (7): SubstanceDetected, State, MM, Form, Substance, Category.aggregate, Month
+dbl (6): NFLISID, AnalysisID, YYYY, SEQNUM, fent, fent_prop
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Calculating co-occurrences for Methamphetamine 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Cannabinoids 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Cocaine 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Heroin 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Prescription opioids 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Prescription benzodiazepines 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Prescription stimulants 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Hallucinogens 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating co-occurrences for Club drugs 
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Calculating fentanyl sample sizes
+Joining with `by = join_by(YYYY)`
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+`summarise()` has grouped output by &#39;YYYY&#39;. You can override using the `.groups` argument.
+Joining with `by = join_by(YYYY, State)`
+Calculating co-occurrences for Methamphetamine 
+Calculating co-occurrences for Cannabinoids 
+Calculating co-occurrences for Cocaine 
+Calculating co-occurrences for Heroin 
+Calculating co-occurrences for Prescription opioids 
+Calculating co-occurrences for Prescription benzodiazepines 
+Calculating co-occurrences for Prescription stimulants 
+Calculating co-occurrences for Hallucinogens 
+Calculating co-occurrences for Club drugs 
+
+Rolling average vs. annual total check:
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[35] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[69] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+`summarise()` has grouped output by &#39;State&#39;. You can override using the `.groups` argument.
+`summarise()` has grouped output by &#39;State&#39;. You can override using the `.groups` argument.</code></pre>
+<!-- rnb-output-end -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuIyBHZW5lcmF0ZSBkZXNjcmlwdGl2ZSBzdGF0aXN0aWNzIGFuZCBzYW1wbGUgcmVzdHJpY3Rpb25zIGZpZ3VyZVxuc291cmNlKFwiLi9hdXhpbGlhcnkvZGVzY3JpcHRpdmVfc3RhdGlzdGljcy5SXCIpXG5gYGAifQ== -->
+<pre class="r"><code># Generate descriptive statistics and sample restrictions figure
+source(&quot;./auxiliary/descriptive_statistics.R&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiTnVtYmVyIG9mIGRydWcgcmVwb3J0cyB3aXRob3V0IHNwZWNpZmljIGRydWdzOiAyOTk2NDY0IFxucHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHMgd2l0aG91dCBzcGVjaWZpYyBkcnVnczogMC4xNjg3MjEgXG5OdW1iZXIgb2YgZmVudGFueWw6IDUwNTg2MzAgXG5OdW1iZXIgb2YgZmVudGFueWwgYW1vbmcga25vd24gZHJ1Z3MgcmVwb3J0czogMC4zNDI2NDY0IFxuTnVtYmVyIG9mIGFsbCBvdGhlciBjYXRlZ29yaWVzOiAxMjA3MTY1NSBcbk51bWJlciBvZiBhbGwgb3RoZXIgZHJ1Z3MgYW1vbmcga25vd24gZHJ1Z3MgcmVwb3J0czogMC44MTc2NzM3IFxuUHJvcG9ydGlvbiBvZiBmZW50IGluIG90aGVyIGRydWdzIGluIGdlbmVyYWw6IDEgXG5OdW1iZXIgb2YgZHJ1ZyByZXBvcnRzIGFjcm9zcyA1MCBzdGF0ZXMgYW5kIERDOiAxNzc1OTg3OCBcbk51bWJlciBvZiBzYW1wbGVzOiAxNjY1ODkyMCBcbk51bWJlciBvZiBzZWl6dXJlczogOTU4NDUyMiBcbk51bWJlciBvZiBzZWl6dXJlcyBoYWQgb25lIHNhbXBsZTogNjYxMDMxMyBcblByb3BvcnRpb24gb2Ygc2VpenVyZXMgaGFkIG9uZSBzYW1wbGU6IDAuNjg5Njg2MiBcbk51bWJlciBvZiBzZWl6dXJlcyBoYWQgbXVsdGlwbGUgc2FtcGxlczogMjk3NDIwOSBcblByb3BvcnRpb24gb2Ygc2VpenVyZXMgaGFkIG11bHRpcGxlIHNhbXBsZXM6IDAuMzEwMzEzOCBcblByb3BvcnRpb24gb2YgZHJ1ZyByZXBvcnRzIGluIG9uZSBzYW1wbGUgcGVyIHNlaXp1cmU6IDAuMzk3ODg0OSBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBpbiBvbmUgc2FtcGxlIHBlciBzZWl6dXJlOiAwLjM5NjgwMzIgXG5Qcm9wb3J0aW9uIG9mIGRydWcgcmVwb3J0cyBpbiBvbmUgc2FtcGxlIHBlciBzZWl6dXJlOiAwLjYwMjExNTEgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaW4gb25lIHNhbXBsZSBwZXIgc2VpenVyZTogMC42MDMxOTY4IFxuUHJvcG9ydGlvbiBvZiBzYW1wbGVzIGhhZCBvbmUgcmVwb3J0OiAwLjM3NTY5ODcgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG11bHRpcGxlIHJlcG9ydHM6IDAuMDIxMTA0NTUgXG5Qcm9wb3J0aW9uIG9mIHNlaXp1cmVzIGhhZCBvbmUgcmVwb3J0OiAwLjY1MzAwNDMgXG5Qcm9wb3J0aW9uIG9mIGRydWcgcmVwb3J0czogMC4zNTI0MDg2IFxuUHJvcG9ydGlvbiBvZiBzYW1wbGVzIGhhZCBvbmUgcmVwb3J0OiAwLjM3NTY5ODcgXG5Qcm9wb3J0aW9uIG9mIHNlaXp1cmVzIGhhZCBvbmUgcmVwb3J0OiAwLjAzNjY4MTk1IFxuUHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHM6IDAuMDQ1NDc2MzMgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuMDIxMTA0NTUgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuNTcyNDkyNiBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgbXVsdGlwbGUgcmVwb3J0czogMC4wMzA3MDQyMSBcblByb3BvcnRpb24gb2Ygc2VpenVyZXMgaGFkIG9uZSByZXBvcnQ6IDAuMzA0Njk3NiBcblByb3BvcnRpb24gb2YgZHJ1ZyByZXBvcnRzOiAwLjUzNzAwMyBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgb25lIHJlcG9ydDogMC41NzI0OTI2IFxuUHJvcG9ydGlvbiBvZiBzZWl6dXJlcyBoYWQgb25lIHJlcG9ydDogMC4wMzIzMjQxIFxuUHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHM6IDAuMDY1MTEyMDUgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuMDMwNzA0MjEgXG5OdW1iZXIgb2YgZHJ1ZyByZXBvcnRzIDogMTI3OTM1OTIgXG5OdW1iZXIgb2Ygc2FtcGxlczogMTE5NDAyMDcgXG5OdW1iZXIgb2Ygc2VpenVyZXM6IDgxODk3NTMgXG5OdW1iZXIgb2Ygc2VpenVyZXMgaGFkIG9uZSBzYW1wbGU6IDYzNzI2MTcgXG5Qcm9wb3J0aW9uIG9mIHNlaXp1cmVzIGhhZCBvbmUgc2FtcGxlOiAwLjc3ODEyMDggXG5OdW1iZXIgb2Ygc2VpenVyZXMgaGFkIG11bHRpcGxlIHNhbXBsZXM6IDE4MTcxMzYgXG5Qcm9wb3J0aW9uIG9mIHNlaXp1cmVzIGhhZCBtdWx0aXBsZSBzYW1wbGVzOiAwLjIyMTg3OTIgXG5Qcm9wb3J0aW9uIG9mIGRydWcgcmVwb3J0cyBpbiBvbmUgc2FtcGxlIHBlciBzZWl6dXJlOiAwLjUzMDIzMTkgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaW4gb25lIHNhbXBsZSBwZXIgc2VpenVyZTogMC41MzM3MTA4IFxuUHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHMgaW4gbXVsdGlwbGUgc2FtcGxlcyBwZXIgc2VpenVyZTogMC40Njk3NjgxIFxuUHJvcG9ydGlvbiBvZiBzYW1wbGVzIGluIG11bHRpcGxlIHNhbXBsZXMgcGVyIHNlaXp1cmU6IDAuNDY2Mjg5MiBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgb25lIHJlcG9ydDogMC41MDY5MjQ2IFxuUHJvcG9ydGlvbiBvZiBzYW1wbGVzIGhhZCBtdWx0aXBsZSByZXBvcnRzOiAwLjAyNjc4NjE0IFxuUHJvcG9ydGlvbiBvZiBzZWl6dXJlcyBoYWQgb25lIHJlcG9ydDogMC43MzkwNjgxIFxuUHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHM6IDAuNDczMTEwNyBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgb25lIHJlcG9ydDogMC41MDY5MjQ2IFxuUHJvcG9ydGlvbiBvZiBzZWl6dXJlcyBoYWQgb25lIHJlcG9ydDogMC4wMzkwNTI3IFxuUHJvcG9ydGlvbiBvZiBkcnVnIHJlcG9ydHM6IDAuMDU3MTIxMTcgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuMDI2Nzg2MTQgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuNDM2NzQ0NCBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgbXVsdGlwbGUgcmVwb3J0czogMC4wMjk1NDQ4OCBcblByb3BvcnRpb24gb2Ygc2VpenVyZXMgaGFkIG9uZSByZXBvcnQ6IDAuMjE2MTExNCBcblByb3BvcnRpb24gb2YgZHJ1ZyByZXBvcnRzOiAwLjQwNzYxMTcgXG5Qcm9wb3J0aW9uIG9mIHNhbXBsZXMgaGFkIG9uZSByZXBvcnQ6IDAuNDM2NzQ0NCBcblByb3BvcnRpb24gb2Ygc2VpenVyZXMgaGFkIG11bHRpcGxlIHJlcG9ydHM6IDAuMDI1ODE0MjEgXG5Qcm9wb3J0aW9uIG9mIGRydWcgcmVwb3J0czogMC4wNjIxNTY0MyBcblByb3BvcnRpb24gb2Ygc2FtcGxlcyBoYWQgbXVsdGlwbGUgcmVwb3J0czogMC4wMjk1NDQ4OCBcbiJ9 -->
+<pre><code>Number of drug reports without specific drugs: 2996464 
+proportion of drug reports without specific drugs: 0.168721 
+Number of fentanyl: 5058630 
+Number of fentanyl among known drugs reports: 0.3426464 
+Number of all other categories: 12071655 
+Number of all other drugs among known drugs reports: 0.8176737 
+Proportion of fent in other drugs in general: 1 
+Number of drug reports across 50 states and DC: 17759878 
+Number of samples: 16658920 
+Number of seizures: 9584522 
+Number of seizures had one sample: 6610313 
+Proportion of seizures had one sample: 0.6896862 
+Number of seizures had multiple samples: 2974209 
+Proportion of seizures had multiple samples: 0.3103138 
+Proportion of drug reports in one sample per seizure: 0.3978849 
+Proportion of samples in one sample per seizure: 0.3968032 
+Proportion of drug reports in one sample per seizure: 0.6021151 
+Proportion of samples in one sample per seizure: 0.6031968 
+Proportion of samples had one report: 0.3756987 
+Proportion of samples had multiple reports: 0.02110455 
+Proportion of seizures had one report: 0.6530043 
+Proportion of drug reports: 0.3524086 
+Proportion of samples had one report: 0.3756987 
+Proportion of seizures had one report: 0.03668195 
+Proportion of drug reports: 0.04547633 
+Proportion of samples had one report: 0.02110455 
+Proportion of samples had one report: 0.5724926 
+Proportion of samples had multiple reports: 0.03070421 
+Proportion of seizures had one report: 0.3046976 
+Proportion of drug reports: 0.537003 
+Proportion of samples had one report: 0.5724926 
+Proportion of seizures had one report: 0.0323241 
+Proportion of drug reports: 0.06511205 
+Proportion of samples had one report: 0.03070421 
+Number of drug reports : 12793592 
+Number of samples: 11940207 
+Number of seizures: 8189753 
+Number of seizures had one sample: 6372617 
+Proportion of seizures had one sample: 0.7781208 
+Number of seizures had multiple samples: 1817136 
+Proportion of seizures had multiple samples: 0.2218792 
+Proportion of drug reports in one sample per seizure: 0.5302319 
+Proportion of samples in one sample per seizure: 0.5337108 
+Proportion of drug reports in multiple samples per seizure: 0.4697681 
+Proportion of samples in multiple samples per seizure: 0.4662892 
+Proportion of samples had one report: 0.5069246 
+Proportion of samples had multiple reports: 0.02678614 
+Proportion of seizures had one report: 0.7390681 
+Proportion of drug reports: 0.4731107 
+Proportion of samples had one report: 0.5069246 
+Proportion of seizures had one report: 0.0390527 
+Proportion of drug reports: 0.05712117 
+Proportion of samples had one report: 0.02678614 
+Proportion of samples had one report: 0.4367444 
+Proportion of samples had multiple reports: 0.02954488 
+Proportion of seizures had one report: 0.2161114 
+Proportion of drug reports: 0.4076117 
+Proportion of samples had one report: 0.4367444 
+Proportion of seizures had multiple reports: 0.02581421 
+Proportion of drug reports: 0.06215643 
+Proportion of samples had multiple reports: 0.02954488 </code></pre>
+<!-- rnb-output-end -->
+<!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYGBgclxuc291cmNlKFxcLi9hdXhpbGlhcnkvY2FsY3VsYXRlX3RyZW5kcy5SXFwpXG5gYGBcbmBgYCJ9 -->
-<pre class="r"><code>```r
-source(\./auxiliary/calculate_trends.R\)</code></pre>
-<pre><code>
-&lt;!-- rnb-source-end --&gt;
-
-&lt;!-- rnb-output-begin eyJkYXRhIjoiQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIE1ldGhhbXBoZXRhbWluZSBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIENhbm5hYmlub2lkcyBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIENvY2FpbmUgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBIZXJvaW4gXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBQcmVzY3JpcHRpb24gb3Bpb2lkcyBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIFByZXNjcmlwdGlvbiBiZW56b2RpYXplcGluZXMgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBQcmVzY3JpcHRpb24gc3RpbXVsYW50cyBcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdZWVlZJy4gWW91IGNhbiBvdmVycmlkZSB1c2luZyB0aGUgYC5ncm91cHNgIGFyZ3VtZW50LlxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIEhhbGx1Y2lub2dlbnMgXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBDbHViIGRydWdzIFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5DYWxjdWxhdGluZyBmZW50YW55bCBzYW1wbGUgc2l6ZXNcbkpvaW5pbmcgd2l0aCBgYnkgPSBqb2luX2J5KFlZWVkpYFxuYHN1bW1hcmlzZSgpYCBoYXMgZ3JvdXBlZCBvdXRwdXQgYnkgJ1lZWVknLiBZb3UgY2FuIG92ZXJyaWRlIHVzaW5nIHRoZSBgLmdyb3Vwc2AgYXJndW1lbnQuXG5gc3VtbWFyaXNlKClgIGhhcyBncm91cGVkIG91dHB1dCBieSAnWVlZWScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbkpvaW5pbmcgd2l0aCBgYnkgPSBqb2luX2J5KFlZWVksIFN0YXRlKWBcbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBNZXRoYW1waGV0YW1pbmUgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgQ2FubmFiaW5vaWRzIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIENvY2FpbmUgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgSGVyb2luIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIFByZXNjcmlwdGlvbiBvcGlvaWRzIFxuQ2FsY3VsYXRpbmcgY28tb2NjdXJyZW5jZXMgZm9yIFByZXNjcmlwdGlvbiBiZW56b2RpYXplcGluZXMgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgUHJlc2NyaXB0aW9uIHN0aW11bGFudHMgXG5DYWxjdWxhdGluZyBjby1vY2N1cnJlbmNlcyBmb3IgSGFsbHVjaW5vZ2VucyBcbkNhbGN1bGF0aW5nIGNvLW9jY3VycmVuY2VzIGZvciBDbHViIGRydWdzIFxuXG5Sb2xsaW5nIGF2ZXJhZ2UgdnMuIGFubnVhbCB0b3RhbCBjaGVjazpcbiBbMV0gVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRVxuWzM1XSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFXG5bNjldIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUUgVFJVRSBUUlVFIFRSVUVcbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdTdGF0ZScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbmBzdW1tYXJpc2UoKWAgaGFzIGdyb3VwZWQgb3V0cHV0IGJ5ICdTdGF0ZScuIFlvdSBjYW4gb3ZlcnJpZGUgdXNpbmcgdGhlIGAuZ3JvdXBzYCBhcmd1bWVudC5cbiJ9 --&gt;
-</code></pre>
-<p>Calculating co-occurrences for Methamphetamine
-<code>summarise()</code> has grouped output by ‘YYYY’. You can override
-using the <code>.groups</code> argument. Calculating co-occurrences for
-Cannabinoids <code>summarise()</code> has grouped output by ‘YYYY’. You
-can override using the <code>.groups</code> argument. Calculating
-co-occurrences for Cocaine <code>summarise()</code> has grouped output
-by ‘YYYY’. You can override using the <code>.groups</code> argument.
-Calculating co-occurrences for Heroin <code>summarise()</code> has
-grouped output by ‘YYYY’. You can override using the
-<code>.groups</code> argument. Calculating co-occurrences for
-Prescription opioids <code>summarise()</code> has grouped output by
-‘YYYY’. You can override using the <code>.groups</code> argument.
-Calculating co-occurrences for Prescription benzodiazepines
-<code>summarise()</code> has grouped output by ‘YYYY’. You can override
-using the <code>.groups</code> argument. Calculating co-occurrences for
-Prescription stimulants <code>summarise()</code> has grouped output by
-‘YYYY’. You can override using the <code>.groups</code> argument.
-Calculating co-occurrences for Hallucinogens <code>summarise()</code>
-has grouped output by ‘YYYY’. You can override using the
-<code>.groups</code> argument. Calculating co-occurrences for Club drugs
-<code>summarise()</code> has grouped output by ‘YYYY’. You can override
-using the <code>.groups</code> argument. Calculating fentanyl sample
-sizes Joining with <code>by = join_by(YYYY)</code>
-<code>summarise()</code> has grouped output by ‘YYYY’. You can override
-using the <code>.groups</code> argument. <code>summarise()</code> has
-grouped output by ‘YYYY’. You can override using the
-<code>.groups</code> argument. Joining with
-<code>by = join_by(YYYY, State)</code> Calculating co-occurrences for
-Methamphetamine Calculating co-occurrences for Cannabinoids Calculating
-co-occurrences for Cocaine Calculating co-occurrences for Heroin
-Calculating co-occurrences for Prescription opioids Calculating
-co-occurrences for Prescription benzodiazepines Calculating
-co-occurrences for Prescription stimulants Calculating co-occurrences
-for Hallucinogens Calculating co-occurrences for Club drugs</p>
-<p>Rolling average vs. annual total check: [1] TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-TRUE [35] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE [69] TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
-<code>summarise()</code> has grouped output by ‘State’. You can override
-using the <code>.groups</code> argument. <code>summarise()</code> has
-grouped output by ‘State’. You can override using the
-<code>.groups</code> argument.</p>
-<pre><code>
-
-
-&lt;!-- rnb-output-end --&gt;
-
-&lt;!-- rnb-chunk-end --&gt;
-
-
-&lt;!-- rnb-text-begin --&gt;
-
-
-
-&lt;!-- rnb-text-end --&gt;
-
-
-&lt;!-- rnb-chunk-begin --&gt;
-
-
-&lt;!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYGBgclxuc291cmNlKFxcLi9hdXhpbGlhcnkvcGxvdF90cmVuZHNfcG9saXNoZWQuUlxcKVxuYGBgXG5gYGAifQ== --&gt;
-
-```r
-```r
-source(\./auxiliary/plot_trends_polished.R\)</code></pre>
-<pre><code>
-&lt;!-- rnb-source-end --&gt;
-
-&lt;!-- rnb-output-begin eyJkYXRhIjoiV2FybmluZzogUmVtb3ZlZCAyMiByb3dzIGNvbnRhaW5pbmcgbWlzc2luZyB2YWx1ZXMgb3IgdmFsdWVzIG91dHNpZGUgdGhlIHNjYWxlIHJhbmdlIChgZ2VvbV9saW5lKClgKS5cbldhcm5pbmc6IFJlbW92ZWQgMzMgcm93cyBjb250YWluaW5nIG1pc3NpbmcgdmFsdWVzIG9yIHZhbHVlcyBvdXRzaWRlIHRoZSBzY2FsZSByYW5nZSAoYGdlb21fbGluZSgpYCkuXG5XYXJuaW5nOiBSZW1vdmVkIDQ0IHJvd3MgY29udGFpbmluZyBtaXNzaW5nIHZhbHVlcyBvciB2YWx1ZXMgb3V0c2lkZSB0aGUgc2NhbGUgcmFuZ2UgKGBnZW9tX2xpbmUoKWApLlxuU29tZSB2YWx1ZXMgaW4gdGhlIHNwZWNpZmllZCBmYWNldF9nZW8gY29sdW1uICdTdGF0ZScgZG8gbm90IG1hdGNoIHRoZSAnY29kZScgY29sdW1uIG9mIHRoZSBzcGVjaWZpZWQgZ3JpZCBhbmQgd2lsbCBiZSByZW1vdmVkOiAwLlVTXG4ifQ== --&gt;
-</code></pre>
-<p>Warning: Removed 22 rows containing missing values or values outside
-the scale range (<code>geom_line()</code>). Warning: Removed 33 rows
-containing missing values or values outside the scale range
-(<code>geom_line()</code>). Warning: Removed 44 rows containing missing
-values or values outside the scale range (<code>geom_line()</code>).
-Some values in the specified facet_geo column ‘State’ do not match the
-‘code’ column of the specified grid and will be removed: 0.US ```</p>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc291cmNlKFwiLi9hdXhpbGlhcnkvcGxvdF90cmVuZHNfcG9saXNoZWQuUlwiKVxuYGBgIn0= -->
+<pre class="r"><code>source(&quot;./auxiliary/plot_trends_polished.R&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiV2FybmluZzogVGhlIGBsZWdlbmQudGl0bGUuYWxpZ25gIGFyZ3VtZW50IG9mIGB0aGVtZSgpYCBpcyBkZXByZWNhdGVkIGFzIG9mIGdncGxvdDIgMy41LjAuXG7ihLkgUGxlYXNlIHVzZSB0aGVtZShsZWdlbmQudGl0bGUgPSBlbGVtZW50X3RleHQoaGp1c3QpKSBpbnN0ZWFkLlxuVGhpcyB3YXJuaW5nIGlzIGRpc3BsYXllZCBvbmNlIGV2ZXJ5IDggaG91cnMuXG5DYWxsIGBsaWZlY3ljbGU6Omxhc3RfbGlmZWN5Y2xlX3dhcm5pbmdzKClgIHRvIHNlZSB3aGVyZSB0aGlzIHdhcm5pbmcgd2FzIGdlbmVyYXRlZC5cbldhcm5pbmc6IEEgbnVtZXJpYyBgbGVnZW5kLnBvc2l0aW9uYCBhcmd1bWVudCBpbiBgdGhlbWUoKWAgd2FzIGRlcHJlY2F0ZWQgaW4gZ2dwbG90MiAzLjUuMC5cbuKEuSBQbGVhc2UgdXNlIHRoZSBgbGVnZW5kLnBvc2l0aW9uLmluc2lkZWAgYXJndW1lbnQgb2YgYHRoZW1lKClgIGluc3RlYWQuXG5UaGlzIHdhcm5pbmcgaXMgZGlzcGxheWVkIG9uY2UgZXZlcnkgOCBob3Vycy5cbkNhbGwgYGxpZmVjeWNsZTo6bGFzdF9saWZlY3ljbGVfd2FybmluZ3MoKWAgdG8gc2VlIHdoZXJlIHRoaXMgd2FybmluZyB3YXMgZ2VuZXJhdGVkLlxuV2FybmluZzogUmVtb3ZlZCAyMiByb3dzIGNvbnRhaW5pbmcgbWlzc2luZyB2YWx1ZXMgb3IgdmFsdWVzIG91dHNpZGUgdGhlIHNjYWxlIHJhbmdlIChgZ2VvbV9saW5lKClgKS5cbldhcm5pbmc6IFJlbW92ZWQgMzMgcm93cyBjb250YWluaW5nIG1pc3NpbmcgdmFsdWVzIG9yIHZhbHVlcyBvdXRzaWRlIHRoZSBzY2FsZSByYW5nZSAoYGdlb21fbGluZSgpYCkuXG5XYXJuaW5nOiBSZW1vdmVkIDQ0IHJvd3MgY29udGFpbmluZyBtaXNzaW5nIHZhbHVlcyBvciB2YWx1ZXMgb3V0c2lkZSB0aGUgc2NhbGUgcmFuZ2UgKGBnZW9tX2xpbmUoKWApLlxuU29tZSB2YWx1ZXMgaW4gdGhlIHNwZWNpZmllZCBmYWNldF9nZW8gY29sdW1uICdTdGF0ZScgZG8gbm90IG1hdGNoIHRoZSAnY29kZScgY29sdW1uIG9mIHRoZSBzcGVjaWZpZWQgZ3JpZCBhbmQgd2lsbCBiZSByZW1vdmVkOiAwLlVTXG4ifQ== -->
+<pre><code>Warning: The `legend.title.align` argument of `theme()` is deprecated as of ggplot2 3.5.0.
+ℹ Please use theme(legend.title = element_text(hjust)) instead.
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated.
+Warning: A numeric `legend.position` argument in `theme()` was deprecated in ggplot2 3.5.0.
+ℹ Please use the `legend.position.inside` argument of `theme()` instead.
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated.
+Warning: Removed 22 rows containing missing values or values outside the scale range (`geom_line()`).
+Warning: Removed 33 rows containing missing values or values outside the scale range (`geom_line()`).
+Warning: Removed 44 rows containing missing values or values outside the scale range (`geom_line()`).
+Some values in the specified facet_geo column &#39;State&#39; do not match the &#39;code&#39; column of the specified grid and will be removed: 0.US</code></pre>
 <!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 
-<div id="rmd-source-code">LS0tDQp0aXRsZTogIkZlbnRhbnlsIGluIHRoZSBkcnVnIHN1cHBseSINCm91dHB1dDogaHRtbF9ub3RlYm9vaw0KLS0tDQoNCmBgYHtyIHNldHVwLCBpbmNsdWRlPUZBTFNFfQ0KbGlicmFyeSh0aWR5dmVyc2UpDQpsaWJyYXJ5KGx1YnJpZGF0ZSkNCmxpYnJhcnkocGF0Y2h3b3JrKQ0KbGlicmFyeShnZW9mYWNldCkNCmxpYnJhcnkocmVhZHhsKQ0KbGlicmFyeShnZ3B1YnIpDQpsaWJyYXJ5KHN2Z2xpdGUpDQpsaWJyYXJ5KHpvbykNCmxpYnJhcnkoZ3JpZCkNCmBgYA0KDQpgYGB7ciBzcGVjaWZ5IHNoYXJlZCBzZXR0aW5ncywgbG9hZCBmdW5jdGlvbnMgYW5kIGRhdGF9DQojIyBEZWZpbmUgc2hhcmVkIHNldHRpbmdzDQpkYXRfZm9sZGVyIDwtICJDOi9EYXRhL05GTElTL1JhdyINCmRhdF95ZWFycyA8LSAyMDEzOjIwMjMNCnVwZGF0ZV9yYXdfZGF0YSA8LSBUUlVFICAjIE9ubHkgbmVlZGVkIGlmIHJhdyBkYXRhIGZpbGVzIGhhdmUgY2hhbmdlZA0KdXBkYXRlX2NsZWFuX2RhdGEgPC0gVFJVRSAgIyBPbmx5IG5lZWRlZCBpZiBjYXRlZ29yaWVzIG9yIHNhbXBsZSByZXN0cmljdGlvbnMgaGF2ZSBjaGFuZ2VkDQp1cGRhdGVfYW5hbHlzaXMgPC0gVFJVRSAgIyBOZWVkIGRhdGEgZm9sZGVyIGFjY2VzcyB0byB1cGRhdGUgYW5hbHlzaXMsIG90aGVyd2lzZSBzZXQgdG8gYEZBTFNFYA0KZHJ1Z2xpc3QgPC0gYygiTWV0aGFtcGhldGFtaW5lIiwgIkNhbm5hYmlub2lkcyIsICJDb2NhaW5lIiwgIkhlcm9pbiIsICJQcmVzY3JpcHRpb24gb3Bpb2lkcyIsDQogICAgICAgICAgICAgICJQcmVzY3JpcHRpb24gYmVuem9kaWF6ZXBpbmVzIiwgIlByZXNjcmlwdGlvbiBzdGltdWxhbnRzIiwgIkhhbGx1Y2lub2dlbnMiLCAiQ2x1YiBkcnVncyIpDQpmaWdfZXh0IDwtICJzdmciDQpkYXRlc3RyaW5nIDwtIGZvcm1hdChTeXMudGltZSgpLCAiJVklbSVkIikNCg0KIyMgQ2xlYW4gYW5kIGxvYWQgZGF0YQ0Kc291cmNlKCIuL2F1eGlsaWFyeS9ORkxJU19kYXRhX2NsZWFuaW5nLlIiKQ0KYGBgDQoNCmBgYHtyIGNhbGN1bGF0ZSB5ZWFybHkgYW5kIG1vbnRobHkgdHJlbmRzfQ0Kc291cmNlKCIuL2F1eGlsaWFyeS9jYWxjdWxhdGVfdHJlbmRzLlIiKQ0KYGBgDQoNCmBgYHtyIHBsb3QgZmlndXJlcyAmIHRhYnVsYXRlIHJhbmtpbmdzfQ0Kc291cmNlKCIuL2F1eGlsaWFyeS9wbG90X3RyZW5kc19wb2xpc2hlZC5SIikNCmBgYA0KDQoNCg0K</div>
+<div id="rmd-source-code">LS0tDQp0aXRsZTogIkZlbnRhbnlsIGluIHRoZSBkcnVnIHN1cHBseSINCm91dHB1dDogaHRtbF9ub3RlYm9vaw0KLS0tDQoNCmBgYHtyIHNldHVwLCBpbmNsdWRlPUZBTFNFfQ0KbGlicmFyeSh0aWR5dmVyc2UpDQpsaWJyYXJ5KGx1YnJpZGF0ZSkNCmxpYnJhcnkocGF0Y2h3b3JrKQ0KbGlicmFyeShnZW9mYWNldCkNCmxpYnJhcnkocmVhZHhsKQ0KbGlicmFyeShnZ3B1YnIpDQpsaWJyYXJ5KHN2Z2xpdGUpDQpsaWJyYXJ5KHpvbykNCmxpYnJhcnkoZ3JpZCkNCmBgYA0KDQpgYGB7ciBzcGVjaWZ5IHNoYXJlZCBzZXR0aW5ncywgbG9hZCBmdW5jdGlvbnMgYW5kIGRhdGF9DQojIyBEZWZpbmUgc2hhcmVkIHNldHRpbmdzDQpkYXRfZm9sZGVyIDwtICJDOi9EYXRhL05GTElTL1JhdyINCmRhdF95ZWFycyA8LSAyMDEzOjIwMjMNCnVwZGF0ZV9yYXdfZGF0YSA8LSBGQUxTRSAgIyBPbmx5IG5lZWRlZCBpZiByYXcgZGF0YSBmaWxlcyBoYXZlIGNoYW5nZWQNCnVwZGF0ZV9jbGVhbl9kYXRhIDwtIEZBTFNFICAjIE9ubHkgbmVlZGVkIGlmIGNhdGVnb3JpZXMgb3Igc2FtcGxlIHJlc3RyaWN0aW9ucyBoYXZlIGNoYW5nZWQNCnVwZGF0ZV9hbmFseXNpcyA8LSBUUlVFICAjIE5lZWQgZGF0YSBmb2xkZXIgYWNjZXNzIHRvIHVwZGF0ZSBhbmFseXNpcywgb3RoZXJ3aXNlIHNldCB0byBgRkFMU0VgDQpkcnVnbGlzdCA8LSBjKCJNZXRoYW1waGV0YW1pbmUiLCAiQ2FubmFiaW5vaWRzIiwgIkNvY2FpbmUiLCAiSGVyb2luIiwgIlByZXNjcmlwdGlvbiBvcGlvaWRzIiwNCiAgICAgICAgICAgICAgIlByZXNjcmlwdGlvbiBiZW56b2RpYXplcGluZXMiLCAiUHJlc2NyaXB0aW9uIHN0aW11bGFudHMiLCAiSGFsbHVjaW5vZ2VucyIsICJDbHViIGRydWdzIikNCmZpZ19leHQgPC0gInN2ZyINCmRhdGVzdHJpbmcgPC0gZm9ybWF0KFN5cy50aW1lKCksICIlWSVtJWQiKQ0KDQojIyBDbGVhbiBhbmQgbG9hZCBkYXRhDQpzb3VyY2UoIi4vYXV4aWxpYXJ5L05GTElTX2RhdGFfY2xlYW5pbmcuUiIpDQpgYGANCmBgYHtyIGNhbGN1bGF0ZSB5ZWFybHkgYW5kIG1vbnRobHkgdHJlbmRzfQ0Kc291cmNlKCIuL2F1eGlsaWFyeS9jYWxjdWxhdGVfdHJlbmRzLlIiKQ0KDQojIEdlbmVyYXRlIGRlc2NyaXB0aXZlIHN0YXRpc3RpY3MgYW5kIHNhbXBsZSByZXN0cmljdGlvbnMgZmlndXJlDQpzb3VyY2UoIi4vYXV4aWxpYXJ5L2Rlc2NyaXB0aXZlX3N0YXRpc3RpY3MuUiIpDQpgYGANCg0KYGBge3IgcGxvdCBmaWd1cmVzICYgdGFidWxhdGUgcmFua2luZ3N9DQpzb3VyY2UoIi4vYXV4aWxpYXJ5L3Bsb3RfdHJlbmRzX3BvbGlzaGVkLlIiKQ0KYGBgDQoNCg0KDQo=</div>
 
 
 
