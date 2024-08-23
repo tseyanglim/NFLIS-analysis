@@ -195,11 +195,12 @@ fent_bar_percs <- fent_samples_long %>%
   mutate(P100 = Total / sum(Total) * 100) %>% 
   pull(P100)
 
-fent_bar_labels <- c(str_glue("Substances examined, w/o fentanyl ({round(fent_bar_percs[5], digits=1)}%)"), 
-                     str_glue("Co-occurring fentanyl & \n substances examined ({round(fent_bar_percs[4], digits=1)}%)"), 
-                     str_glue("Fentanyl only ({format(round(fent_bar_percs[3], digits=1),nsmall=1)}%)"), 
-                     str_glue("Co-occurring fentanyl & \n substances not examined ({round(fent_bar_percs[2], digits=1)}%)"), 
-                     str_glue("Neither fentanyl nor \n substances examined ({round(fent_bar_percs[1], digits=1)}%)"))
+fent_bar_labels <- c(str_glue("Substances examined, w/o fentanyl ({round(fent_bar_percs[5], digits=1)}%)"),
+                     str_glue("Co-occurring fentanyl & substances examined ({round(fent_bar_percs[4], digits=1)}%)"),
+                     str_glue("Fentanyl only ({format(round(fent_bar_percs[3], digits=1),nsmall=1)}%)"),
+                     str_glue("Co-occurring fentanyl & substances not examined ({round(fent_bar_percs[2], digits=1)}%)"),
+                     str_glue("Neither fentanyl nor substances examined ({round(fent_bar_percs[1], digits=1)}%)"))
+
 
 # Create a named vector for the State labels
 state_labels <- setNames(fent_samples_long2$State_name, fent_samples_long2$State)
@@ -219,35 +220,34 @@ p_fent_samples <- ggplot(fent_samples_long2) +
   scale_y_continuous(sec.axis = sec_axis(~. / 4000),labels = scales::comma_format()) +
   coord_cartesian(ylim=c(0,200000)) +
   facet_geo(~ State, labeller = as_labeller(state_labels)) +
+  theme_bw() +
   theme(
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor.x = element_blank(),
     axis.text.x = element_blank(),
-    axis.text.y = element_text(size=12),
     axis.line.y = element_line(colour = "black"),
     axis.ticks.x = element_blank(),
     axis.title = element_text(size=15, face="bold"),
-    legend.margin = margin(t = 0, r = 0, b = 0, l = 0),
-    plot.title = element_text(size = 15, face="bold"),
     strip.text.x = element_text(size = 10),
-    legend.text = element_text(size = 8),
-    legend.title = element_text(size = 8),
-    legend.justification = c(1, 0),  # Adjusts the justification of legends
-    legend.position = c(0.99, 0.1),  # Adjusts the position of legends
   ) +
   scale_color_manual(values = c("% of all samples w/ any fentanyl"="blue", "% of substances examined \nw/ co-occurring fent."="black"),
-                     guide = guide_legend(title = "")) +
-  scale_fill_manual(values = c('lightgray','green','red','purple','lightblue'), guide = guide_legend(title = "Samples"),
+                     guide = guide_legend(title = "", position = "bottom", nrow=2, 
+                                          theme = theme(legend.text=element_text(size=11)))) +
+  scale_fill_manual(values = c('lightgray','green','red','purple','lightblue'), 
+                    guide = guide_legend(title = "Samples", position = "bottom", direction = "vertical", ncol=3, 
+                                         theme = theme(legend.title=element_text(size=12, face="bold"), legend.text=element_text(size=11))),
                     labels = c(fent_bar_labels[5], fent_bar_labels[4], fent_bar_labels[3], fent_bar_labels[2], fent_bar_labels[1])) +
   xlab("Year, 2013-2023") + 
   ylab("Samples reported")
-
+p_fent_samples
 
 ggsave(file=str_glue("./figures/Fig2_{datestring}.{fig_ext}"),
-       plot=p_fent_samples, width = 16, height = 10)
+       plot=p_fent_samples, width = 16, height = 11)
 
 
 
 # Save data for Figure 2
-data2 <- fent_samples_long2 %>%
+data2 <- fent_samples_long2 %>% 
   select(State, Time, P100_fent, P100_fent_all, name, value) %>% 
   pivot_wider(names_from=name, values_from=value) %>% 
   select(State, Time, Listed_only:Other_only, P100_fent, P100_fent_all) %>% 
@@ -309,8 +309,10 @@ map.year.heroin.bars <-
   scale_fill_manual(name = "", values = c('#006ddb'))+
   xlab("Year, 2013-2023") + 
   ggtitle("(A) Heroin")+
+  theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
-        panel.grid.major = element_blank(), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
         axis.title = element_text(size=15, face="bold"),
         axis.title.x = element_text(vjust=-2),
         axis.title.y = element_text(vjust=4),
@@ -356,8 +358,10 @@ map.year.stims.bars <-
   scale_colour_manual(name = "", values = c("#984ea3","#004949"))+
   xlab("Year, 2013-2023") + 
   ggtitle("(B)")+
+  theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
-        panel.grid.major = element_blank(), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
         axis.title = element_text(size=15, face="bold"),
         axis.title.x = element_text(vjust=-2),
         axis.title.y = element_text(vjust=4),
@@ -407,8 +411,10 @@ map.year.club.bars <-
   scale_colour_manual(name = "", values = c('#009e73'))+
   xlab("Year, 2013-2023") + 
   ggtitle("(A)")+
+  theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
-        panel.grid.major = element_blank(), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
         axis.title = element_text(size=15, face="bold"),
         axis.title.x = element_text(vjust=-2),
         axis.title.y = element_text(vjust=4),
@@ -450,8 +456,10 @@ map.year.cannab.bars <-
   scale_colour_manual(name = "", values = c('#fa8072'))+
   xlab("Year, 2013-2023") + 
   ggtitle("(B)")+
+  theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
-        panel.grid.major = element_blank(), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
         axis.title = element_text(size=15, face="bold"),
         axis.title.x = element_text(vjust=-2),
         axis.title.y = element_text(vjust=4),
@@ -503,8 +511,10 @@ map.year.pbps.bars <-
   scale_colour_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"), labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
   xlab("Year, 2013-2023") + 
   ggtitle("(C)")+
+  theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
-        panel.grid.major = element_blank(), 
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
         axis.title = element_text(size=15, face="bold"),
         axis.title.x = element_text(vjust=-2),
         axis.title.y = element_text(vjust=4),
