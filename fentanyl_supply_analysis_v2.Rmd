@@ -21,7 +21,7 @@ dat_folder <- "C:/Data/NFLIS/Raw"
 dat_years <- 2013:2023
 update_raw_data <- FALSE  # Only needed if raw data files have changed
 update_clean_data <- FALSE  # Only needed if categories or sample restrictions have changed
-update_analysis <- TRUE  # Need data folder access to update analysis, otherwise set to `FALSE`
+update_analysis <- FALSE  # Need data folder access to update analysis, otherwise set to `FALSE`
 druglist <- c("Methamphetamine", "Cannabinoids", "Cocaine", "Heroin", "Prescription opioids",
               "Prescription benzodiazepines", "Prescription stimulants", "Hallucinogens", "Club drugs")
 fig_ext <- "svg"
