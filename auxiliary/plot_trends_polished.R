@@ -3,6 +3,7 @@
 ################################################################################
 library(geofacet)
 library(grid)
+library(formattable)
 
 # Read in the state label file for plotting 
 state_label <- read_csv("./data-public/State labels.csv", show_col_types = FALSE)
@@ -22,6 +23,8 @@ alldrugs_month_v2 <- alldrugs_month %>%
 
 years <- seq(as.Date("2013-01-01"), as.Date("2023-01-01"), by = "1 year")
 
+total_samples <- alldrugs_year %>% filter(State == "0.US") %>% group_by(Drug.sample) %>% summarise(count=sum(Total)) %>% deframe()
+
 ### Panel A
 ### Heroin and Club drugs
 data.A <- alldrugs_month_v2[alldrugs_month_v2$Drug.sample %in% c("Heroin","Club drugs"),]
@@ -36,32 +39,33 @@ Figure1.panelA <-
   ggplot(data = data.A, aes(x= Time, group = Drug.sample, color = Drug.sample))+
   scale_colour_manual(name = "", values = colorlist[c(1,2)],
                       breaks = c("Heroin", "Club drugs"),
-                      labels = c("Heroin (1,325,203)","Club drugs (97,025)")) +
+                      labels = c(str_glue("Heroin ({comma(total_samples[['Heroin']], format='d')})"),
+                                 str_glue("Club drugs ({comma(total_samples[['Club drugs']], format='d')})\ne.g., ketamine, MDMA"))) +
   scale_x_date(name='',breaks=years, date_labels="%Y",
                limits=c(as.Date("2013-01-01"), as.Date("2023-12-31"))) +
   scale_y_continuous(name='', limits=c(0, 52), breaks=seq(0,52,5)) +
   geom_point(size=1, aes(y=P100_fent), alpha=0.3) +
   geom_line(linewidth=0.8, aes(y=P100_fent),alpha=0.3) +
   geom_line(linewidth=2, aes(y=P100_fent_roll12mon.V2)) +
-  ggtitle("(A)")+
-  guides(color = guide_legend(title = "Substance (total samples)", 
+  ggtitle("(a)")+
+  guides(color = guide_legend(title = "Substance (total samples)",
                               override.aes = list(alpha = c(1, 1)))) +
-  theme(plot.margin = margin(1,15,1,1, "cm"),
+  theme(plot.margin = margin(1,13,1,1, "cm"),
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         panel.background = element_blank(), 
-        axis.title = element_text(size=26, face="bold"),
+        axis.title = element_text(size=20, face="bold"),
         axis.title.x = element_text(vjust=-2),
-        axis.text.y = element_text(size=24),
-        axis.text.x = element_text(size = 24, hjust = -0.4),
+        axis.text.y = element_text(size=18),
+        axis.text.x = element_text(size = 18, hjust = -0.4),
         axis.line = element_line(colour = "black"),
-        legend.text = element_text(size=24),
-        legend.title = element_text(size=24),
-        plot.title = element_text(size = 24, face="bold"),
+        legend.text = element_text(size=18),
+        legend.title = element_text(size=22, face="bold"),
+        plot.title = element_text(size = 18, face="bold"),
         legend.key.width = unit(2,"cm"),
         legend.key.height = unit(1.2,"cm"),
         legend.key=element_blank(),
-        legend.title.align=0.5,
+        # legend.title.align=0.5,
         legend.position = c(1.22, 0.5))
 
 ### Panel B
@@ -75,34 +79,33 @@ sum(data.B$Total[data.B$Drug.sample == "Cocaine"]) # 2,012,480
 sum(data.B$Total[data.B$Drug.sample == "Methamphetamine"]) # 3,850,672
 sum(data.B$Total[data.B$Drug.sample == "Prescription opioids"]) # 795,166
 
-
-
 Figure1.panelB <- 
   ggplot(data = data.B, 
          aes(x= Time, group = Drug.sample, color = Drug.sample))+
   scale_colour_manual(name = "", values = colorlist[c(3, 5, 6)],
                       breaks = c("Cocaine", "Methamphetamine", "Prescription opioids"),
-                      labels = c("Cocaine (2,012,480)", "Methamphetamine (3,850,672)",
-                                 "Prescription opioids (795,166)"))+
+                      labels = c(str_glue("Cocaine ({comma(total_samples[['Cocaine']], format='d')})"), 
+                                 str_glue("Methamphetamine ({comma(total_samples[['Methamphetamine']], format='d')})"), 
+                                 str_glue("Prescription opioids ({comma(total_samples[['Prescription opioids']], format='d')})")))+
   scale_x_date( name='',breaks=years, date_labels="%Y") +
   scale_y_continuous( name='',limits=c(0,4.1), breaks=seq(0,4.1,0.5)) +
   geom_point(size=1, aes(y=P100_fent), alpha=0.3) +
   geom_line(linewidth=0.8, aes(y=P100_fent), alpha=0.3) +
   geom_line(linewidth=2, aes(y=P100_fent_roll12mon.V2))+
-  ggtitle("(B)")+
-  theme(plot.margin = margin(1,15,1,1, "cm"),
+  ggtitle("(b)")+
+  theme(plot.margin = margin(1,13,1,1, "cm"),
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         panel.background = element_blank(), 
-        axis.title = element_text(size=26, face="bold"),
+        axis.title = element_text(size=20, face="bold"),
         axis.title.x = element_text(vjust=-2),
-        axis.text.y = element_text(size=24),
-        axis.text.x = element_text(size = 24, hjust = -0.4),
+        axis.text.y = element_text(size=18),
+        axis.text.x = element_text(size = 18, hjust = -0.4),
         axis.line = element_line(colour = "black"),
-        legend.text = element_text(size=24),
-        legend.title = element_text(size=24),
+        legend.text = element_text(size=18),
+        legend.title = element_text(size=18),
         legend.title.align=0.5,
-        plot.title = element_text(size = 24, face="bold"),
+        plot.title = element_text(size = 18, face="bold"),
         legend.key.width = unit(2,"cm"),
         legend.key.height = unit(1.2,"cm"),
         legend.key=element_blank(),
@@ -120,36 +123,36 @@ sum(data.C$Total[data.C$Drug.sample == "Cannabinoids"]) # 3,177,205
 sum(data.C$Total[data.C$Drug.sample == "Prescription benzodiazepines"]) # 482,977
 sum(data.C$Total[data.C$Drug.sample == "Prescription stimulants"]) # 142,107
 
-
-
 Figure1.panelC <- 
   ggplot(data = data.C, 
          aes(x= Time, group = Drug.sample, color = Drug.sample))+
   scale_colour_manual(name = "", values = colorlist[c(4,7:9)],
                       breaks = c("Hallucinogens", "Cannabinoids", "Prescription benzodiazepines", "Prescription stimulants"),
-                      labels = c("Hallucinogens (144,235)","Cannabinoids (3,177,205)","Prescription\nbenzodiazepines (482,977)",
-                                 "Prescription\nstimulants (142,107)"))+
+                      labels = c(str_glue("Hallucinogens ({comma(total_samples[['Hallucinogens']], format='d')})"),
+                                 str_glue("Cannabinoids ({comma(total_samples[['Cannabinoids']], format='d')})"),
+                                 str_glue("Prescription\nbenzodiazepines ({comma(total_samples[['Prescription benzodiazepines']], format='d')})"),
+                                 str_glue("Prescription\nstimulants ({comma(total_samples[['Prescription stimulants']], format='d')})"))) +
   scale_x_date(name='',breaks=years, date_labels="%Y") +
   scale_y_continuous( name='',limits=c(0,1.3), breaks=seq(0,1.3,0.2)) +
   geom_point(size=1, aes(y=P100_fent), alpha=0.3) +
   geom_line(linewidth=0.8, aes(y=P100_fent), alpha=0.3) +
   geom_line(linewidth=2, aes(y=P100_fent_roll12mon.V2))+
-  ggtitle("(C)")+
-  theme(plot.margin = margin(1,15,1,1, "cm"),
+  ggtitle("(c)") +
+  theme(plot.margin = margin(1,13,1,1, "cm"),
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         panel.background = element_blank(), 
-        axis.title = element_text(size=26, face="bold"),
+        axis.title = element_text(size=20, face="bold"),
         axis.title.x = element_text(vjust=-2),
-        axis.text.y = element_text(size=24),
-        axis.text.x = element_text(size = 24, hjust = -0.4),
+        axis.text.y = element_text(size=18),
+        axis.text.x = element_text(size = 18, hjust = -0.4),
         axis.line = element_line(colour = "black"),
-        legend.text = element_text(size=24),
-        legend.title = element_text(size=24),
+        legend.text = element_text(size=18),
+        legend.title = element_text(size=18),
         legend.title.align=0.5,
-        plot.title = element_text(size = 24, face="bold"),
+        plot.title = element_text(size = 18, face="bold"),
         legend.key.width = unit(2,"cm"),
-        legend.key.height = unit(2,"cm"),
+        legend.key.height = unit(1.2,"cm"),
         legend.key=element_blank(),
         legend.position = c(1.22, 0.5))
 
@@ -157,10 +160,11 @@ Figure1.panelC <-
 plotcombine <- ggarrange(Figure1.panelA, Figure1.panelB,Figure1.panelC, ncol = 1, nrow = 3)
 plotcombine <- annotate_figure(plotcombine,
                                left = text_grob("% of samples of different substances with co-occurrence of fentanyl", 
-                                                size=26, rot=90, face="bold",vjust=2.5))
-
+                                                size=20, rot=90, face="bold",vjust=2.5), 
+                               bottom = text_grob("Year", size=20, face="bold",vjust=-2))
+plotcombine
 ggsave(file=str_glue("./figures/Fig1_{datestring}.{fig_ext}"),
-       plot=plotcombine, width = 20, height = 20)
+       plot=plotcombine, width = 15, height = 15)
 
 
 # Save data for Figure 1
@@ -226,23 +230,24 @@ p_fent_samples <- ggplot(fent_samples_long2) +
     panel.grid.minor.x = element_blank(),
     axis.text.x = element_blank(),
     axis.line.y = element_line(colour = "black"),
-    axis.ticks.x = element_blank(),
+    # axis.ticks.x = element_blank(),
     axis.title = element_text(size=15, face="bold"),
-    strip.text.x = element_text(size = 10),
+    strip.text.x = element_text(size = 12),
   ) +
   scale_color_manual(values = c("% of all samples w/ any fentanyl"="blue", "% of substances examined \nw/ co-occurring fent."="black"),
                      guide = guide_legend(title = "", position = "bottom", nrow=2, 
-                                          theme = theme(legend.text=element_text(size=11)))) +
+                                          theme = theme(legend.text=element_text(size=12)))) +
   scale_fill_manual(values = c('lightgray','green','red','purple','lightblue'), 
-                    guide = guide_legend(title = "Samples", position = "bottom", direction = "vertical", ncol=3, 
-                                         theme = theme(legend.title=element_text(size=12, face="bold"), legend.text=element_text(size=11))),
+                    guide = guide_legend(title = "Samples", position = "bottom", direction = "horizontal", nrow=3, 
+                                         theme = theme(legend.title=element_text(size=14, face="bold"), legend.text=element_text(size=12))),
                     labels = c(fent_bar_labels[5], fent_bar_labels[4], fent_bar_labels[3], fent_bar_labels[2], fent_bar_labels[1])) +
-  xlab("Year, 2013-2023") + 
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
+  xlab("Year") + 
   ylab("Samples reported")
 p_fent_samples
 
 ggsave(file=str_glue("./figures/Fig2_{datestring}.{fig_ext}"),
-       plot=p_fent_samples, width = 16, height = 11)
+       plot=p_fent_samples, width = 16, height = 11, dpi=400)
 
 
 
@@ -301,14 +306,14 @@ dat.heroin <- anti_join(dat.heroin0, check.lowcount.heroin,
 map.year.heroin.bars <- 
   ggplot(data=dat.heroin) +
   facet_geo(~ State, labeller = as_labeller(state_labels))+
-  geom_col(aes(x=Time, y=Total, fill="#006ddb"), alpha=0.4) +
-  geom_point(aes(x = Time, y = P100_fent * 250), size=1.5,color="#006ddb") +
-  geom_line(aes(x = Time, y = P100_fent * 250), linewidth=1,color="#006ddb") +
+  geom_col(aes(x=Time, y=Total, fill=Drug.sample), alpha=0.4) +
+  geom_point(aes(x = Time, y = P100_fent * 250, color=Drug.sample), size=1.5) +
+  geom_line(aes(x = Time, y = P100_fent * 250, color=Drug.sample), linewidth=1) +
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 250, name="% fentanyl co-occurrence")) +
   scale_colour_manual(name = "", values = "#006ddb")+
-  scale_fill_manual(name = "", values = c('#006ddb'))+
-  xlab("Year, 2013-2023") + 
-  ggtitle("(A) Heroin")+
+  scale_fill_manual(name = "", values = "#006ddb")+
+  xlab("Year") + 
+  ggtitle("(a)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -321,10 +326,10 @@ map.year.heroin.bars <-
         axis.text.y = element_text(size=12),
         axis.line.x = element_blank(),
         axis.line.y = element_line(colour = "black"),
-        axis.ticks.x = element_blank(),
-        strip.text.x = element_text(size = 10),
+        # axis.ticks.x = element_blank(),
+        strip.text.x = element_text(size = 12),
         plot.title = element_text(size = 15, face="bold"),
-        legend.position="",
+        legend.position="top",
         legend.justification='left',
         legend.text = element_text(size=15),
         legend.title = element_text(size=15),
@@ -332,7 +337,7 @@ map.year.heroin.bars <-
         legend.key=element_blank())
 
 ggsave(file=str_glue("./figures/Fig3A_heroin_{datestring}.{fig_ext}"),
-       plot=map.year.heroin.bars,width = 16, height = 10)
+       plot=map.year.heroin.bars,width = 16, height = 10, dpi=400)
 
 
 ##### Figures combining cocaine and meth  #####
@@ -356,8 +361,8 @@ map.year.stims.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 3280, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c("#984ea3","#004949"))+
   scale_colour_manual(name = "", values = c("#984ea3","#004949"))+
-  xlab("Year, 2013-2023") + 
-  ggtitle("(B)")+
+  xlab("Year") + 
+  ggtitle("(b)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -370,8 +375,8 @@ map.year.stims.bars <-
         axis.text.y = element_text(size=12),
         axis.line.x = element_blank(),
         axis.line.y = element_line(colour = "black"),
-        axis.ticks.x = element_blank(),
-        strip.text.x = element_text(size = 10),
+        # axis.ticks.x = element_blank(),
+        strip.text.x = element_text(size = 12),
         plot.title = element_text(size = 15, face="bold"),
         legend.position="top",
         legend.justification='left',
@@ -381,7 +386,7 @@ map.year.stims.bars <-
         legend.key=element_blank())
 
 ggsave(file=str_glue("./figures/Fig3B_stims_{datestring}.{fig_ext}"),
-       plot=map.year.stims.bars, width = 16, height = 10)
+       plot=map.year.stims.bars, width = 16, height = 10, dpi=400)
 
 
 
@@ -409,8 +414,8 @@ map.year.club.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 40, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c('#009e73'))+
   scale_colour_manual(name = "", values = c('#009e73'))+
-  xlab("Year, 2013-2023") + 
-  ggtitle("(A)")+
+  xlab("Year") + 
+  ggtitle("(a)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -423,8 +428,8 @@ map.year.club.bars <-
         axis.text.y = element_text(size=12),
         axis.line.x = element_blank(),
         axis.line.y = element_line(colour = "black"),
-        axis.ticks.x = element_blank(),
-        strip.text.x = element_text(size = 10),
+        # axis.ticks.x = element_blank(),
+        strip.text.x = element_text(size = 12),
         plot.title = element_text(size = 15, face="bold"),
         legend.position="top",
         legend.justification='left',
@@ -434,7 +439,7 @@ map.year.club.bars <-
         legend.key=element_blank())
 
 ggsave(file=str_glue("./figures/FigS2A_club_{datestring}.{fig_ext}"),
-       plot=map.year.club.bars, width = 16, height = 10)
+       plot=map.year.club.bars, width = 16, height = 10, dpi=400)
 
 
 
@@ -454,8 +459,8 @@ map.year.cannab.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 12801, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c('#fa8072'))+
   scale_colour_manual(name = "", values = c('#fa8072'))+
-  xlab("Year, 2013-2023") + 
-  ggtitle("(B)")+
+  xlab("Year") + 
+  ggtitle("(b)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -468,8 +473,8 @@ map.year.cannab.bars <-
         axis.text.y = element_text(size=12),
         axis.line.x = element_blank(),
         axis.line.y = element_line(colour = "black"),
-        axis.ticks.x = element_blank(),
-        strip.text.x = element_text(size = 10),
+        # axis.ticks.x = element_blank(),
+        strip.text.x = element_text(size = 12),
         plot.title = element_text(size = 15, face="bold"),
         legend.position="top",
         legend.justification='left',
@@ -479,7 +484,7 @@ map.year.cannab.bars <-
         legend.key=element_blank())
 
 ggsave(file=str_glue("./figures/FigS2B_cannab_{datestring}.{fig_ext}"),
-       plot=map.year.cannab.bars, width = 16, height = 10)
+       plot=map.year.cannab.bars, width = 16, height = 10, dpi=400)
 
 
 
@@ -509,8 +514,8 @@ map.year.pbps.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 455, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"),labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
   scale_colour_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"), labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
-  xlab("Year, 2013-2023") + 
-  ggtitle("(C)")+
+  xlab("Year") + 
+  ggtitle("(c)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -523,8 +528,8 @@ map.year.pbps.bars <-
         axis.text.y = element_text(size=12),
         axis.line.x = element_blank(),
         axis.line.y = element_line(colour = "black"),
-        axis.ticks.x = element_blank(),
-        strip.text.x = element_text(size = 10),
+        # axis.ticks.x = element_blank(),
+        strip.text.x = element_text(size = 12),
         plot.title = element_text(size = 15, face="bold"),
         legend.position="top",
         legend.justification='left',
@@ -534,4 +539,4 @@ map.year.pbps.bars <-
         legend.key=element_blank())
 
 ggsave(file=str_glue("./figures/FigS2C_pbps_{datestring}.{fig_ext}"),
-       plot=map.year.pbps.bars, width = 16, height = 10)
+       plot=map.year.pbps.bars, width = 16, height = 10, dpi=400)
