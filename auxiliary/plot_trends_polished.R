@@ -233,7 +233,10 @@ p_fent_samples <- ggplot(fent_samples_long2) +
     # axis.ticks.x = element_blank(),
     axis.title = element_text(size=15, face="bold"),
     strip.text.x = element_text(size = 12),
+    plot.tag = element_text(size = 9, hjust=0.5, vjust=0.5), 
+    plot.tag.position = c(0.5157, 0.248)
   ) +
+  labs(tag = "2013       2018       2023") +
   scale_color_manual(values = c("% of all samples w/ any fentanyl"="blue", "% of substances examined \nw/ co-occurring fent."="black"),
                      guide = guide_legend(title = "", position = "bottom", nrow=2, 
                                           theme = theme(legend.text=element_text(size=12)))) +
@@ -312,6 +315,7 @@ map.year.heroin.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 250, name="% fentanyl co-occurrence")) +
   scale_colour_manual(name = "", values = "#006ddb")+
   scale_fill_manual(name = "", values = "#006ddb")+
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
   ggtitle("(a)")+
   theme_bw() +
@@ -334,7 +338,11 @@ map.year.heroin.bars <-
         legend.text = element_text(size=15),
         legend.title = element_text(size=15),
         legend.key.width = unit(2,"cm"),
-        legend.key=element_blank())
+        legend.key=element_blank(),
+        plot.tag = element_text(size = 9, hjust=0.5, vjust=0.5), 
+        plot.tag.position = c(0.5075, 0.146)
+  ) +
+  labs(tag = "2013      2018       2023")
 
 ggsave(file=str_glue("./figures/Fig3A_heroin_{datestring}.{fig_ext}"),
        plot=map.year.heroin.bars,width = 16, height = 10, dpi=400)
@@ -361,6 +369,7 @@ map.year.stims.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 3280, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c("#984ea3","#004949"))+
   scale_colour_manual(name = "", values = c("#984ea3","#004949"))+
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
   ggtitle("(b)")+
   theme_bw() +
@@ -383,7 +392,11 @@ map.year.stims.bars <-
         legend.text = element_text(size=15),
         legend.title = element_text(size=15),
         legend.key.width = unit(2,"cm"),
-        legend.key=element_blank())
+        legend.key=element_blank(),
+        plot.tag = element_text(size = 9, hjust=0.5, vjust=0.5), 
+        plot.tag.position = c(0.51, 0.146)
+  ) +
+  labs(tag = "2013      2018       2023")
 
 ggsave(file=str_glue("./figures/Fig3B_stims_{datestring}.{fig_ext}"),
        plot=map.year.stims.bars, width = 16, height = 10, dpi=400)
@@ -414,6 +427,7 @@ map.year.club.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 40, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c('#009e73'))+
   scale_colour_manual(name = "", values = c('#009e73'))+
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
   ggtitle("(a)")+
   theme_bw() +
@@ -459,6 +473,7 @@ map.year.cannab.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 12801, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c('#fa8072'))+
   scale_colour_manual(name = "", values = c('#fa8072'))+
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
   ggtitle("(b)")+
   theme_bw() +
@@ -514,6 +529,7 @@ map.year.pbps.bars <-
   scale_y_continuous(name="Total samples reported", labels = scales::comma_format(), sec.axis = sec_axis(~. / 455, name="% fentanyl co-occurrence")) +
   scale_fill_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"),labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
   scale_colour_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"), labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
+  scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
   ggtitle("(c)")+
   theme_bw() +
