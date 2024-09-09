@@ -428,7 +428,7 @@ map.year.club.bars <-
   scale_fill_manual(name = "", values = c('#009e73'))+
   scale_colour_manual(name = "", values = c('#009e73'))+
   scale_x_continuous(breaks=c(2013, 2018, 2023)) +
-  xlab("Year") + 
+  xlab("Year, 2013-2023") + 
   ggtitle("(a)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
@@ -474,7 +474,7 @@ map.year.cannab.bars <-
   scale_fill_manual(name = "", values = c('#fa8072'))+
   scale_colour_manual(name = "", values = c('#fa8072'))+
   scale_x_continuous(breaks=c(2013, 2018, 2023)) +
-  xlab("Year") + 
+  xlab("Year, 2013-2023") + 
   ggtitle("(b)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
@@ -530,7 +530,7 @@ map.year.pbps.bars <-
   scale_fill_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"),labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
   scale_colour_manual(name = "", values = c("#CC0033",'#56B4E9',"#7b6500"), labels=c("Hallucinogens","Prescription stimulants","Prescription benzodiazepines"))+
   scale_x_continuous(breaks=c(2013, 2018, 2023)) +
-  xlab("Year") + 
+  xlab("Year, 2013-2023") + 
   ggtitle("(c)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
