@@ -292,6 +292,24 @@ trend.result<-spread(trend.result0, key = Drug.sample, value = P)
 # save the data
 trend.result %>% write_csv("./outputs/MK trend test p values.csv")
 
+
+# re-formatting the output p-value table based on journal requirements
+format.trend.result0 <- trend_year %>%
+  filter(State!="0.US") %>%
+  mutate(mk_p_formatted = ifelse(is.na(mk_p), "NaN", 
+                                 ifelse(mk_p >= 0.05, format(round(mk_p, 2), nsmall = 2, scientific = FALSE),
+                                        ifelse(mk_p >= 0.001 & mk_p < 0.05, format(round(mk_p, 3), nsmall = 3, scientific = FALSE),
+                                               ifelse(mk_p >= 0.0001 & mk_p < 0.001, format(round(mk_p, 4), nsmall = 4, scientific = FALSE),
+                                                      "<0.0001"))))) %>%
+  select(State, Drug.sample, mk_p_formatted)
+
+format.trend.result<-spread(format.trend.result0, key = Drug.sample, value = mk_p_formatted)
+
+# save the data
+format.trend.result %>% write_csv("./outputs/MK trend test p values_reformat.csv")
+
+
+
 # mk_tau
 tau.result0 <- trend_year %>%
   filter(State!="0.US") %>%
