@@ -30,3 +30,4 @@
 ## Other files
 - `Monthly MK trend test.csv` reports Mann-Kendall trend test results (*tau* and *p* values) for trends in monthly national aggregate fentanyl co-occurrence by substance category, corresponding to **Figure 1**
 - `MK trend test p values.csv` and `MK trend test tau values.csv` report Mann-Kendall trend test *p* and *tau* values respectively for trends in annual state-level fentanyl co-occurrence by substance category, corresponding to **Figure 3**
+- `MK Summary Table.xlsx` combines the annual Mann-Kendall trend test results from `MK trend test p values.csv` and `MK trend test tau values.csv` and applies conditional formatting for ease of interpretation, as displayed in the Supplementary Material (Supplementary Table 5).

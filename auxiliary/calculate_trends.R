@@ -277,46 +277,26 @@ trend_month %>%
 
 # Create appendix table
 # p-values
-trend.result0 <- trend_year %>%
+trend.result <- trend_year %>%
   filter(State!="0.US") %>%
-  mutate(p.value=ifelse(is.na(mk_p), 9999,
-                        ifelse(mk_p>0.001, round(mk_p,3),0))) %>%
-  select(State, Drug.sample, p.value)
-
-trend.result0$P = ifelse(trend.result0$p.value==9999, "NaN",
-                 ifelse(trend.result0$p.value==0, "<0.001",trend.result0$p.value))
-trend.result0 = trend.result0[,-3]
-
-trend.result<-spread(trend.result0, key = Drug.sample, value = P)
+  mutate(p.value = case_when(is.na(mk_p) ~ "NaN",  # Format p-values to journal requirements
+                             mk_p >= 0.05 ~ format(round(mk_p, 2), nsmall = 2, scientific = FALSE), 
+                             mk_p >= 0.001 & mk_p < 0.05 ~ format(round(mk_p, 3), nsmall = 3, scientific = FALSE),
+                             mk_p >= 0.0001 & mk_p < 0.001 ~ format(round(mk_p, 4), nsmall = 4, scientific = FALSE),
+                             mk_p < 0.0001 ~ "<0.0001")) %>%
+  select(State, Drug.sample, p.value) %>% 
+  pivot_wider(names_from=Drug.sample, values_from=p.value) %>% 
+  mutate(across(everything(), \(x) replace_na(x, "NaN")))
 
 # save the data
 trend.result %>% write_csv("./outputs/MK trend test p values.csv")
 
-
-# re-formatting the output p-value table based on journal requirements
-format.trend.result0 <- trend_year %>%
-  filter(State!="0.US") %>%
-  mutate(mk_p_formatted = ifelse(is.na(mk_p), "NaN", 
-                                 ifelse(mk_p >= 0.05, format(round(mk_p, 2), nsmall = 2, scientific = FALSE),
-                                        ifelse(mk_p >= 0.001 & mk_p < 0.05, format(round(mk_p, 3), nsmall = 3, scientific = FALSE),
-                                               ifelse(mk_p >= 0.0001 & mk_p < 0.001, format(round(mk_p, 4), nsmall = 4, scientific = FALSE),
-                                                      "<0.0001"))))) %>%
-  select(State, Drug.sample, mk_p_formatted)
-
-format.trend.result<-spread(format.trend.result0, key = Drug.sample, value = mk_p_formatted)
-
-# save the data
-format.trend.result %>% write_csv("./outputs/MK trend test p values_reformat.csv")
-
-
-
 # mk_tau
-tau.result0 <- trend_year %>%
+tau.result <- trend_year %>%
   filter(State!="0.US") %>%
   mutate(mk.tau=round(mk_tau,3)) %>%
-  select(State, Drug.sample, mk.tau)
-
-tau.result<-spread(tau.result0, key = Drug.sample, value = mk.tau)
+  select(State, Drug.sample, mk.tau) %>% 
+  pivot_wider(names_from=Drug.sample, values_from=mk.tau)
 
 # save the data
 tau.result %>% write_csv("./outputs/MK trend test tau values.csv")
