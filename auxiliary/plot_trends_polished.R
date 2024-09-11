@@ -162,7 +162,7 @@ plotcombine <- annotate_figure(plotcombine,
                                left = text_grob("% of samples of different substances with co-occurrence of fentanyl", 
                                                 size=20, rot=90, face="bold",vjust=2.5), 
                                bottom = text_grob("Year", size=20, face="bold",vjust=-2))
-plotcombine
+
 ggsave(file=str_glue("./figures/Fig1_{datestring}.{fig_ext}"),
        plot=plotcombine, width = 15, height = 15)
 
@@ -344,7 +344,7 @@ map.year.heroin.bars <-
   ) +
   labs(tag = "2013      2018       2023")
 
-ggsave(file=str_glue("./figures/Fig3A_heroin_{datestring}.{fig_ext}"),
+ggsave(file=str_glue("./figures/Fig3_heroin_{datestring}.{fig_ext}"),
        plot=map.year.heroin.bars,width = 16, height = 10, dpi=400)
 
 
@@ -398,9 +398,8 @@ map.year.stims.bars <-
   ) +
   labs(tag = "2013      2018       2023")
 
-ggsave(file=str_glue("./figures/Fig3B_stims_{datestring}.{fig_ext}"),
+ggsave(file=str_glue("./figures/Fig4_stims_{datestring}.{fig_ext}"),
        plot=map.year.stims.bars, width = 16, height = 10, dpi=400)
-
 
 
 ##### Figures Club drugs #####
