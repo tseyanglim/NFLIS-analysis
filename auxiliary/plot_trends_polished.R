@@ -317,7 +317,7 @@ map.year.heroin.bars <-
   scale_fill_manual(name = "", values = "#006ddb")+
   scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
-  ggtitle("(a)")+
+  # ggtitle("(a)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
@@ -371,7 +371,7 @@ map.year.stims.bars <-
   scale_colour_manual(name = "", values = c("#984ea3","#004949"))+
   scale_x_continuous(breaks=c(2013, 2018, 2023)) +
   xlab("Year") + 
-  ggtitle("(b)")+
+  # ggtitle("(b)")+
   theme_bw() +
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.grid.major.x = element_blank(),
