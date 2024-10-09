@@ -1,5 +1,5 @@
 # NFLIS-analysis
-Code for Lim et al., Temporal and spatial trends of fentanyl co-occurrence in the illicit drug supply in the United States
+Code for Lim et al. (2024) Temporal and spatial trends of fentanyl co-occurrence in the illicit drug supply in the United States: a serial cross-sectional analysis. _The Lancet Regional Health – Americas_, Volume 39, 100898. [10.1016/j.lana.2024.100898](https://doi.org/10.1016/j.lana.2024.100898)
 
 For any questions please contact [Tse Yang Lim](mailto:tseyanglim@hsph.harvard.edu)
 
